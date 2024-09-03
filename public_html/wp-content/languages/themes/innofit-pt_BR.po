@@ -1,0 +1,889 @@
+# Translation of Themes - Innofit in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Innofit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-13 08:10:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Innofit\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Innofit WordPress Theme is a one page parallax theme well suited for business website, portfolio, and everyone who appreciate good design. The advance customizer panel will help you in creating a good site without any prior technical knowledge. The theme is responsive, creative, flexible, elegant, clean. It’s a perfect example of a Bootstrap integration in a WordPress theme and is compatible with the latest version of WooCommerce. (Live preview: https://demo.spicethemes.com/?theme=Innofit)"
+msgstr "O tema WordPress Innofit é um tema de paralaxe de uma página adequado para site de negócios, portfólio e para aqueles que apreciam um bom design. O painel personalizador avançado ajudará você a criar um bom site sem qualquer conhecimento técnico prévio. O tema é responsivo, criativo, flexível, elegante, limpo. É um exemplo perfeito de integração do Bootstrap em um tema WordPress e é compatível com a versão mais recente do WooCommerce. (Pré-visualização ao vivo: https://demo.spicethemes.com/?theme=Innofit)"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Innofit"
+msgstr "Innofit"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:16
+msgid "Oops! Page not found"
+msgstr "Opa! Página não encontrada"
+
+#: 404.php:17
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lamentamos, mas a página que você está procurando não existe."
+
+#: 404.php:19
+msgid "Home Page"
+msgstr "Página inicial"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Instalando"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: functions/customizer-notify/innofit-customizer-notify.php:109
+msgid "Activating"
+msgstr "Ativar"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Erro"
+
+#: admin/inc/class-spicethemes-about-page.php:112
+msgid "View Theme Info"
+msgstr "Veja informações do tema"
+
+#: admin/inc/class-spicethemes-about-page.php:122
+msgid "About %1$s %2$s"
+msgstr "Perto %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:123
+msgid "Welcome to %1$s %2$s"
+msgstr "Bem-vindo ao %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:233
+msgid "Getting Started"
+msgstr "Primeiros passos"
+
+#: admin/inc/class-spicethemes-about-page.php:239
+#: functions/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: admin/tab-pages/getting-started.php:181
+msgid "Changelog"
+msgstr "Registro de alterações"
+
+#: admin/inc/class-spicethemes-about-page.php:318
+msgid "Install %s now"
+msgstr "Instale %s agora"
+
+#: admin/inc/class-spicethemes-about-page.php:320
+#: admin/inc/include-companion.php:81
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:60
+msgid "Install and activate"
+msgstr "Instalar e ativar"
+
+#: admin/inc/class-spicethemes-about-page.php:337
+msgid "Activate %s now"
+msgstr "Ativar %s agora"
+
+#: admin/inc/class-spicethemes-about-page.php:339
+#: class-tgm-plugin-activation.php:2724
+#: functions/customizer/customizer-recommended-plugin.php:16
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:80
+msgid "Activate"
+msgstr "Ativar"
+
+#: admin/inc/class-spicethemes-about-page.php:342
+#: class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr "Ativo"
+
+#: admin/inc/class-spicethemes-about-page.php:482
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:484
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Para acessar as seções antecipadas do Frontpage e outros recursos do tema, instale o plug-in SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:487 functions.php:201
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Para aproveitar os recursos deste tema no personalizador, você precisa instalar o plugin SpiceBox."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Instalar o SpiceBox agora"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Você instalou o plugin SpiceBox. Para aproveitar os recursos deste tema no personalizador, você precisa ativá-lo."
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Ative o SpiceBox agora"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Ativar agora"
+
+#: admin/tab-pages/getting-started.php:137
+msgid "Typography"
+msgstr "Tipografia"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Drag and drop section orders"
+msgstr "Arraste e solte ordens de seção"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Mulitple Color Schemes"
+msgstr "Esquema de múltiplas cores"
+
+#: admin/tab-pages/getting-started.php:87
+msgid "Homepage Sections Before / After Hooks"
+msgstr "Seções da Homepage Antes / Depois de Ganchos"
+
+#: admin/tab-pages/getting-started.php:66
+msgid "WPML Support"
+msgstr "Suporte ao WPML"
+
+#: admin/tab-pages/getting-started.php:10
+msgid "Innofit theme Configuration"
+msgstr "Configuração do tema Innofit"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Links to Customizer Settings"
+msgstr "Links para configurações do personalizador"
+
+#: admin/tab-pages/getting-started.php:106
+msgid "Site Logo"
+msgstr "Logo do site"
+
+#: admin/tab-pages/getting-started.php:112
+#: functions/customizer/customizer_layout_settings.php:10
+msgid "Layout"
+msgstr "Layout"
+
+#: admin/tab-pages/getting-started.php:118
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Homepage Sections"
+msgstr "Seções da página inicial"
+
+#: admin/tab-pages/getting-started.php:134
+msgid "Theme Color Schemes"
+msgstr "Esquemas de cores do tema"
+
+#: admin/tab-pages/getting-started.php:140
+msgid "Homepage Section Ordering"
+msgstr "Encomenda da secção da página inicial"
+
+#: admin/tab-pages/getting-started.php:147
+msgid "Useful Links"
+msgstr "Links úteis"
+
+#: admin/tab-pages/getting-started.php:151
+msgid "Innofit Demo"
+msgstr "Innofit Demo"
+
+#: admin/tab-pages/getting-started.php:154
+msgid "Innofit Plus Demo"
+msgstr "Innofit Plus Demo"
+
+#: admin/tab-pages/getting-started.php:157
+msgid "Innofit Theme Support"
+msgstr "Suporte ao tema Innofit"
+
+#: admin/tab-pages/getting-started.php:160
+msgid "Innofit Plus Support"
+msgstr "Suporte Innofit Plus"
+
+#: admin/tab-pages/getting-started.php:163
+msgid "Your feedback is valuable to us"
+msgstr "O seu feedback é valioso para nós"
+
+#: admin/tab-pages/getting-started.php:166
+msgid "Innofit Plus Details"
+msgstr "Innofit Plus Detalhes"
+
+#: admin/tab-pages/getting-started.php:169
+msgid "Innofit Documentation"
+msgstr "Documentação Innofit"
+
+#: admin/tab-pages/getting-started.php:172
+msgid "Innofit Plus Documentation"
+msgstr "Documentação Innofit Plus"
+
+#: admin/tab-pages/getting-started.php:175
+msgid "Pre-sales enquiry"
+msgstr "Consulta pré-venda"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este post é protegido por senha. Digite a senha pra ver os comentários."
+
+#: comments.php:16
+msgid "Reply"
+msgstr "Responda"
+
+#: comments.php:26
+msgid "Posted on "
+msgstr "Publicado em"
+
+#: comments.php:28
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está aguardando moderação."
+
+#: comments.php:46
+msgid "No comments so far"
+msgstr "Não há comentários até agora"
+
+#: comments.php:46
+msgid "1 comment so far"
+msgstr "1 comentário até agora"
+
+#: comments.php:46
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: comments.php:53
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários antigos"
+
+#: comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Comentários recentes &rarr;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#. translators: %s is Link to login
+#: comments.php:65
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Você precisa fazer o <a href=\"%s\">login</a> para publicar um comentário."
+
+#: comments.php:75
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:76
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:77
+msgid "Website"
+msgstr "Site"
+
+#: comments.php:86
+msgid "Message"
+msgstr "Messagem"
+
+#: comments.php:87
+msgid "Logged in as"
+msgstr "Autenticado como"
+
+#: comments.php:87
+msgid "Log out of this account"
+msgstr "Fazer logout desta conta."
+
+#: comments.php:87
+msgid "Logout"
+msgstr "Sair"
+
+#: comments.php:89
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: comments.php:93
+msgid "Leave a Reply"
+msgstr "Deixe uma resposta"
+
+#: content-page.php:4 functions.php:137
+#: template/template-page-full-width.php:26
+msgid "Read More"
+msgstr "Ler mais"
+
+#: content.php:58 template-parts/content-single.php:68
+msgid "By "
+msgstr "Por"
+
+#: functions.php:80
+msgid "Page"
+msgstr "Página"
+
+#: functions.php:101
+#: functions/customizer/customizer_add_color_back_settings.php:128
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:69
+#: functions/breadcrumbs/breadcrumbs.php:132
+#: functions/breadcrumbs/breadcrumbs.php:136
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Início"
+
+#: functions/breadcrumbs/breadcrumbs.php:72
+#: functions/breadcrumbs/breadcrumbs.php:139
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: functions/breadcrumbs/breadcrumbs.php:122
+#: functions/breadcrumbs/breadcrumbs.php:189
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:36
+#: functions/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Adicione um novo campo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:41
+#: functions/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Repetidor personalizado"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:310
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:488
+#: functions/customizer-repeater/class/customizer-repeater-control.php:310
+#: functions/customizer-repeater/class/customizer-repeater-control.php:488
+#: functions/widgets/wdl_featured_latest_news.php:98
+msgid "Title"
+msgstr "Título"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:319
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:497
+#: functions/customizer-repeater/class/customizer-repeater-control.php:319
+#: functions/customizer-repeater/class/customizer-repeater-control.php:497
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:326
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:504
+#: functions/customizer-repeater/class/customizer-repeater-control.php:326
+#: functions/customizer-repeater/class/customizer-repeater-control.php:504
+msgid "Description"
+msgstr "Descrição"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:334
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:512
+#: functions/customizer-repeater/class/customizer-repeater-control.php:334
+#: functions/customizer-repeater/class/customizer-repeater-control.php:512
+msgid "Features"
+msgstr "Características"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:345
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:522
+#: functions/customizer-repeater/class/customizer-repeater-control.php:345
+#: functions/customizer-repeater/class/customizer-repeater-control.php:522
+#: functions/customizer/customizer_typography.php:1046
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:356
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:532
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:780
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:802
+#: functions/customizer-repeater/class/customizer-repeater-control.php:356
+#: functions/customizer-repeater/class/customizer-repeater-control.php:532
+#: functions/customizer-repeater/class/customizer-repeater-control.php:780
+#: functions/customizer-repeater/class/customizer-repeater-control.php:802
+msgid "Link"
+msgstr "Link"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:370
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:545
+#: functions/customizer-repeater/class/customizer-repeater-control.php:370
+#: functions/customizer-repeater/class/customizer-repeater-control.php:545
+msgid "Price"
+msgstr "Preço"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:392
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:566
+#: functions/customizer-repeater/class/customizer-repeater-control.php:392
+#: functions/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Video Url"
+msgstr "URL de vídeo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:416
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:480
+#: functions/customizer-repeater/class/customizer-repeater-control.php:416
+#: functions/customizer-repeater/class/customizer-repeater-control.php:480
+msgid "Color"
+msgstr "Cor"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:426
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:577
+#: functions/customizer-repeater/class/customizer-repeater-control.php:426
+#: functions/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:434
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:586
+#: functions/customizer-repeater/class/customizer-repeater-control.php:434
+#: functions/customizer-repeater/class/customizer-repeater-control.php:586
+msgid "Designation"
+msgstr "Designação"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:597
+#: functions/customizer-repeater/class/customizer-repeater-control.php:597
+msgid "Delete field"
+msgstr "Excluir campo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:634
+#: functions/customizer-repeater/class/customizer-repeater-control.php:634
+msgid "Open link in new tab:"
+msgstr "Abrir link em uma nova aba:"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:645
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:756
+#: functions/customizer-repeater/class/customizer-repeater-control.php:645
+#: functions/customizer-repeater/class/customizer-repeater-control.php:756
+msgid "Icon"
+msgstr "Ícone"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:650
+#: functions/customizer-repeater/class/customizer-repeater-control.php:650
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: Alguns ícones talvez não sejam exibidos aqui. Você pode ver a lista completa de ícones em %1$s."
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:651
+#: functions/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:692
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:757
+#: functions/customizer-repeater/class/customizer-repeater-control.php:692
+#: functions/customizer-repeater/class/customizer-repeater-control.php:757
+msgid "Image"
+msgstr "Imagem"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:695
+#: functions/customizer-repeater/class/customizer-repeater-control.php:695
+msgid "Upload Image"
+msgstr "Enviar Imagem"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:704
+#: functions/customizer-repeater/class/customizer-repeater-control.php:704
+msgid "Slide Format"
+msgstr "Formato de Slide"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:708
+#: functions/customizer-repeater/class/customizer-repeater-control.php:708
+msgid "Standard"
+msgstr "Padrão"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:712
+#: functions/customizer-repeater/class/customizer-repeater-control.php:712
+msgid "Aside"
+msgstr "Nota"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:716
+#: functions/customizer-repeater/class/customizer-repeater-control.php:716
+msgid "Quote"
+msgstr "Citação"
+
+#: class-tgm-plugin-activation.php:2552
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:720
+#: functions/customizer-repeater/class/customizer-repeater-control.php:720
+msgid "Status"
+msgstr "Status"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:724
+#: functions/customizer-repeater/class/customizer-repeater-control.php:724
+msgid "Video"
+msgstr "Vídeo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:735
+#: functions/customizer-repeater/class/customizer-repeater-control.php:735
+msgid "Price highlight"
+msgstr "Preço em destaque"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:739
+#: functions/customizer-repeater/class/customizer-repeater-control.php:739
+msgid "Highlight"
+msgstr "Destaque"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:743
+#: functions/customizer-repeater/class/customizer-repeater-control.php:743
+msgid "Non highlight"
+msgstr "Sem destaque"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:753
+#: functions/customizer-repeater/class/customizer-repeater-control.php:753
+msgid "Image type"
+msgstr "Tipo de imagem"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:758
+#: functions/customizer-repeater/class/customizer-repeater-control.php:758
+msgid "None"
+msgstr "Nenhum"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:766
+#: functions/customizer-repeater/class/customizer-repeater-control.php:766
+msgid "Social icons"
+msgstr "Ícones sociais"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:783
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:813
+#: functions/customizer-repeater/class/customizer-repeater-control.php:783
+#: functions/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Remove Icon"
+msgstr "Remover ícone"
+
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:788
+#: functions/customizer-repeater/class/customizer-repeater-control-plus.php:821
+#: functions/customizer-repeater/class/customizer-repeater-control.php:788
+#: functions/customizer-repeater/class/customizer-repeater-control.php:821
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: functions/customizer/customizer-page-editor/class/class-innofit-page-editor.php:61
+msgid "About background"
+msgstr "Sobre o fundo"
+
+#: functions/customizer/customizer-page-editor/class/class-innofit-page-editor.php:77
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions/customizer/customizer-page-editor/customizer-page-editor.php:26
+msgid "Save and close"
+msgstr "Salvar e fechar"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PLUS"
+msgstr "ATUALIZE PARA PRO"
+
+#: functions/customizer/customizer-pro.php:20
+msgid "Upgrade to Plus"
+msgstr "Atualize para a versão PLUS"
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:56
+msgid "Customize > Widgets > Subscriber section widget area"
+msgstr "Personalizar > Widgets > Área do widget de seção do assinante"
+
+#. translators: %1$s is Path wrapped in <b>, %2$s is Plugin link
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:64
+msgid "The main content of this section is customizable in: %1$s. Once there, you need to add the \"SendinBlue Newsletter\" widget. But first, you will need to install %2$s."
+msgstr "O conteúdo principal desta seção é personalizável em:%1$s. Uma vez lá, você precisa adicionar o widget \"SendinBlue Newsletter\". Mas primeiro, você precisará instalar %2$s."
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:66
+msgid "SendinBlue plugin"
+msgstr "Plugin SendinBlue"
+
+#. translators: %s Path in plugin wrapped
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:74
+msgid "After installing the plugin, you need to navigate to %s and configure it."
+msgstr "Depois de instalar o plugin, você precisa navegar para %s e configurá-lo."
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:82
+msgid "And then you need to navigate to its Settings, and use the following markup in the Subscription form:"
+msgstr "E então você precisa navegar para suas configurações e usar a seguinte marcação no formulário de inscrição:"
+
+#: functions/customizer/customizer-subscribe-info/templates/subscribe-textarea-content.php:15
+msgid "Enter Your Email"
+msgstr "Digite seu e-mail"
+
+#: functions/customizer/customizer_color_back_settings.php:16
+#: functions/customizer/customizer_layout_settings.php:35
+msgid "Footer"
+msgstr "Rodapé"
+
+#: functions/customizer/customizer_add_color_back_settings.php:11
+#: functions/customizer/customizer_layout_settings.php:15
+#: functions/customizer/customizer_typography.php:153
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: functions/customizer/customizer_layout_settings.php:26
+msgid "Banner Image"
+msgstr "Imagem de banner"
+
+#: functions/customizer/customizer_layout_settings.php:28
+msgid "This is the default banner image used in pages / posts / blog / archive."
+msgstr "Esta é a imagem de banner padrão usada em páginas / posts / blog / arquivo."
+
+#: functions/customizer/customizer_layout_settings.php:59
+msgid "Blog / Archive"
+msgstr "Blog / Arquivo"
+
+#: functions/customizer/customizer_layout_settings.php:78
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Ative metadados do post, como nome do autor, data, comentários etc."
+
+#: functions/customizer/customizer_layout_settings.php:104
+msgid "Archive"
+msgstr "Arquivar"
+
+#: functions/customizer/customizer_layout_settings.php:112
+#: functions/customizer/customizer_layout_settings.php:118
+#: functions/template-tags.php:73
+msgid "Category"
+msgstr "Categoria"
+
+#: functions/customizer/customizer_layout_settings.php:126
+#: functions/template-tags.php:79
+msgid "All posts by"
+msgstr "Todos os posts de"
+
+#: functions/customizer/customizer_layout_settings.php:132
+msgid "Author"
+msgstr "Autor"
+
+#: functions/customizer/customizer_layout_settings.php:140
+#: functions/customizer/customizer_layout_settings.php:146
+#: functions/template-tags.php:37 functions/template-tags.php:85
+msgid "Tag"
+msgstr "Tag"
+
+#: functions/customizer/customizer_layout_settings.php:155
+#: functions/template-tags.php:105
+msgid "Search results for"
+msgstr "Resultados da pesquisa por"
+
+#: functions/customizer/customizer_layout_settings.php:161 searchform.php:2
+#: searchform.php:3
+msgid "Search"
+msgstr "Procurar"
+
+#: functions/customizer/customizer_layout_settings.php:169
+#: functions/customizer/customizer_layout_settings.php:175
+#: functions/template-tags.php:115
+msgid "404"
+msgstr "404"
+
+#: functions/customizer/customizer_layout_settings.php:183
+#: functions/customizer/customizer_layout_settings.php:189
+#: functions/template-tags.php:91
+msgid "Shop"
+msgstr "Loja"
+
+#: functions/customizer/customizer-recommended-plugin.php:14
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: functions/customizer/customizer-recommended-plugin.php:15
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: functions/customizer/customizer-recommended-plugin.php:17
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: functions/widgets/wdl_social_icon.php:194
+msgid "Twitter URL"
+msgstr "URL do Twitter "
+
+#: functions/widgets/wdl_social_icon.php:200
+msgid "LinkedIn URL"
+msgstr " URL do LinkedIn"
+
+#: functions/widgets/wdl_social_icon.php:206
+msgid "Instagram URL"
+msgstr "URL do Instagram"
+
+#: functions/widgets/wdl_social_icon.php:191
+#: functions/widgets/wdl_social_icon.php:197
+#: functions/widgets/wdl_social_icon.php:203
+#: functions/widgets/wdl_social_icon.php:209
+#: functions/widgets/wdl_social_icon.php:215
+#: functions/widgets/wdl_social_icon.php:221
+#: functions/widgets/wdl_social_icon.php:227
+#: functions/widgets/wdl_social_icon.php:233
+msgid "Open link in new tab"
+msgstr "Abrir o link em uma nova aba"
+
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:123
+msgid "Activating "
+msgstr "Ativando"
+
+#: functions/template-tags.php:26
+msgid "By"
+msgstr "Por"
+
+#: functions/template-tags.php:32
+msgid "in"
+msgstr "em"
+
+#: functions/customizer/customizer_layout_settings.php:98
+#: functions/template-tags.php:55
+msgid "Archives"
+msgstr "Arquivos"
+
+#: functions/template-tags.php:61 functions/template-tags.php:65
+#: functions/template-tags.php:69 functions/template-tags.php:75
+#: functions/template-tags.php:81 functions/template-tags.php:87
+#: functions/template-tags.php:93 functions/template-tags.php:109
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions/template-tags.php:144
+msgid "previous page"
+msgstr "Página anterior"
+
+#: functions/template-tags.php:144
+msgid "next page"
+msgstr "Página seguinte"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "Área de widget da barra lateral"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "Área esquerda do widget de rodapé"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "Área central do widget de rodapé"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "Área direita de widget do rodapé"
+
+#: functions/widgets/sidebars.php:49 functions/widgets/sidebars.php:51
+msgid "Social media menu lateral area"
+msgstr "Área lateral do menu de mídia social"
+
+#: functions/widgets/sidebars.php:58 functions/widgets/sidebars.php:60
+msgid "Subscriber section widget area"
+msgstr "Área de widget da seção Assinar"
+
+#: functions/widgets/sidebars.php:65 functions/widgets/sidebars.php:67
+msgid "WooCommerce sidebar widget area"
+msgstr "Área de widget WooCommerce da lateral"
+
+#: functions/widgets/wdl_featured_latest_news.php:14
+msgid "ST: Latest News"
+msgstr "ST: Últimas Notícias"
+
+#: functions/widgets/wdl_featured_latest_news.php:15
+msgid "Display your recent posts on your website"
+msgstr "Exibe os posts mais recentes no seu website"
+
+#: functions/widgets/wdl_featured_latest_news.php:103
+msgid "Number of posts to show"
+msgstr "Número de posts para mostrar"
+
+#: functions/widgets/wdl_featured_latest_news.php:108
+msgid "Select blog category"
+msgstr "Selecione a categoria do blog"
+
+#: functions/widgets/wdl_featured_latest_news.php:110
+msgid "Select category"
+msgstr "Selecione a categoria"
+
+#: functions/widgets/wdl_featured_latest_news.php:124
+msgid "Featured post image size"
+msgstr "Tamanho da imagem do post em destaque"
+
+#: functions/widgets/wdl_featured_latest_news.php:126
+msgid "Select post image size"
+msgstr "Selecione o tamanho da imagem do post"
+
+#: functions/widgets/wdl_featured_latest_news.php:127
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: functions/widgets/wdl_featured_latest_news.php:128
+msgid "Medium"
+msgstr "Médio"
+
+#: functions/widgets/wdl_featured_latest_news.php:129
+msgid "Large"
+msgstr "Grande"
+
+#: functions/widgets/wdl_featured_latest_news.php:130
+msgid "Full"
+msgstr "Completo"
+
+#: functions/widgets/wdl_featured_latest_news.php:135
+msgid "Enable feature image"
+msgstr "Ativar imagem em destaque"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "ST: Social icons"
+msgstr "ST: Ícones sociais"
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "Innofit social icons widget"
+msgstr "Widget de ícones sociais Innofit"
+
+#: functions/widgets/wdl_social_icon.php:188
+msgid "Facebook URL"
+msgstr "URL do Facebook"
+
+#: functions/widgets/wdl_social_icon.php:212
+msgid "Youtube URL"
+msgstr "URL do YouTube"
+
+#: functions/widgets/wdl_social_icon.php:218
+msgid "Skype URL"
+msgstr " URL do Skype"
+
+#: functions/widgets/wdl_social_icon.php:224
+msgid "Vimeo URL"
+msgstr "URL do Vimeo"
+
+#: functions/widgets/wdl_social_icon.php:230
+msgid "Dribble URL"
+msgstr "URL do Dribble"
+
+#: functions/template-tags.php:393
+msgid "Toggle navigation"
+msgstr "Alternar navegação"
+
+#: search.php:31
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: search.php:32
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nada coincide com seus critérios de pesquisa. Tente outra vez com palavras-chave diferentes."
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Modelo Business"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "Full-width page"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/innofit/"
+msgstr "https://spicethemes.com/innofit/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"

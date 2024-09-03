@@ -1,0 +1,4354 @@
+# Translation of Plugins - Premium Addons for Elementor - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Premium Addons for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-20 09:03:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Premium Addons for Elementor - Stable (latest release)\n"
+
+#: modules/premium-equal-height/module.php:174
+#: widgets/premium-media-wheel.php:1168
+msgid "Page Load"
+msgstr "Carregamento de página"
+
+#: admin/includes/templates/nav-menu-settings.php:174
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+#: widgets/premium-videobox.php:887
+msgid "Start Time"
+msgstr "Hora de início"
+
+#: widgets/premium-videobox.php:903
+msgid "End Time"
+msgstr "Fim do tempo"
+
+#: widgets/premium-videobox.php:905
+msgid "Specify an end time (in seconds)"
+msgstr "Especifique um horário final (em segundos)"
+
+#: widgets/premium-videobox.php:573
+msgid "Player Controls"
+msgstr "Controles do reprodutor"
+
+#: widgets/premium-vscroll.php:432
+msgid "Lines"
+msgstr "Linhas"
+
+#: widgets/premium-vscroll.php:431
+msgid "Circles"
+msgstr "Círculos "
+
+#: widgets/premium-vscroll.php:428
+msgid "Shape"
+msgstr "Forma"
+
+#: widgets/premium-testimonials.php:53 widgets/premium-testimonials.php:147
+msgid "Testimonial"
+msgstr "Testemunho"
+
+#: widgets/premium-person.php:582 widgets/premium-person.php:863
+msgid "Skype"
+msgstr "Skype"
+
+#: widgets/premium-person.php:568 widgets/premium-person.php:849
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/premium-progressbar.php:870
+msgid "Speed (milliseconds)"
+msgstr "Velocidade (milissegundos)"
+
+#: widgets/premium-vscroll.php:371
+msgid "Menu Items"
+msgstr "Itens do menu"
+
+#: widgets/premium-vscroll.php:184
+msgid "Choose which method you prefer to insert sections."
+msgstr "Escolha qual método você prefere inserir seções."
+
+#: widgets/premium-vscroll.php:186
+msgid "Elementor Templates"
+msgstr "Elementor modelos"
+
+#: widgets/premium-vscroll.php:187 widgets/premium-vscroll.php:232
+#: widgets/premium-vscroll.php:257
+msgid "Section ID"
+msgstr "ID da seção"
+
+#: widgets/premium-videobox.php:590
+msgid "This will play the video muted"
+msgstr "Isto irá reproduzir o vídeo silenciado"
+
+#: widgets/premium-vscroll.php:823
+msgid "Dots Border Color"
+msgstr "Cor da borda dos pontos"
+
+#: widgets/premium-vscroll.php:809
+msgid "Active Dot Color"
+msgstr "Cor ativa dos pontos"
+
+#: widgets/premium-vscroll.php:795
+msgid "Dots Color"
+msgstr "Cor do pontos"
+
+#: widgets/premium-vscroll.php:700
+msgid "Tooltips Background"
+msgstr "Fundo tooltips(dicas)"
+
+#: widgets/premium-vscroll.php:669
+msgid "Tooltips Text Color"
+msgstr "Cor do texto das dicas de ferramentas"
+
+#: widgets/premium-pricing-table.php:2332 widgets/premium-vscroll.php:659
+msgid "Tooltips"
+msgstr "Tooltips"
+
+#: widgets/premium-vscroll.php:573
+msgid "Full Section Scroll"
+msgstr "Rolagem de seção completa"
+
+#: widgets/premium-vscroll.php:555
+msgid "Set scolling speed in seconds, default: 0.7"
+msgstr "Ajuste a velocidade de rolagem nos segundos, padrão: 0,7"
+
+#: widgets/premium-vscroll.php:503
+msgid "Scroll Settings"
+msgstr "Configurações de rolagem"
+
+#: widgets/premium-vscroll.php:459
+msgid "Add text for each navigation dot separated by ','"
+msgstr "Adicionar texto para cada ponto de navegação separado por ', '"
+
+#: widgets/premium-vscroll.php:456
+msgid "Dots Tooltips Text"
+msgstr "Texto dos pontos tooltips(dica)"
+
+#: widgets/premium-vscroll.php:362
+msgid "List Item"
+msgstr "Item da lista"
+
+#: widgets/premium-vscroll.php:344
+msgid "Offset Right"
+msgstr "Deslocamento á direita"
+
+#: widgets/premium-vscroll.php:328
+msgid "Offset Left"
+msgstr "Deslocamento á esquerda"
+
+#: widgets/premium-vscroll.php:313
+msgid "Offset Top"
+msgstr "Deslocamento superior"
+
+#: widgets/premium-vscroll.php:290
+msgid "This option works only on the frontend"
+msgstr "Esta opção funciona apenas no frontend"
+
+#: widgets/premium-vscroll.php:288 widgets/premium-vscroll.php:899
+msgid "Navigation Menu"
+msgstr "Menu de navegação"
+
+#: widgets/premium-pricing-table.php:516 widgets/premium-pricing-table.php:1818
+msgid "Slashed Price"
+msgstr "Preço reduzido"
+
+#: widgets/premium-modalbox.php:2082 widgets/premium-notifications.php:708
+msgid "Max Height"
+msgstr "Altura máxima"
+
+#: includes/helper-functions.php:336
+msgid "Chinese (traditional)"
+msgstr "Chinês (tradicional)"
+
+#: includes/helper-functions.php:335
+msgid "Chinese (simplified)"
+msgstr "Chinês (simplificado)"
+
+#: includes/helper-functions.php:334 widgets/premium-weather.php:404
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: includes/helper-functions.php:333 widgets/premium-weather.php:403
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+#: includes/helper-functions.php:332 widgets/premium-weather.php:402
+msgid "Turkish"
+msgstr "Turco"
+
+#: includes/helper-functions.php:331 widgets/premium-weather.php:401
+msgid "Thai"
+msgstr "Tailandês"
+
+#: includes/helper-functions.php:330
+msgid "Telugu"
+msgstr "Télugo"
+
+#: widgets/premium-blog.php:1079 widgets/premium-grid.php:446
+msgid "Filter Tabs"
+msgstr "Filtrar abas"
+
+#: widgets/premium-grid.php:1222 widgets/premium-media-wheel.php:1237
+#: widgets/premium-videobox.php:1374
+msgid "Dark Square"
+msgstr "Quadrado escuro"
+
+#: widgets/premium-grid.php:1221 widgets/premium-media-wheel.php:1236
+#: widgets/premium-videobox.php:1373
+msgid "Light Square"
+msgstr "Quadrado claro"
+
+#: widgets/premium-grid.php:1220 widgets/premium-media-wheel.php:1235
+#: widgets/premium-videobox.php:1372
+msgid "Dark Rounded"
+msgstr "Redondo escuro"
+
+#: widgets/premium-grid.php:1219 widgets/premium-media-wheel.php:1234
+#: widgets/premium-videobox.php:1371
+msgid "Light Rounded"
+msgstr "Redondo claro"
+
+#: widgets/premium-grid.php:1215 widgets/premium-media-wheel.php:1230
+#: widgets/premium-videobox.php:1367
+msgid "Lightbox Theme"
+msgstr "Tema Lightbox"
+
+#: widgets/premium-blog.php:168 widgets/premium-notifications.php:199
+msgid "Classic"
+msgstr "Clássico"
+
+#: widgets/premium-blog.php:170
+msgid "Cards"
+msgstr "Cartões"
+
+#: widgets/premium-grid.php:233
+msgid "Images Fit"
+msgstr "Ajustar imagens"
+
+#: widgets/premium-banner.php:748 widgets/premium-blog.php:1719
+#: widgets/premium-grid.php:1474 widgets/premium-image-separator.php:865
+#: widgets/premium-media-wheel.php:1305 widgets/premium-modalbox.php:1230
+#: widgets/premium-notifications.php:2895 widgets/premium-person.php:1170
+#: widgets/premium-pinterest-feed.php:1724 widgets/premium-testimonials.php:899
+#: widgets/premium-textual-showcase.php:2018
+#: widgets/premium-tiktok-feed.php:1415
+msgid "Hover CSS Filters"
+msgstr "Hover CSS Filters"
+
+#: widgets/premium-blog.php:997 widgets/premium-notifications.php:1633
+#: widgets/premium-pinterest-feed.php:670 widgets/premium-tiktok-feed.php:552
+msgid "Read More Text"
+msgstr "Leia mais texto"
+
+#: modules/premium-global-tooltips/module.php:600
+#: modules/woocommerce/widgets/woo-products.php:1468
+#: widgets/premium-banner.php:324 widgets/premium-blog.php:673
+#: widgets/premium-grid.php:237 widgets/premium-image-scroll.php:309
+#: widgets/premium-image-scroll.php:482 widgets/premium-image-separator.php:315
+#: widgets/premium-image-separator.php:651 widgets/premium-media-wheel.php:240
+#: widgets/premium-media-wheel.php:432 widgets/premium-notifications.php:1854
+#: widgets/premium-pinterest-feed.php:760
+#: widgets/premium-textual-showcase.php:325
+#: widgets/premium-textual-showcase.php:933 widgets/premium-tiktok-feed.php:704
+#: widgets/premium-videobox.php:1063 widgets/premium-videobox.php:1183
+msgid "Cover"
+msgstr "Cobrir"
+
+#: widgets/premium-banner.php:247
+msgid "Effect 6"
+msgstr "Efeito 6"
+
+#: widgets/premium-banner.php:245
+msgid "Effect 4"
+msgstr "Efeito 4"
+
+#: widgets/premium-banner.php:244
+msgid "Effect 3"
+msgstr "Efeito 3"
+
+#: widgets/premium-banner.php:243
+msgid "Effect 2"
+msgstr "Efeito 2"
+
+#: widgets/premium-banner.php:242
+msgid "Effect 1"
+msgstr "Efeito 1"
+
+#: modules/premium-global-tooltips/module.php:767
+#: widgets/premium-image-scroll.php:572 widgets/premium-pinterest-feed.php:283
+#: widgets/premium-pinterest-feed.php:489
+#: widgets/premium-pinterest-feed.php:591
+#: widgets/premium-pinterest-feed.php:621
+#: widgets/premium-pinterest-feed.php:632
+#: widgets/premium-pinterest-feed.php:688
+#: widgets/premium-pinterest-feed.php:712 widgets/premium-tiktok-feed.php:269
+#: widgets/premium-tiktok-feed.php:373 widgets/premium-tiktok-feed.php:476
+#: widgets/premium-tiktok-feed.php:503 widgets/premium-tiktok-feed.php:514
+#: widgets/premium-tiktok-feed.php:570 widgets/premium-tiktok-feed.php:596
+#: widgets/premium-tiktok-feed.php:607 widgets/premium-tiktok-feed.php:618
+#: widgets/premium-tiktok-feed.php:630 widgets/premium-tiktok-feed.php:783
+#: widgets/premium-videobox.php:297 widgets/premium-videobox.php:952
+#: widgets/premium-videobox.php:966 widgets/premium-videobox.php:980
+#: widgets/premium-videobox.php:996 widgets/premium-videobox.php:1009
+#: widgets/premium-weather.php:464 widgets/premium-weather.php:483
+#: widgets/premium-weather.php:494 widgets/premium-weather.php:508
+#: widgets/premium-weather.php:930 widgets/premium-weather.php:974
+msgid "Hide"
+msgstr "Ocultar"
+
+#: modules/premium-global-tooltips/module.php:766
+#: widgets/premium-image-scroll.php:571 widgets/premium-pinterest-feed.php:282
+#: widgets/premium-pinterest-feed.php:488
+#: widgets/premium-pinterest-feed.php:590
+#: widgets/premium-pinterest-feed.php:620
+#: widgets/premium-pinterest-feed.php:631
+#: widgets/premium-pinterest-feed.php:687
+#: widgets/premium-pinterest-feed.php:711 widgets/premium-tiktok-feed.php:268
+#: widgets/premium-tiktok-feed.php:372 widgets/premium-tiktok-feed.php:475
+#: widgets/premium-tiktok-feed.php:502 widgets/premium-tiktok-feed.php:513
+#: widgets/premium-tiktok-feed.php:569 widgets/premium-tiktok-feed.php:595
+#: widgets/premium-tiktok-feed.php:606 widgets/premium-tiktok-feed.php:617
+#: widgets/premium-tiktok-feed.php:629 widgets/premium-tiktok-feed.php:782
+#: widgets/premium-videobox.php:296 widgets/premium-videobox.php:951
+#: widgets/premium-videobox.php:965 widgets/premium-videobox.php:979
+#: widgets/premium-videobox.php:995 widgets/premium-videobox.php:1008
+#: widgets/premium-weather.php:463 widgets/premium-weather.php:482
+#: widgets/premium-weather.php:493 widgets/premium-weather.php:507
+#: widgets/premium-weather.php:929 widgets/premium-weather.php:973
+msgid "Show"
+msgstr "Mostrar"
+
+#: widgets/premium-image-scroll.php:512
+msgid "Mouse Scroll"
+msgstr "Rolagem do mouse"
+
+#: widgets/premium-image-scroll.php:497 widgets/premium-post-ticker.php:842
+msgid "Reverse Direction"
+msgstr "Direção oposta"
+
+#: widgets/premium-image-scroll.php:465
+msgid "Select Scroll Direction"
+msgstr "Selecione a direção da rolagem"
+
+#: modules/premium-section-floating-effects/module.php:866
+#: widgets/premium-dual-header.php:580 widgets/premium-image-scroll.php:464
+#: widgets/premium-textual-showcase.php:1636 widgets/premium-title.php:1039
+msgid "Direction"
+msgstr "Direção"
+
+#: widgets/premium-image-scroll.php:522
+msgid "Set the scroll speed value. The value will be counted in seconds (s)"
+msgstr "Defina o valor da velocidade de rolagem. O valor será contado em segundos (s)"
+
+#: widgets/premium-image-scroll.php:180
+msgid "Choose the scroll image"
+msgstr "Escolha a imagem de rolagem"
+
+#: widgets/premium-button.php:673 widgets/premium-counter.php:494
+#: widgets/premium-icon-list.php:420 widgets/premium-icon-list.php:1077
+#: widgets/premium-image-button.php:666 widgets/premium-image-scroll.php:521
+#: widgets/premium-image-separator.php:411 widgets/premium-lottie.php:265
+#: widgets/premium-media-wheel.php:1050 widgets/premium-modalbox.php:653
+#: widgets/premium-notifications.php:375 widgets/premium-notifications.php:1068
+#: widgets/premium-post-ticker.php:518 widgets/premium-pricing-table.php:330
+#: widgets/premium-pricing-table.php:704 widgets/premium-pricing-table.php:981
+#: widgets/premium-progressbar.php:514 widgets/premium-svg-drawer.php:408
+#: widgets/premium-textual-showcase.php:418
+#: widgets/premium-textual-showcase.php:1026 widgets/premium-title.php:417
+msgid "Speed"
+msgstr "Velocidade"
+
+#: modules/woocommerce/skins/skin-4.php:97
+#: modules/woocommerce/skins/skin-8.php:266
+#: widgets/premium-image-scroll.php:569 widgets/premium-media-wheel.php:1569
+#: widgets/premium-tiktok-feed.php:1394 widgets/premium-videobox.php:1079
+#: widgets/premium-videobox.php:1421
+msgid "Overlay"
+msgstr "Sobreposição"
+
+#: widgets/premium-grid.php:1236 widgets/premium-media-wheel.php:1251
+msgid "Overlay Gallery Images"
+msgstr "Sobreposição de galeria de imagens"
+
+#: widgets/premium-grid.php:648
+msgid "Works only when layout set to 'Metro'"
+msgstr "Funciona apenas quando o layout definido como 'metro'"
+
+#: widgets/premium-grid.php:197
+msgid "Metro"
+msgstr "Metro"
+
+#: modules/woocommerce/widgets/woo-products.php:269
+#: widgets/premium-blog.php:224 widgets/premium-grid.php:184
+#: widgets/premium-media-wheel.php:1010 widgets/premium-nav-menu.php:769
+#: widgets/premium-nav-menu.php:1185 widgets/premium-pinterest-feed.php:792
+#: widgets/premium-post-ticker.php:272 widgets/premium-tiktok-feed.php:875
+#: widgets/premium-videobox.php:410 widgets/premium-world-clock.php:232
+msgid "Layout"
+msgstr "Layout"
+
+#: modules/woocommerce/widgets/woo-products.php:449
+#: widgets/premium-blog.php:1321 widgets/premium-person.php:1052
+#: widgets/premium-pinterest-feed.php:1085 widgets/premium-testimonials.php:519
+#: widgets/premium-tiktok-feed.php:1118
+msgid "Arrows Position"
+msgstr "Posição das setas"
+
+#: widgets/premium-blog.php:1213 widgets/premium-person.php:1025
+#: widgets/premium-pinterest-feed.php:984 widgets/premium-testimonials.php:421
+#: widgets/premium-tiktok-feed.php:1017
+msgid "Auto Play"
+msgstr "Reprodução automática"
+
+#: widgets/premium-blog.php:1191 widgets/premium-pinterest-feed.php:962
+#: widgets/premium-tiktok-feed.php:995
+msgid "Enable Carousel"
+msgstr "Ativar carrossel"
+
+#: modules/woocommerce/widgets/woo-products.php:913
+#: widgets/premium-blog.php:1394
+msgid "Previous Page String"
+msgstr "String de página anterior"
+
+#: modules/woocommerce/widgets/woo-products.php:926
+#: widgets/premium-blog.php:1407
+msgid "Next Page String"
+msgstr "String da próxima página"
+
+#: modules/woocommerce/widgets/woo-products.php:516
+#: modules/woocommerce/widgets/woo-products.php:1096
+#: modules/woocommerce/widgets/woo-products.php:2517
+#: widgets/premium-carousel.php:388 widgets/premium-dual-header.php:477
+#: widgets/premium-nav-menu.php:4358 widgets/premium-pricing-table.php:1356
+#: widgets/premium-title.php:961
+msgid "Vertical Offset"
+msgstr "Deslocamento vertical"
+
+#: modules/woocommerce/widgets/woo-products.php:500
+#: modules/woocommerce/widgets/woo-products.php:1055
+#: modules/woocommerce/widgets/woo-products.php:2499
+#: widgets/premium-carousel.php:372 widgets/premium-dual-header.php:448
+#: widgets/premium-nav-menu.php:4337 widgets/premium-pricing-table.php:1302
+#: widgets/premium-pricing-table.php:1329 widgets/premium-title.php:932
+msgid "Horizontal Offset"
+msgstr "Deslocamento horizontal"
+
+#: widgets/premium-carousel.php:361
+msgid "On Slides"
+msgstr "Nos slides"
+
+#: widgets/premium-carousel.php:360
+msgid "Below Slides"
+msgstr "Abaixo dos slides"
+
+#: widgets/premium-carousel.php:463
+msgid "Zoom Effect"
+msgstr "Efeito de zoom"
+
+#: widgets/premium-carousel.php:453
+msgid "Enable fade transition between slides"
+msgstr "Ativar transição de fade entre slides"
+
+#: modules/premium-global-tooltips/module.php:894 widgets/premium-blog.php:1200
+#: widgets/premium-carousel.php:451 widgets/premium-pinterest-feed.php:972
+#: widgets/premium-post-ticker.php:1868 widgets/premium-tiktok-feed.php:1005
+msgid "Fade"
+msgstr "Fade"
+
+#: modules/woocommerce/widgets/woo-products.php:840
+#: widgets/premium-blog.php:528 widgets/premium-notifications.php:1448
+#: widgets/premium-pinterest-feed.php:411 widgets/premium-post-ticker.php:1313
+#: widgets/premium-tcloud.php:447 widgets/premium-tiktok-feed.php:282
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: modules/woocommerce/widgets/woo-products.php:839
+#: widgets/premium-blog.php:527 widgets/premium-notifications.php:1447
+#: widgets/premium-pinterest-feed.php:410 widgets/premium-post-ticker.php:1312
+#: widgets/premium-tcloud.php:448 widgets/premium-tiktok-feed.php:281
+msgid "Descending"
+msgstr "Descendente"
+
+#: modules/woocommerce/widgets/woo-products.php:835
+#: widgets/premium-blog.php:523 widgets/premium-notifications.php:1443
+#: widgets/premium-post-ticker.php:763 widgets/premium-post-ticker.php:1308
+#: widgets/premium-tcloud.php:443
+msgid "Order"
+msgstr "Ordem"
+
+#: widgets/premium-blog.php:514 widgets/premium-notifications.php:1433
+#: widgets/premium-post-ticker.php:1296
+msgid "Number of Comments"
+msgstr "Número de comentários"
+
+#: modules/woocommerce/widgets/woo-products.php:823
+#: widgets/premium-blog.php:512 widgets/premium-notifications.php:1432
+#: widgets/premium-post-ticker.php:1295
+msgid "Random"
+msgstr "Aleatório"
+
+#: widgets/premium-blog.php:511 widgets/premium-notifications.php:1431
+#: widgets/premium-post-ticker.php:1294
+msgid "Last Modified"
+msgstr "Última modificação"
+
+#: includes/pa-display-conditions/pa-controls-handler.php:95
+#: modules/woocommerce/widgets/woo-products.php:819
+#: widgets/premium-blog.php:510 widgets/premium-notifications.php:1430
+#: widgets/premium-pinterest-feed.php:684
+#: widgets/premium-pinterest-feed.php:1841 widgets/premium-post-ticker.php:1293
+#: widgets/premium-post-ticker.php:2164 widgets/premium-post-ticker.php:2367
+#: widgets/premium-tiktok-feed.php:566 widgets/premium-tiktok-feed.php:1550
+#: widgets/premium-weather.php:1955 widgets/premium-world-clock.php:1602
+msgid "Date"
+msgstr "Encontro"
+
+#: widgets/premium-blog.php:500 widgets/premium-notifications.php:1420
+#: widgets/premium-post-ticker.php:1284 widgets/premium-tcloud.php:423
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: widgets/premium-blog.php:921 widgets/premium-notifications.php:1460
+#: widgets/premium-post-ticker.php:1677
+msgid "Post Options"
+msgstr "Opções do post"
+
+#: widgets/premium-grid.php:920
+msgid "Whole Image Lightbox"
+msgstr "Imagem em todo Lightbox"
+
+#: widgets/premium-grid.php:273
+msgid "12 Columns"
+msgstr "12 Colunas"
+
+#: includes/class-premium-template-tags.php:1328 widgets/premium-blog.php:1409
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/class-premium-template-tags.php:1326 widgets/premium-blog.php:1396
+msgid "Previous"
+msgstr "Anterior"
+
+#: widgets/premium-carousel.php:182
+msgid "Repeater"
+msgstr "Repetidor"
+
+#: widgets/premium-carousel.php:181
+msgid "Select Field"
+msgstr "Seleciona campo"
+
+#: widgets/premium-carousel.php:178
+msgid "How templates are selected"
+msgstr "Como os modelos são selecionados"
+
+#: widgets/premium-grid.php:683 widgets/premium-media-wheel.php:360
+#: widgets/premium-videobox.php:161
+msgid "Self Hosted"
+msgstr "Auto hospedado"
+
+#: widgets/premium-maps.php:178
+msgid "Get center location from visitor's location"
+msgstr "Obter localização central a partir da localização do visitante"
+
+#: widgets/premium-maps.php:177
+msgid "Get User Location"
+msgstr "Obter localização do usuário"
+
+#: widgets/premium-grid.php:765 widgets/premium-media-wheel.php:481
+#: widgets/premium-videobox.php:588
+msgid "Mute"
+msgstr "Mudo"
+
+#: widgets/premium-grid.php:909
+msgid "Whole Image Link"
+msgstr "Link em toda imagem"
+
+#: modules/woocommerce/widgets/woo-products.php:1860
+#: widgets/premium-blog.php:1565 widgets/premium-blog.php:2705
+#: widgets/premium-grid.php:2097 widgets/premium-nav-menu.php:3444
+#: widgets/premium-nav-menu.php:4049 widgets/premium-vscroll.php:980
+#: widgets/premium-weather.php:3267 widgets/premium-world-clock.php:2710
+msgid "Active"
+msgstr "Ativo"
+
+#: includes/templates/types/section.php:25 widgets/premium-vscroll.php:242
+#: widgets/premium-vscroll.php:266
+msgid "Sections"
+msgstr "Seções"
+
+#: widgets/premium-media-wheel.php:214 widgets/premium-media-wheel.php:606
+#: widgets/premium-modalbox.php:343 widgets/premium-nav-menu.php:316
+#: widgets/premium-notifications.php:784
+msgid "Elementor Template"
+msgstr "Modelo do Elementor"
+
+#: widgets/premium-modalbox.php:342
+msgid "Text Editor"
+msgstr "Editor de texto"
+
+#: widgets/premium-carousel.php:177 widgets/premium-nav-menu.php:312
+#: widgets/premium-vscroll.php:182
+msgid "Content Type"
+msgstr "Tipo de conteúdo"
+
+#: admin/includes/templates/nav-menu-settings.php:29
+#: admin/includes/templates/nav-menu-settings.php:30
+#: includes/live-editor-modal.php:25 includes/live-editor-modal.php:26
+#: includes/templates/scripts/template-modal-header.php:10
+#: widgets/premium-modalbox.php:432 widgets/premium-nav-menu.php:1651
+msgid "Close"
+msgstr "Fechar"
+
+#: widgets/premium-grid.php:457
+msgid "First Category"
+msgstr "Primeira categoria"
+
+#: widgets/premium-grid.php:494
+msgid "Rotation Degrees"
+msgstr "Graus de rotação"
+
+#: widgets/premium-grid.php:527
+msgid "Active Category Index"
+msgstr "Índice de categoria ativa"
+
+#: widgets/premium-grid.php:496 widgets/premium-lottie.php:340
+msgid "Set rotation value in degrees"
+msgstr "Definir o valor de rotação em graus"
+
+#: widgets/premium-maps.php:253
+msgid "Set the Maximum width for markers description box"
+msgstr "Definir a caixa de descrição largura máxima para marcadores"
+
+#: modules/premium-global-tooltips/module.php:845 widgets/premium-maps.php:251
+msgid "Max Width"
+msgstr "Largura máxima"
+
+#: widgets/premium-maps.php:187
+msgid "Latitude & Longitude Finder"
+msgstr "Localizador de latitude e longitude"
+
+#: includes/templates/classes/manager.php:175 widgets/premium-blog.php:1126
+#: widgets/premium-grid.php:469
+msgid "All"
+msgstr "Todos"
+
+#: widgets/premium-grid.php:467
+msgid "First Category Label"
+msgstr "Rótulo da primeira categoria"
+
+#: widgets/premium-maps.php:597
+msgid "Marker Clustering"
+msgstr "Agrupamento de marcadores"
+
+#: widgets/premium-maps.php:198
+msgid "Find Latitude & Longitude"
+msgstr "Localizar latitude e longitude"
+
+#: widgets/premium-banner.php:260
+msgid "Always Hovered"
+msgstr "Sempre ativo"
+
+#: widgets/premium-dual-header.php:695 widgets/premium-dual-header.php:931
+msgid "Animated Background"
+msgstr "Fundo animado"
+
+#: widgets/premium-pinterest-feed.php:728
+msgid "Full"
+msgstr "Completo"
+
+#: widgets/premium-notifications.php:1167 widgets/premium-vscroll.php:415
+msgid "Middle"
+msgstr "Meio"
+
+#: widgets/premium-blog.php:732 widgets/premium-notifications.php:1543
+msgid "Select a heading tag for the post title."
+msgstr "Selecione uma tag de título para o título do post."
+
+#: modules/premium-section-floating-effects/module.php:177
+#: modules/woocommerce/widgets/woo-products.php:1416
+#: widgets/premium-blog.php:616 widgets/premium-grid.php:1071
+#: widgets/premium-notifications.php:1817 widgets/premium-person.php:267
+#: widgets/premium-videobox.php:1142
+msgid "Translate"
+msgstr "Traduzir"
+
+#: modules/woocommerce/widgets/woo-products.php:1415
+#: widgets/premium-banner.php:278 widgets/premium-blog.php:615
+#: widgets/premium-grid.php:1070 widgets/premium-notifications.php:1816
+#: widgets/premium-person.php:266 widgets/premium-videobox.php:1141
+msgid "Sepia"
+msgstr "Sepia"
+
+#: modules/woocommerce/widgets/woo-products.php:1414
+#: widgets/premium-banner.php:277 widgets/premium-blog.php:614
+#: widgets/premium-grid.php:1069 widgets/premium-notifications.php:1815
+#: widgets/premium-person.php:265 widgets/premium-videobox.php:1140
+msgid "Bright"
+msgstr "Bright"
+
+#: widgets/premium-blog.php:967 widgets/premium-notifications.php:1603
+msgid "Excerpt Type"
+msgstr "Tipo de resumo"
+
+#: widgets/premium-blog.php:269 widgets/premium-pinterest-feed.php:808
+#: widgets/premium-tiktok-feed.php:891
+msgid "Number of Columns"
+msgstr "Número de colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:273
+#: modules/woocommerce/widgets/woo-products.php:309
+#: widgets/premium-blog.php:214 widgets/premium-pinterest-feed.php:798
+#: widgets/premium-tiktok-feed.php:881
+msgid "Grid"
+msgstr "Grade"
+
+#: widgets/premium-blog.php:1170
+msgid "Enable links to be opened in a new tab"
+msgstr "Ativar links a serem abertos em uma nova aba"
+
+#: widgets/premium-blog.php:1168
+msgid "Links in New Tab"
+msgstr "Links em nova aba"
+
+#: widgets/premium-carousel.php:406
+msgid "Enable a ripple effect when the active dot is hovered/clicked"
+msgstr "Ativar um efeito de ondulação quando o ponto ativo é hovered/clicado"
+
+#: widgets/premium-carousel.php:405
+msgid "Ripple Effect"
+msgstr "Efeito da ondulação"
+
+#: widgets/premium-contactform.php:1320
+msgid "Fields"
+msgstr "Campos"
+
+#: widgets/premium-modalbox.php:339
+msgid "Content to Show"
+msgstr "Conteúdo para exibir"
+
+#: widgets/premium-modalbox.php:207
+msgid "Enable or disable modal header"
+msgstr "Ativar ou desabilitar o cabeçalho modal"
+
+#: widgets/premium-modalbox.php:202 widgets/premium-modalbox.php:1613
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: modules/woocommerce/widgets/woo-products.php:1622
+#: widgets/premium-grid.php:2352 widgets/premium-vscroll.php:941
+#: widgets/premium-vscroll.php:1001
+msgid "Text Hover Color"
+msgstr "Cor do texto ao passar o mouse"
+
+#: widgets/premium-image-scroll.php:197 widgets/premium-pinterest-feed.php:737
+msgid "Image Height"
+msgstr "Altura da imagem"
+
+#: widgets/premium-fancytext.php:743
+msgid "Cursor Text"
+msgstr "Cursor de texto"
+
+#: widgets/premium-blog.php:1059 widgets/premium-carousel.php:533
+#: widgets/premium-image-scroll.php:457 widgets/premium-media-wheel.php:985
+msgid "Advanced Settings"
+msgstr "Configurações avançadas"
+
+#: widgets/premium-blog.php:1296 widgets/premium-pinterest-feed.php:1062
+#: widgets/premium-tiktok-feed.php:1095 widgets/premium-vscroll.php:384
+#: widgets/premium-vscroll.php:646
+msgid "Navigation Dots"
+msgstr "Pontos de navegação"
+
+#: widgets/premium-blog.php:1308 widgets/premium-carousel.php:690
+#: widgets/premium-pinterest-feed.php:1073 widgets/premium-post-ticker.php:1919
+#: widgets/premium-tiktok-feed.php:1106
+msgid "Navigation Arrows"
+msgstr "Setas de navegação"
+
+#: widgets/premium-blog.php:731 widgets/premium-notifications.php:1542
+#: widgets/premium-post-ticker.php:1017 widgets/premium-videobox.php:321
+msgid "Title HTML Tag"
+msgstr "Título da Tag HTML"
+
+#: admin/includes/elements.php:83 admin/includes/elements.php:729
+#: widgets/premium-maps.php:59
+msgid "Google Maps"
+msgstr "Google Mapas"
+
+#: admin/includes/templates/integrations.php:89
+msgid "Load Markers Clustering JS File:"
+msgstr "Carregar marcadores Clustering JS File:"
+
+#: admin/includes/templates/integrations.php:75
+msgid "Load Maps API JS File:"
+msgstr "Carregar arquivos de API do Google Mapas JS:"
+
+#: admin/includes/templates/general.php:96
+msgid "Docs and Support"
+msgstr "Documentação e suporte"
+
+#: admin/includes/templates/integrations.php:46
+msgid "Google Maps API Key:"
+msgstr "Chave da API do Google Mapas:"
+
+#: admin/includes/templates/version-control.php:40
+msgid "Become a Beta Tester"
+msgstr "Torne-se um testador Beta"
+
+#: admin/includes/templates/version-control.php:32
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Alerta: fazer backup de seu banco de dados antes de fazer a reversão."
+
+#: admin/includes/templates/version-control.php:41
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Premium Addons for Elementor. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "Ligue o Beta Tester, para ser notificado quando uma nova versão beta do Premium Addons for Elementor. A versão beta não será instalada automaticamente. Você sempre tem a opção de ignorá-lo."
+
+#: admin/includes/elements.php:60 admin/includes/elements.php:684
+#: includes/pa-display-conditions/conditions/static-page.php:38
+#: widgets/premium-blog.php:54
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/includes/elements.php:439 admin/includes/elements.php:1093
+#: widgets/premium-image-button.php:79
+msgid "Image Button"
+msgstr "Botão de imagem"
+
+#: admin/includes/admin-helper.php:481
+#: modules/premium-global-tooltips/module.php:728
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/includes/templates/features.php:55
+#: includes/templates/scripts/template-modal-header-logo.php:13
+#: widgets/premium-carousel.php:191 widgets/premium-carousel.php:251
+msgid "Templates"
+msgstr "Modelos"
+
+#: admin/includes/pa-rollback.php:139
+msgid "Rolling Back to Version "
+msgstr "Retrocedendo para a versão "
+
+#: admin/includes/admin-notices.php:198
+msgid "Maybe Later"
+msgstr "Talvez mais tarde"
+
+#: admin/includes/admin-notices.php:171
+msgid "Activate Now"
+msgstr "Ativar agora"
+
+#: admin/includes/admin-notices.php:160
+msgid "Install Now"
+msgstr "Instalar agora"
+
+#: admin/includes/admin-helper.php:595
+msgid "Version Control"
+msgstr "Controle de versão"
+
+#: admin/includes/admin-helper.php:609
+msgid "System Info"
+msgstr "Informação do sistema"
+
+#: admin/includes/admin-notices.php:169
+msgid "Premium Addons for Elementor is not working because you need to activate Elementor plugin."
+msgstr "Premium Addons for Elementor não está funcionando porque você precisa ativar o plugin Elementor."
+
+#: admin/includes/admin-notices.php:158
+msgid "Premium Addons for Elementor is not working because you need to Install Elementor plugin."
+msgstr "Premium Addons for Elementor não está funcionando porque você precisa instalar Elementor plugin."
+
+#. Plugin URI of the plugin
+#: premium-addons-for-elementor.php
+msgid "https://premiumaddons.com"
+msgstr "https://premiumaddons.com"
+
+#: widgets/premium-videobox.php:154
+msgid "Video Type"
+msgstr "Tipo de vídeo"
+
+#: widgets/premium-pinterest-feed.php:719
+msgid "Image Size"
+msgstr "Tamanho da imagem"
+
+#: widgets/premium-tiktok-feed.php:768 widgets/premium-videobox.php:1553
+msgid "Play Video"
+msgstr "Reproduzir vídeo"
+
+#: widgets/premium-banner.php:1117 widgets/premium-button.php:1418
+#: widgets/premium-image-button.php:1381 widgets/premium-modalbox.php:1478
+#: widgets/premium-pricing-table.php:2662 widgets/premium-title.php:1241
+#: widgets/premium-title.php:1269
+msgid "Line Color"
+msgstr "Cor da linha"
+
+#: widgets/premium-testimonials.php:1243
+msgid "Bottom Icon Position"
+msgstr "Posição inferior do ícone"
+
+#: widgets/premium-testimonials.php:1223
+msgid "Top Icon Position"
+msgstr "Posição superior do ícone"
+
+#: widgets/premium-testimonials.php:1185
+msgid "Quotation Icon"
+msgstr "Ícone da citação"
+
+#: widgets/premium-blog.php:507 widgets/premium-notifications.php:1427
+#: widgets/premium-post-ticker.php:1290 widgets/premium-post-ticker.php:2411
+#: widgets/premium-testimonials.php:172 widgets/premium-testimonials.php:961
+msgid "Author"
+msgstr "Autor"
+
+#: widgets/premium-progressbar.php:878
+msgid "Animated"
+msgstr "Animado"
+
+#: widgets/premium-pricing-table.php:2879
+msgid "Box Settings"
+msgstr "Configurações da caixa"
+
+#: widgets/premium-pinterest-feed.php:1538
+#: widgets/premium-pricing-table.php:2246
+#: widgets/premium-textual-showcase.php:1900
+#: widgets/premium-tiktok-feed.php:2435
+msgid "Vertical Spacing"
+msgstr "Espaçamento vertical"
+
+#: modules/premium-global-tooltips/module.php:811
+#: modules/woocommerce/widgets/woo-products.php:1137
+#: widgets/premium-blog.php:2229 widgets/premium-blog.php:2486
+#: widgets/premium-countdown.php:1232 widgets/premium-countdown.php:1320
+#: widgets/premium-grid.php:1550 widgets/premium-media-wheel.php:950
+#: widgets/premium-notifications.php:3285
+#: widgets/premium-notifications.php:3515 widgets/premium-person.php:372
+#: widgets/premium-pinterest-feed.php:887 widgets/premium-post-ticker.php:2848
+#: widgets/premium-pricing-table.php:2232 widgets/premium-progressbar.php:212
+#: widgets/premium-progressbar.php:1584 widgets/premium-progressbar.php:1629
+#: widgets/premium-testimonials.php:755 widgets/premium-tiktok-feed.php:951
+#: widgets/premium-tiktok-feed.php:1983 widgets/premium-world-clock.php:1291
+#: widgets/premium-world-clock.php:2789
+msgid "Spacing"
+msgstr "Espaçamento"
+
+#: modules/premium-global-tooltips/module.php:619
+#: widgets/premium-banner.php:1243 widgets/premium-grid.php:1595
+#: widgets/premium-image-scroll.php:738 widgets/premium-media-wheel.php:1525
+#: widgets/premium-nav-menu.php:2160 widgets/premium-post-ticker.php:2553
+#: widgets/premium-pricing-table.php:1644
+#: widgets/premium-pricing-table.php:2093
+#: widgets/premium-pricing-table.php:2258
+#: widgets/premium-pricing-table.php:2475 widgets/premium-testimonials.php:1371
+#: widgets/premium-vscroll.php:851 widgets/premium-weather.php:1280
+#: widgets/premium-weather.php:1755 widgets/premium-weather.php:3632
+#: widgets/premium-world-clock.php:2780
+msgid "Container"
+msgstr "Contêiner"
+
+#: widgets/premium-pricing-table.php:924 widgets/premium-pricing-table.php:1417
+#: widgets/premium-pricing-table.php:2146
+msgid "Features"
+msgstr "Recursos"
+
+#: widgets/premium-person.php:622 widgets/premium-person.php:903
+msgid "Behance"
+msgstr "Behance"
+
+#: widgets/premium-person.php:595 widgets/premium-person.php:876
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: modules/premium-global-tooltips/module.php:778
+#: widgets/premium-image-scroll.php:508 widgets/premium-lottie.php:218
+#: widgets/premium-modalbox.php:498 widgets/premium-modalbox.php:1207
+msgid "Trigger"
+msgstr "Ativar(Trigger)"
+
+#: widgets/premium-maps.php:630
+msgid "Map Style"
+msgstr "Estilo do mapa"
+
+#: widgets/premium-maps.php:569
+msgid "Info Container Always Opened"
+msgstr "Contêiner de informações sempre aberto"
+
+#: widgets/premium-maps.php:561
+msgid "Scroll Wheel Zoom"
+msgstr "Zoom da roda de rolagem"
+
+#: widgets/premium-blog.php:1755 widgets/premium-button.php:1141
+#: widgets/premium-contactform.php:870 widgets/premium-contactform.php:1411
+#: widgets/premium-counter.php:852 widgets/premium-dual-header.php:428
+#: widgets/premium-fancytext.php:690 widgets/premium-grid.php:625
+#: widgets/premium-icon-list.php:717 widgets/premium-image-button.php:1089
+#: widgets/premium-media-wheel.php:738 widgets/premium-media-wheel.php:881
+#: widgets/premium-modalbox.php:1847 widgets/premium-modalbox.php:2058
+#: widgets/premium-nav-menu.php:2296 widgets/premium-notifications.php:688
+#: widgets/premium-notifications.php:2931 widgets/premium-person.php:202
+#: widgets/premium-post-ticker.php:2962 widgets/premium-pricing-table.php:1131
+#: widgets/premium-pricing-table.php:1535
+#: widgets/premium-pricing-table.php:2368 widgets/premium-progressbar.php:668
+#: widgets/premium-svg-drawer.php:206 widgets/premium-textual-showcase.php:729
+#: widgets/premium-textual-showcase.php:1337 widgets/premium-title.php:912
+#: widgets/premium-title.php:1640
+msgid "Width"
+msgstr "Largura"
+
+#: widgets/premium-maps.php:553
+msgid "Fullscreen Control"
+msgstr "Controle de tela cheia"
+
+#: widgets/premium-maps.php:545
+msgid "Street View Control"
+msgstr "Controle de exibição de rua"
+
+#: widgets/premium-maps.php:537
+msgid "Zoom Controls"
+msgstr "Controles de zoom"
+
+#: widgets/premium-maps.php:529
+msgid "Map Type Controls"
+msgstr "Controles de tipo de mapa"
+
+#: widgets/premium-maps.php:504
+msgid "Zoom"
+msgstr "Zoom"
+
+#: widgets/premium-grid.php:752 widgets/premium-maps.php:460
+#: widgets/premium-media-wheel.php:470
+msgid "Controls"
+msgstr "Controles"
+
+#: widgets/premium-carousel.php:1072 widgets/premium-maps.php:407
+msgid "Custom Icon"
+msgstr "Ícone personalizado"
+
+#: widgets/premium-maps.php:244
+msgid "Markers"
+msgstr "Marcadores"
+
+#: widgets/premium-progressbar.php:1459
+msgid "Indicator"
+msgstr "Indicador"
+
+#: widgets/premium-progressbar.php:1396
+msgid "Percentage Typography"
+msgstr "Tipografia porcentagem"
+
+#: widgets/premium-progressbar.php:1379
+msgid "Percentage Color"
+msgstr "Cor da porcentagem"
+
+#: widgets/premium-progressbar.php:1367
+msgid "Labels' Typography"
+msgstr "Tipografia de rótulos"
+
+#: widgets/premium-progressbar.php:1353
+msgid "Labels' Color"
+msgstr "Cor de rótulos"
+
+#: widgets/premium-progressbar.php:816
+msgid "Labels Alignment"
+msgstr "Alinhamento de rótulos"
+
+#: modules/premium-global-tooltips/module.php:684 widgets/premium-blog.php:692
+#: widgets/premium-notifications.php:1873 widgets/premium-progressbar.php:804
+#: widgets/premium-progressbar.php:1413
+msgid "Arrow"
+msgstr "Seta"
+
+#: widgets/premium-progressbar.php:803
+msgid "Pin"
+msgstr "Pino"
+
+#: widgets/premium-progressbar.php:798
+msgid "Labels Indicator"
+msgstr "Indicador de rótulos"
+
+#: widgets/premium-progressbar.php:787
+msgid "Enable percentage for labels"
+msgstr "Ativar porcentagem para rótulos"
+
+#: widgets/premium-progressbar.php:784
+msgid "Enable Percentage"
+msgstr "Ativar porcentagem"
+
+#: widgets/premium-progressbar.php:755 widgets/premium-progressbar.php:1172
+msgid "Percentage"
+msgstr "Porcentagem"
+
+#: widgets/premium-progressbar.php:747 widgets/premium-progressbar.php:748
+msgid "label"
+msgstr "rótulo"
+
+#: widgets/premium-progressbar.php:743 widgets/premium-progressbar.php:765
+#: widgets/premium-progressbar.php:769 widgets/premium-tcloud.php:158
+msgid "Label"
+msgstr "Rótulo"
+
+#: widgets/premium-progressbar.php:270 widgets/premium-progressbar.php:1342
+msgid "Multiple Labels"
+msgstr "Múltiplo rótulos"
+
+#: widgets/premium-progressbar.php:269
+msgid "Left & Right Labels"
+msgstr "Rótulos esquerda & direita"
+
+#. Author of the plugin
+#: premium-addons-for-elementor.php
+msgid "Leap13"
+msgstr "Leap13"
+
+#: widgets/premium-videobox.php:1966
+msgid "Hover Padding"
+msgstr "Espaçamento ao passar o mouse"
+
+#: admin/includes/elements.php:232 admin/includes/elements.php:871
+#: widgets/premium-videobox.php:53 widgets/premium-videobox.php:147
+#: widgets/premium-videobox.php:1731
+msgid "Video Box"
+msgstr "Caixa de vdeo"
+
+#: widgets/premium-videobox.php:187
+msgid "Enter the numbers and letters after the equal sign which located in your YouTube video link or after the slash sign in your Vimeo video link. For example, z1hQgVpfTKU"
+msgstr "Digite os números e as letras após o sinal de igual localizado em seu link de vídeo do YouTube ou após a barra assinar no link do vídeo do Vimeo. Por exemplo, z1hQgVpfTKU"
+
+#: widgets/premium-videobox.php:186
+msgid "Video ID"
+msgstr "ID do Vídeo"
+
+#: widgets/premium-videobox.php:175 widgets/premium-videobox.php:199
+msgid "Embed URL"
+msgstr "URL de incorporação"
+
+#: widgets/premium-blog.php:506 widgets/premium-notifications.php:1426
+#: widgets/premium-post-ticker.php:1289 widgets/premium-videobox.php:174
+msgid "ID"
+msgstr "ID"
+
+#: widgets/premium-grid.php:682 widgets/premium-media-wheel.php:359
+#: widgets/premium-videobox.php:159
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/premium-videobox.php:158
+msgid "Youtube"
+msgstr "Youtube"
+
+#: widgets/premium-videobox.php:1543
+msgid "Video Text"
+msgstr "Texto de vdeo"
+
+#: widgets/premium-media-wheel.php:1338 widgets/premium-tiktok-feed.php:779
+#: widgets/premium-videobox.php:1453 widgets/premium-videobox.php:1460
+#: widgets/premium-videobox.php:1859 widgets/premium-videobox.php:2160
+msgid "Play Icon"
+msgstr "Ícone de reproduzir"
+
+#: widgets/premium-videobox.php:1438
+msgid "Choose an image for the video box"
+msgstr "Escolha uma imagem para a caixa de vídeo"
+
+#: widgets/premium-title.php:1286
+msgid "Triangle Color"
+msgstr "Cor do triângulo"
+
+#: widgets/premium-testimonials.php:715
+msgid "Rounded"
+msgstr "Arredondado"
+
+#: widgets/premium-pricing-table.php:1171 widgets/premium-progressbar.php:176
+msgid "Circle"
+msgstr "Círculo"
+
+#: widgets/premium-icon-list.php:2061 widgets/premium-icon-list.php:2174
+#: widgets/premium-progressbar.php:857
+msgid "Solid"
+msgstr "Sólido"
+
+#: admin/includes/elements.php:558 admin/includes/elements.php:1215
+#: widgets/premium-carousel.php:347 widgets/premium-progressbar.php:61
+#: widgets/premium-progressbar.php:966
+msgid "Progress Bar"
+msgstr "Barra de progresso"
+
+#: widgets/premium-progressbar.php:314
+msgid "50%"
+msgstr "50%"
+
+#: widgets/premium-progressbar.php:285
+msgid "My Skill"
+msgstr "Minha habilidade"
+
+#: widgets/premium-progressbar.php:164
+msgid "Progress Bar Settings"
+msgstr "Configurações da barra de progresso"
+
+#: widgets/premium-pricing-table.php:1905
+msgid "Unset"
+msgstr "Desativado"
+
+#: widgets/premium-pricing-table.php:1897
+msgid "Vertical Align"
+msgstr "Alinhamento vertical"
+
+#: widgets/premium-pricing-table.php:1080
+msgid "Get Started"
+msgstr "Iniciar"
+
+#: widgets/premium-pricing-table.php:946
+msgid "List Item #3"
+msgstr "Item da lista #3"
+
+#: widgets/premium-pricing-table.php:939
+msgid "List Item #2"
+msgstr "Item da lista #2"
+
+#: widgets/premium-pricing-table.php:932
+msgid "List Item #1"
+msgstr "Item da lista #1"
+
+#: modules/premium-section-floating-effects/module.php:255
+#: modules/premium-section-floating-effects/module.php:408
+#: modules/premium-section-floating-effects/module.php:531
+#: modules/premium-section-floating-effects/module.php:652
+#: widgets/premium-pricing-table.php:563 widgets/premium-pricing-table.php:2043
+msgid "Duration"
+msgstr "Duração"
+
+#: admin/includes/elements.php:148 admin/includes/elements.php:783
+#: widgets/premium-icon-list.php:1291 widgets/premium-pricing-table.php:551
+#: widgets/premium-pricing-table.php:1987
+msgid "Divider"
+msgstr "Divisor"
+
+#: widgets/premium-pricing-table.php:527 widgets/premium-pricing-table.php:1863
+msgid "Currency"
+msgstr "Moeda"
+
+#: widgets/premium-pricing-table.php:481
+msgid "Select HTML tag for the title"
+msgstr "Selecione a tag HTML para o título"
+
+#: widgets/premium-icon-list.php:629 widgets/premium-icon-list.php:1916
+#: widgets/premium-nav-menu.php:670 widgets/premium-nav-menu.php:3037
+#: widgets/premium-nav-menu.php:4291
+msgid "Badge"
+msgstr "Emblema"
+
+#: modules/woocommerce/skins/skin-1.php:562
+#: modules/woocommerce/skins/skin-2.php:137
+#: modules/woocommerce/skins/skin-3.php:133
+#: modules/woocommerce/skins/skin-4.php:166
+#: modules/woocommerce/skins/skin-5.php:677
+#: modules/woocommerce/skins/skin-6.php:154
+#: modules/woocommerce/skins/skin-7.php:161
+#: modules/woocommerce/skins/skin-8.php:161
+#: modules/woocommerce/skins/skin-9.php:159
+#: modules/woocommerce/skins/skin-10.php:159
+#: modules/woocommerce/skins/skin-11.php:161
+#: modules/woocommerce/skins/skin-base.php:310
+#: modules/woocommerce/skins/skin-base.php:342
+#: modules/woocommerce/widgets/woo-products.php:821
+#: widgets/premium-pricing-table.php:505 widgets/premium-pricing-table.php:539
+#: widgets/premium-pricing-table.php:1408
+#: widgets/premium-pricing-table.php:1807
+#: widgets/premium-pricing-table.php:1938
+msgid "Price"
+msgstr "Preço"
+
+#: widgets/premium-person.php:1392
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: widgets/premium-person.php:661 widgets/premium-person.php:942
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: widgets/premium-person.php:542 widgets/premium-person.php:823
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/premium-person.php:608 widgets/premium-person.php:889
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/premium-person.php:529 widgets/premium-person.php:810
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: widgets/premium-person.php:515 widgets/premium-person.php:796
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/premium-grid.php:1223 widgets/premium-media-wheel.php:1238
+#: widgets/premium-person.php:501 widgets/premium-person.php:782
+#: widgets/premium-videobox.php:1375
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/premium-person.php:1270
+msgid "Job Title"
+msgstr "Titulo do trabalho"
+
+#: widgets/premium-person.php:204
+msgid "Enter image width in (PX, EM, %), default is 100%"
+msgstr "Digite a largura da imagem em (PX, EM,%), o padrão é 100%"
+
+#: admin/includes/elements.php:133 admin/includes/elements.php:768
+#: widgets/premium-testimonials.php:212 widgets/premium-testimonials.php:300
+#: widgets/premium-testimonials.php:909 widgets/premium-title.php:80
+msgid "Heading"
+msgstr "Cabeçalho"
+
+#: widgets/premium-modalbox.php:2132
+msgid "Footer Background Color"
+msgstr "Cor de fundo do rodapé"
+
+#: widgets/premium-modalbox.php:2036
+msgid "Content Background Color"
+msgstr "Cor de fundo do conteúdo"
+
+#: admin/includes/elements.php:333 admin/includes/elements.php:988
+#: widgets/premium-modalbox.php:92 widgets/premium-modalbox.php:2003
+msgid "Modal Box"
+msgstr "Caixa modal"
+
+#: widgets/premium-pricing-table.php:1885
+#: widgets/premium-pricing-table.php:1963
+#: widgets/premium-pricing-table.php:2012
+#: widgets/premium-pricing-table.php:2068
+msgid "Typography"
+msgstr "Tipografia"
+
+#: widgets/premium-modalbox.php:422 widgets/premium-modalbox.php:1825
+msgid "Lower Close Button"
+msgstr "Botão de fechar inferior"
+
+#: widgets/premium-modalbox.php:409 widgets/premium-modalbox.php:1679
+msgid "Upper Close Button"
+msgstr "Botão de fechar superior"
+
+#: widgets/premium-modalbox.php:1101
+msgid "When should the popup appear during page load? The value are counted in seconds"
+msgstr "Quando o Popup aparece durante o carregamento da página? O valor é contado em segundos"
+
+#: widgets/premium-modalbox.php:1099
+msgid "Delay in Popup Display (Sec)"
+msgstr "Atraso na exibição do popup (SEC)"
+
+#: widgets/premium-modalbox.php:500
+msgid "Choose where would you like the modal box appear on"
+msgstr "Escolha onde você gostaria que a caixa modal apareça no"
+
+#: widgets/premium-maps.php:680
+msgid "Map"
+msgstr "Mapa"
+
+#: widgets/premium-maps.php:637
+msgid "JSON Code"
+msgstr "Código JSON"
+
+#: widgets/premium-maps.php:473
+msgid "Hybrid"
+msgstr "Híbrido"
+
+#: widgets/premium-maps.php:472
+msgid "Terrain"
+msgstr "Terreno"
+
+#: widgets/premium-maps.php:471
+msgid "Satellite"
+msgstr "Satélite"
+
+#: widgets/premium-maps.php:470
+msgid "Road Map"
+msgstr "Mapa da rua"
+
+#: widgets/premium-maps.php:467
+msgid "Map Type"
+msgstr "Tipo de mapa"
+
+#: widgets/premium-maps.php:304
+msgid "Longitude"
+msgstr "Longitude"
+
+#: widgets/premium-maps.php:292
+msgid "Latitude"
+msgstr "Latitude"
+
+#: widgets/premium-maps.php:444
+msgid "Add an optional description to your map pin"
+msgstr "Adicionar uma descrição opcional ao seu PIN de mapa"
+
+#: widgets/premium-maps.php:438
+msgid "Map Pins"
+msgstr "Pins do mapa"
+
+#: widgets/premium-maps.php:227
+msgid "Center Longitude"
+msgstr "Longitude central"
+
+#: widgets/premium-maps.php:215 widgets/premium-maps.php:230
+msgid "Center latitude and longitude are required to identify your location"
+msgstr "A latitude e a longitude central são exigidas para identificar sua posição"
+
+#: widgets/premium-maps.php:212
+msgid "Center Latitude"
+msgstr "Latitude central"
+
+#: widgets/premium-maps.php:157
+msgid "Center Location"
+msgstr "Localização do centro"
+
+#: widgets/premium-icon-list.php:583 widgets/premium-image-scroll.php:232
+#: widgets/premium-image-separator.php:574
+msgid "Link/URL"
+msgstr "Link/URL"
+
+#: widgets/premium-image-scroll.php:225 widgets/premium-image-separator.php:567
+msgid "Add a custom link or select an existing page link"
+msgstr "Adicionar um link personalizado ou selecionar um link de página existente"
+
+#: widgets/premium-image-separator.php:528
+msgid "-50% is default. Increase to push the image outside or decrease to pull the image inside."
+msgstr "-50% é o padrão. Aumente para empurrar a imagem para fora ou diminua para puxar a imagem para dentro."
+
+#: widgets/premium-image-separator.php:229
+msgid "Choose the separator image"
+msgstr "Escolha a imagem do separador"
+
+#: widgets/premium-image-scroll.php:167 widgets/premium-image-separator.php:179
+msgid "Image Settings"
+msgstr "Configurações de imagem"
+
+#: widgets/premium-image-button.php:406
+msgid "Overlap Direction"
+msgstr "Sobreposição de direção"
+
+#: widgets/premium-image-button.php:375
+msgid "Bottom Right to Top Left"
+msgstr "Inferior direita para superior esquerda"
+
+#: widgets/premium-image-button.php:374
+msgid "Top Left to Bottom Right"
+msgstr "Superior esquerda para inferior direita"
+
+#: widgets/premium-image-button.php:373
+msgid "Top Right to Bottom Left"
+msgstr "Superior direita para inferior esquerda"
+
+#: widgets/premium-image-button.php:372
+msgid "Bottom Left to Top Right"
+msgstr "Inferior esquerda para superior direita"
+
+#: widgets/premium-image-button.php:252
+msgid "Overlap"
+msgstr "Sobreposição"
+
+#: widgets/premium-image-button.php:250
+msgid "Diagonal Slide"
+msgstr "Slide diagonal"
+
+#: widgets/premium-image-button.php:249
+msgid "Background Slide"
+msgstr "Fundo do slide"
+
+#: widgets/premium-notifications.php:1936
+msgid "Icon Style"
+msgstr "Estilo do ícone"
+
+#: widgets/premium-modalbox.php:545 widgets/premium-svg-drawer.php:152
+#: widgets/premium-title.php:252
+msgid "Font Awesome Icon"
+msgstr "Ícone Font Awesome"
+
+#: widgets/premium-modalbox.php:974
+msgid "Button Size"
+msgstr "Tamanho do botão"
+
+#: modules/woocommerce/widgets/woo-products.php:370
+#: widgets/premium-grid.php:300 widgets/premium-modalbox.php:516
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: widgets/premium-videobox.php:200
+msgid "Enter your YouTube/Vimeo video link. For example, https://www.youtube.com/embed/z1hQgVpfTKU"
+msgstr "Digite seu link de vídeo do YouTube/Vimeo. Por exemplo, https://www.youtube.com/embed/z1hQgVpfTKU"
+
+#: widgets/premium-title.php:1303
+msgid "Stripe Color"
+msgstr "Cor da listra"
+
+#: widgets/premium-title.php:786
+msgid "Stripe Bottom Spacing (PX)"
+msgstr "Espaçamento inferior da listra (PX)"
+
+#: widgets/premium-title.php:770
+msgid "Stripe Top Spacing (PX)"
+msgstr "Espaçamento superior da listra (PX)"
+
+#: widgets/premium-title.php:750
+msgid "Stripe Height (PX)"
+msgstr "Altura da listra (PX)"
+
+#: widgets/premium-title.php:730
+msgid "Stripe Width (PX)"
+msgstr "Largura da listra (PX)"
+
+#: widgets/premium-progressbar.php:858
+msgid "Striped"
+msgstr "Listrado"
+
+#. Author URI of the plugin
+#: premium-addons-for-elementor.php
+msgid "https://leap13.com/"
+msgstr "https://leap13.com/"
+
+#: widgets/premium-grid.php:931 widgets/premium-media-wheel.php:1283
+msgid "Images"
+msgstr "Imagens"
+
+#: widgets/premium-carousel.php:524
+msgid "Add extra class name that will be applied to the carousel, and you can use this class for your customizations."
+msgstr "Adicione um nome de classe extra que será aplicado ao carrossel e você poderá usar essa classe para suas personalizações."
+
+#: modules/premium-global-tooltips/module.php:864
+#: modules/woocommerce/widgets/woo-products.php:1445
+#: widgets/premium-banner.php:287 widgets/premium-blog.php:647
+#: widgets/premium-blog.php:1777 widgets/premium-carousel.php:1116
+#: widgets/premium-contactform.php:888 widgets/premium-counter.php:881
+#: widgets/premium-fancytext.php:865 widgets/premium-grid.php:206
+#: widgets/premium-grid.php:393 widgets/premium-grid.php:647
+#: widgets/premium-grid.php:1038 widgets/premium-icon-list.php:747
+#: widgets/premium-image-separator.php:287 widgets/premium-maps.php:482
+#: widgets/premium-media-wheel.php:758 widgets/premium-media-wheel.php:901
+#: widgets/premium-media-wheel.php:1028 widgets/premium-nav-menu.php:2280
+#: widgets/premium-notifications.php:1828
+#: widgets/premium-notifications.php:2953 widgets/premium-post-ticker.php:2974
+#: widgets/premium-pricing-table.php:1564 widgets/premium-progressbar.php:700
+#: widgets/premium-progressbar.php:974 widgets/premium-progressbar.php:1503
+#: widgets/premium-svg-drawer.php:235 widgets/premium-textual-showcase.php:755
+#: widgets/premium-textual-showcase.php:1363 widgets/premium-title.php:1669
+msgid "Height"
+msgstr "Altura"
+
+#. Plugin Name of the plugin
+#: premium-addons-for-elementor.php admin/includes/admin-notices.php:194
+msgid "Premium Addons for Elementor"
+msgstr "Premium Addons for Elementor"
+
+#: includes/helper-functions.php:216 includes/helper-functions.php:226
+#: widgets/premium-dual-header.php:168
+msgid "Premium"
+msgstr "Premium"
+
+#: widgets/premium-banner.php:362 widgets/premium-carousel.php:522
+msgid "Extra Class"
+msgstr "Classe extra"
+
+#: widgets/premium-banner.php:300
+msgid "Min Height"
+msgstr "Altura mínima"
+
+#: widgets/premium-banner.php:238 widgets/premium-fancytext.php:248
+msgid "Effect"
+msgstr "Efeito"
+
+#: widgets/premium-banner.php:168
+msgid "Select an image for the Banner"
+msgstr "Selecione uma imagem para o banner"
+
+#: widgets/premium-banner.php:167 widgets/premium-counter.php:353
+#: widgets/premium-grid.php:613 widgets/premium-modalbox.php:247
+#: widgets/premium-nav-menu.php:591 widgets/premium-progressbar.php:361
+#: widgets/premium-title.php:272
+msgid "Upload Image"
+msgstr "Enviar imagem"
+
+#: includes/pa-display-conditions/conditions/post-format.php:45
+#: modules/premium-shape-divider/module.php:645
+#: modules/woocommerce/skins/skin-1.php:107
+#: modules/woocommerce/skins/skin-2.php:107
+#: modules/woocommerce/skins/skin-3.php:103
+#: modules/woocommerce/skins/skin-4.php:136
+#: modules/woocommerce/skins/skin-5.php:102
+#: modules/woocommerce/skins/skin-6.php:105
+#: modules/woocommerce/skins/skin-7.php:111
+#: modules/woocommerce/skins/skin-8.php:111
+#: modules/woocommerce/skins/skin-9.php:109
+#: modules/woocommerce/skins/skin-10.php:109
+#: modules/woocommerce/skins/skin-11.php:111
+#: modules/woocommerce/widgets/woo-products.php:1394
+#: widgets/premium-banner.php:160 widgets/premium-blog.php:1659
+#: widgets/premium-counter.php:316 widgets/premium-grid.php:1415
+#: widgets/premium-icon-list.php:230 widgets/premium-image-scroll.php:174
+#: widgets/premium-image-scroll.php:602 widgets/premium-image-separator.php:190
+#: widgets/premium-image-separator.php:228 widgets/premium-media-wheel.php:212
+#: widgets/premium-modalbox.php:503 widgets/premium-modalbox.php:993
+#: widgets/premium-nav-menu.php:516 widgets/premium-notifications.php:226
+#: widgets/premium-notifications.php:253 widgets/premium-notifications.php:543
+#: widgets/premium-notifications.php:907 widgets/premium-notifications.php:936
+#: widgets/premium-person.php:445 widgets/premium-person.php:727
+#: widgets/premium-person.php:1110 widgets/premium-post-ticker.php:334
+#: widgets/premium-post-ticker.php:386 widgets/premium-post-ticker.php:1459
+#: widgets/premium-post-ticker.php:1507 widgets/premium-pricing-table.php:197
+#: widgets/premium-pricing-table.php:603 widgets/premium-testimonials.php:179
+#: widgets/premium-testimonials.php:287
+#: widgets/premium-textual-showcase.php:270
+#: widgets/premium-textual-showcase.php:878 widgets/premium-title.php:234
+#: widgets/premium-videobox.php:1437
+msgid "Image"
+msgstr "Imagem"
+
+#: widgets/premium-blog.php:606 widgets/premium-grid.php:1061
+#: widgets/premium-notifications.php:1807 widgets/premium-videobox.php:1132
+msgid "Choose a hover effect for the image"
+msgstr "Escolha um efeito de foco do mouse para o banner"
+
+#: widgets/premium-dual-header.php:229
+msgid "Enable or disable link"
+msgstr "Ativar ou desativar link"
+
+#: admin/includes/templates/version-control.php:48
+msgid "Check this box to get updates for beta versions"
+msgstr "Marque esta caixa para obter atualizações para versões beta"
+
+#: admin/includes/admin-helper.php:294
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: modules/woocommerce/widgets/woo-products.php:773
+#: widgets/premium-blog.php:469 widgets/premium-blog.php:492
+#: widgets/premium-notifications.php:1370
+#: widgets/premium-notifications.php:1395 widgets/premium-post-ticker.php:1244
+#: widgets/premium-post-ticker.php:1273
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/includes/admin-helper.php:290 admin/includes/admin-helper.php:1128
+#: admin/includes/templates/version-control.php:22
+msgid "Rollback to Previous Version"
+msgstr "Voltar para versão anterior"
+
+#: widgets/premium-grid.php:1676
+msgid "Icons"
+msgstr "Ícones"
+
+#: admin/includes/admin-helper.php:567
+#: modules/woocommerce/widgets/woo-products.php:244
+#: modules/woocommerce/widgets/woo-products.php:1250
+#: widgets/premium-banner.php:610 widgets/premium-blog.php:158
+#: widgets/premium-grid.php:1344 widgets/premium-post-ticker.php:265
+#: widgets/premium-svg-drawer.php:142
+msgid "General"
+msgstr "Geral"
+
+#: widgets/premium-grid.php:1274
+msgid "If the content text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "Se o texto do conteúdo não estiver sendo bem utilizado em tamanhos de tela específicos, você poderá ativar esta opção que ocultará o texto de descrição."
+
+#: widgets/premium-grid.php:1139 widgets/premium-nav-menu.php:1048
+#: widgets/premium-person.php:277
+msgid "Content Alignment"
+msgstr "Alinhamento do conteúdo"
+
+#: widgets/premium-grid.php:1168 widgets/premium-grid.php:1175
+#: widgets/premium-grid.php:2441 widgets/premium-media-wheel.php:1184
+#: widgets/premium-media-wheel.php:1191 widgets/premium-media-wheel.php:2332
+#: widgets/premium-pinterest-feed.php:329 widgets/premium-tiktok-feed.php:769
+#: widgets/premium-tiktok-feed.php:1254 widgets/premium-videobox.php:1332
+#: widgets/premium-videobox.php:2471
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/premium-blog.php:1483 widgets/premium-grid.php:1914
+msgid "Filter"
+msgstr "Filtro"
+
+#: widgets/premium-button.php:271 widgets/premium-grid.php:1013
+#: widgets/premium-image-button.php:270 widgets/premium-person.php:166
+#: widgets/premium-title.php:207 widgets/premium-world-clock.php:268
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: widgets/premium-button.php:270 widgets/premium-grid.php:1012
+#: widgets/premium-image-button.php:269 widgets/premium-person.php:165
+#: widgets/premium-title.php:206 widgets/premium-world-clock.php:161
+#: widgets/premium-world-clock.php:267
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: widgets/premium-button.php:269 widgets/premium-grid.php:1011
+#: widgets/premium-image-button.php:268 widgets/premium-person.php:164
+#: widgets/premium-title.php:205 widgets/premium-world-clock.php:160
+#: widgets/premium-world-clock.php:266
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: widgets/premium-grid.php:1009
+msgid "Choose a layout style for the gallery"
+msgstr "Escolha um estilo de layout para a galeria"
+
+#: widgets/premium-blog.php:165 widgets/premium-grid.php:1007
+#: widgets/premium-notifications.php:1485
+#: widgets/premium-pinterest-feed.php:540 widgets/premium-tiktok-feed.php:425
+msgid "Skin"
+msgstr "Skin"
+
+#: widgets/premium-grid.php:989
+msgid "Image Gap"
+msgstr "Espaçamento de imagem"
+
+#: modules/woocommerce/widgets/woo-products.php:275
+#: widgets/premium-blog.php:228 widgets/premium-grid.php:196
+#: widgets/premium-pinterest-feed.php:799 widgets/premium-tiktok-feed.php:882
+msgid "Masonry"
+msgstr "Masonry"
+
+#: widgets/premium-blog.php:227 widgets/premium-grid.php:195
+msgid "Even"
+msgstr "Até"
+
+#: widgets/premium-grid.php:192
+msgid "Grid Layout"
+msgstr "Layout de grade"
+
+#: modules/woocommerce/widgets/woo-products.php:328
+#: widgets/premium-blog.php:277 widgets/premium-grid.php:272
+#: widgets/premium-person.php:353 widgets/premium-pinterest-feed.php:816
+#: widgets/premium-testimonials.php:734 widgets/premium-tiktok-feed.php:899
+#: widgets/premium-videobox.php:473
+msgid "6 Columns"
+msgstr "6 Colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:327
+#: widgets/premium-blog.php:276 widgets/premium-grid.php:271
+#: widgets/premium-person.php:352 widgets/premium-pinterest-feed.php:815
+#: widgets/premium-testimonials.php:733 widgets/premium-tiktok-feed.php:898
+#: widgets/premium-videobox.php:472
+msgid "5 Columns"
+msgstr "5 Colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:326
+#: widgets/premium-blog.php:275 widgets/premium-grid.php:270
+#: widgets/premium-person.php:351 widgets/premium-pinterest-feed.php:814
+#: widgets/premium-testimonials.php:732 widgets/premium-tiktok-feed.php:897
+#: widgets/premium-videobox.php:471
+msgid "4 Columns"
+msgstr "4 Colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:325
+#: widgets/premium-blog.php:274 widgets/premium-grid.php:269
+#: widgets/premium-person.php:350 widgets/premium-pinterest-feed.php:813
+#: widgets/premium-testimonials.php:731 widgets/premium-tiktok-feed.php:896
+#: widgets/premium-videobox.php:470
+msgid "3 Columns"
+msgstr "3 Colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:324
+#: widgets/premium-blog.php:273 widgets/premium-grid.php:268
+#: widgets/premium-person.php:349 widgets/premium-pinterest-feed.php:812
+#: widgets/premium-testimonials.php:730 widgets/premium-tiktok-feed.php:895
+#: widgets/premium-videobox.php:469
+msgid "2 Columns"
+msgstr "2 Colunas"
+
+#: modules/woocommerce/widgets/woo-products.php:323
+#: widgets/premium-blog.php:272 widgets/premium-grid.php:267
+#: widgets/premium-person.php:348 widgets/premium-pinterest-feed.php:811
+#: widgets/premium-testimonials.php:729 widgets/premium-tiktok-feed.php:894
+#: widgets/premium-videobox.php:468
+msgid "1 Column"
+msgstr "1 Coluna"
+
+#: widgets/premium-grid.php:260
+msgid "Columns"
+msgstr "Colunas"
+
+#: modules/woocommerce/skins/skin-1.php:560
+#: modules/woocommerce/skins/skin-2.php:135
+#: modules/woocommerce/skins/skin-3.php:131
+#: modules/woocommerce/skins/skin-4.php:164
+#: modules/woocommerce/skins/skin-5.php:675
+#: modules/woocommerce/skins/skin-6.php:136
+#: modules/woocommerce/skins/skin-7.php:143
+#: modules/woocommerce/skins/skin-8.php:143
+#: modules/woocommerce/skins/skin-9.php:141
+#: modules/woocommerce/skins/skin-10.php:141
+#: modules/woocommerce/skins/skin-11.php:143
+#: modules/woocommerce/skins/skin-base.php:144 widgets/premium-grid.php:485
+#: widgets/premium-grid.php:848
+msgid "Category"
+msgstr "Categoria"
+
+#: modules/premium-shape-divider/module.php:260
+#: modules/woocommerce/skins/skin-9.php:500
+#: modules/woocommerce/skins/skin-10.php:491 widgets/premium-carousel.php:356
+#: widgets/premium-grid.php:420 widgets/premium-grid.php:1684
+#: widgets/premium-media-wheel.php:1593 widgets/premium-media-wheel.php:2134
+#: widgets/premium-nav-menu.php:2928 widgets/premium-nav-menu.php:4182
+#: widgets/premium-notifications.php:731 widgets/premium-post-ticker.php:736
+#: widgets/premium-post-ticker.php:2950 widgets/premium-pricing-table.php:1257
+#: widgets/premium-pricing-table.php:1278 widgets/premium-videobox.php:748
+#: widgets/premium-vscroll.php:297 widgets/premium-world-clock.php:2103
+#: widgets/premium-world-clock.php:2239 widgets/premium-world-clock.php:2386
+msgid "Position"
+msgstr "Posição"
+
+#: widgets/premium-fancytext.php:450
+msgid "If you enabled this option, the slide will be paused when mouseover."
+msgstr "Se você ativou essa opção, o slide será pausado ao passar o mouse."
+
+#: widgets/premium-fancytext.php:435
+msgid "Show Items"
+msgstr "Mostrar itens"
+
+#: widgets/premium-fancytext.php:425
+msgid "How long should the word/string stay visible? Set a value in milliseconds."
+msgstr "Por quanto tempo a palavra/String ficará visível? Defina um valor em milissegundos."
+
+#: widgets/premium-fancytext.php:412
+msgid "Set a duration value in milliseconds for slide up effect."
+msgstr "Defina um valor de duração em milissegundos para o efeito de slide."
+
+#: widgets/premium-fancytext.php:293 widgets/premium-fancytext.php:409
+#: widgets/premium-lottie.php:206 widgets/premium-textual-showcase.php:1673
+msgid "Animation Speed"
+msgstr "Velocidade da animação"
+
+#: widgets/premium-fancytext.php:395
+msgid "Cursor Mark"
+msgstr "Marca do cursor"
+
+#: widgets/premium-fancytext.php:361
+msgid "If you set it on 5000 milliseconds, the word/string will remain visible for 5 seconds before backspace effect."
+msgstr "Se você defini-lo em 5000 milissegundos, a palavra/string permanecerá visível por 5 segundos antes do efeito Backspace."
+
+#: widgets/premium-fancytext.php:358
+msgid "Back Delay"
+msgstr "Atraso do retorno"
+
+#: widgets/premium-fancytext.php:348
+msgid "If you set it on 5000 milliseconds, the first word/string will appear after 5 seconds."
+msgstr "Se você defini-lo em 5000 milissegundos, a primeira palavra/string aparecerá após 5 segundos."
+
+#: widgets/premium-fancytext.php:345
+msgid "Start Delay"
+msgstr "Atraso de início"
+
+#: widgets/premium-fancytext.php:335
+msgid "Set a speed for backspace effect in milliseconds."
+msgstr "Defina uma velocidade para o efeito Backspace em milissegundos."
+
+#: widgets/premium-fancytext.php:332
+msgid "Back Speed"
+msgstr "Velocidade de volta"
+
+#: widgets/premium-fancytext.php:283
+msgid "Set typing effect speed in milliseconds."
+msgstr "Defina a velocidade do efeito de digitação em milissegundos."
+
+#: widgets/premium-fancytext.php:280
+msgid "Type Speed"
+msgstr "Tipo de velocidade"
+
+#: widgets/premium-fancytext.php:251
+msgid "Typing"
+msgstr "Digitação"
+
+#: widgets/premium-fancytext.php:200 widgets/premium-progressbar.php:1595
+msgid "Suffix"
+msgstr "Sufixo"
+
+#: widgets/premium-fancytext.php:155 widgets/premium-progressbar.php:1548
+msgid "Prefix"
+msgstr "Prefixo"
+
+#: widgets/premium-contactform.php:344 widgets/premium-contactform.php:1005
+#: widgets/premium-dual-header.php:209 widgets/premium-weather.php:798
+#: widgets/premium-world-clock.php:810
+msgid "Display"
+msgstr "Exibir"
+
+#: widgets/premium-dual-header.php:177 widgets/premium-dual-header.php:912
+msgid "Second Heading"
+msgstr "Segundo título"
+
+#: widgets/premium-banner.php:878 widgets/premium-banner.php:934
+#: widgets/premium-banner.php:1061 widgets/premium-banner.php:1204
+#: widgets/premium-dual-header.php:837 widgets/premium-dual-header.php:1073
+#: widgets/premium-grid.php:1454 widgets/premium-grid.php:1633
+#: widgets/premium-grid.php:1784 widgets/premium-grid.php:1875
+#: widgets/premium-maps.php:708 widgets/premium-media-wheel.php:2247
+#: widgets/premium-media-wheel.php:2314 widgets/premium-modalbox.php:1386
+#: widgets/premium-modalbox.php:1579 widgets/premium-nav-menu.php:1351
+#: widgets/premium-notifications.php:2717
+#: widgets/premium-pricing-table.php:2599
+#: widgets/premium-pricing-table.php:2747
+#: widgets/premium-pricing-table.php:2952
+#: widgets/premium-pricing-table.php:3057 widgets/premium-svg-drawer.php:812
+#: widgets/premium-title.php:1320 widgets/premium-videobox.php:1787
+#: widgets/premium-videobox.php:2063 widgets/premium-vscroll.php:884
+#: widgets/premium-vscroll.php:969 widgets/premium-vscroll.php:1029
+msgid "Shadow"
+msgstr "Sombra"
+
+#: widgets/premium-dual-header.php:165 widgets/premium-dual-header.php:676
+msgid "First Heading"
+msgstr "Primeiro título"
+
+#: admin/includes/elements.php:141 admin/includes/elements.php:776
+#: widgets/premium-dual-header.php:66 widgets/premium-dual-header.php:157
+msgid "Dual Heading"
+msgstr "Título duplo"
+
+#: widgets/premium-counter.php:1302 widgets/premium-fancytext.php:793
+#: widgets/premium-progressbar.php:1520
+msgid "Prefix & Suffix"
+msgstr "Prefixo & sufixo"
+
+#: widgets/premium-blog.php:865 widgets/premium-counter.php:988
+#: widgets/premium-fancytext.php:711
+msgid "Vertical Alignment"
+msgstr "Alinhamento vertical"
+
+#: widgets/premium-icon-list.php:260 widgets/premium-modalbox.php:219
+#: widgets/premium-progressbar.php:334
+msgid "Custom Image"
+msgstr "Imagem personalizada"
+
+#: widgets/premium-counter.php:235
+msgid "Value Prefix"
+msgstr "Prefixo de valor"
+
+#: admin/includes/elements.php:596 admin/includes/elements.php:1249
+#: widgets/premium-counter.php:61 widgets/premium-counter.php:165
+msgid "Counter"
+msgstr "Contador"
+
+#: widgets/premium-countdown.php:1102
+msgid "Units"
+msgstr "Unidades"
+
+#: widgets/premium-countdown.php:635
+msgid "Redirection Link"
+msgstr "Link de redirecionamento"
+
+#: widgets/premium-countdown.php:633
+msgid "Message"
+msgstr "Mensagem"
+
+#: widgets/premium-countdown.php:314 widgets/premium-world-clock.php:1894
+msgid "Time Units"
+msgstr "Unidades de tempo"
+
+#: widgets/premium-countdown.php:190
+msgid "Due Date"
+msgstr "Data de vencimento"
+
+#: widgets/premium-contactform.php:348 widgets/premium-contactform.php:1009
+#: widgets/premium-countdown.php:454 widgets/premium-dual-header.php:212
+#: widgets/premium-icon-list.php:1146 widgets/premium-weather.php:552
+#: widgets/premium-weather.php:653 widgets/premium-weather.php:802
+#: widgets/premium-world-clock.php:788 widgets/premium-world-clock.php:817
+#: widgets/premium-world-clock.php:855 widgets/premium-world-clock.php:893
+msgid "Inline"
+msgstr "Em linha"
+
+#: admin/includes/elements.php:416 admin/includes/elements.php:1071
+#: widgets/premium-countdown.php:52 widgets/premium-countdown.php:170
+msgid "Countdown"
+msgstr "Contagem regressiva"
+
+#: widgets/premium-blog.php:1282 widgets/premium-carousel.php:611
+#: widgets/premium-pinterest-feed.php:1049 widgets/premium-tiktok-feed.php:1082
+msgid "Slides' Spacing"
+msgstr "Espaçamento de slides"
+
+#: widgets/premium-fancytext.php:241 widgets/premium-post-ticker.php:833
+#: widgets/premium-world-clock.php:677
+msgid "Additional Settings"
+msgstr "Configurações adicionais"
+
+#: modules/woocommerce/widgets/woo-products.php:2057
+#: widgets/premium-blog.php:2880 widgets/premium-carousel.php:1196
+#: widgets/premium-pinterest-feed.php:2387 widgets/premium-tiktok-feed.php:2042
+msgid "Active Color"
+msgstr "Cor ativa"
+
+#: modules/woocommerce/widgets/woo-products.php:2028
+#: widgets/premium-blog.php:970 widgets/premium-carousel.php:345
+#: widgets/premium-notifications.php:1606
+#: widgets/premium-pinterest-feed.php:655 widgets/premium-progressbar.php:177
+#: widgets/premium-tiktok-feed.php:537 widgets/premium-vscroll.php:788
+msgid "Dots"
+msgstr "Pontos"
+
+#: widgets/premium-carousel.php:900
+msgid "Position (PX)"
+msgstr "Posição (PX)"
+
+#: widgets/premium-carousel.php:757
+msgid "Left Icon"
+msgstr "Ícone à esquerda"
+
+#: widgets/premium-carousel.php:726
+msgid "Top Icon"
+msgstr "Ícone superior"
+
+#: widgets/premium-carousel.php:814
+msgid "Right Icon"
+msgstr "Ícone à direita"
+
+#: modules/woocommerce/widgets/woo-products.php:1938
+#: widgets/premium-carousel.php:418 widgets/premium-media-wheel.php:1880
+#: widgets/premium-post-ticker.php:2708
+msgid "Arrows"
+msgstr "Setas"
+
+#: widgets/premium-carousel.php:310
+msgid "Mobile Slides"
+msgstr "Slides em dispositivo móvel"
+
+#: widgets/premium-carousel.php:301
+msgid "Tabs Slides"
+msgstr "Slides de abas"
+
+#: widgets/premium-carousel.php:292
+msgid "Desktop Slides"
+msgstr "Slides em Desktop"
+
+#: widgets/premium-carousel.php:278
+msgid "Appearance"
+msgstr "Aparência"
+
+#: modules/pa-display-conditions/module.php:190
+#: modules/woocommerce/widgets/woo-products.php:897
+#: modules/woocommerce/widgets/woo-products.php:1003
+#: widgets/premium-carousel.php:264 widgets/premium-countdown.php:177
+#: widgets/premium-grid.php:678 widgets/premium-media-wheel.php:355
+#: widgets/premium-pricing-table.php:1167 widgets/premium-progressbar.php:171
+#: widgets/premium-textual-showcase.php:264
+#: widgets/premium-textual-showcase.php:871
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/includes/elements.php:52 admin/includes/elements.php:676
+#: modules/woocommerce/widgets/woo-products.php:274
+#: modules/woocommerce/widgets/woo-products.php:1926
+#: widgets/premium-blog.php:1180 widgets/premium-carousel.php:68
+#: widgets/premium-carousel.php:170 widgets/premium-person.php:1016
+#: widgets/premium-person.php:1629 widgets/premium-pinterest-feed.php:951
+#: widgets/premium-testimonials.php:408 widgets/premium-testimonials.php:1265
+#: widgets/premium-tiktok-feed.php:985
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: widgets/premium-button.php:1075 widgets/premium-image-button.php:1023
+msgid "onclick Event"
+msgstr "evento ao clicar"
+
+#: modules/premium-wrapper-link/module.php:118 widgets/premium-banner.php:492
+#: widgets/premium-button.php:198 widgets/premium-dual-header.php:236
+#: widgets/premium-grid.php:858 widgets/premium-image-button.php:199
+#: widgets/premium-lottie.php:395 widgets/premium-media-wheel.php:644
+#: widgets/premium-pricing-table.php:1090
+#: widgets/premium-textual-showcase.php:1509 widgets/premium-title.php:841
+msgid "Link Type"
+msgstr "Tipo de link"
+
+#: includes/helper-functions.php:1379 widgets/premium-banner.php:268
+#: widgets/premium-blog.php:604 widgets/premium-button.php:243
+#: widgets/premium-grid.php:1059 widgets/premium-icon-list.php:1371
+#: widgets/premium-image-button.php:244 widgets/premium-notifications.php:1805
+#: widgets/premium-person.php:256 widgets/premium-videobox.php:1130
+msgid "Hover Effect"
+msgstr "Efeito ao passar o mouse"
+
+#: widgets/premium-banner.php:629
+msgid "Image Opacity"
+msgstr "Opacidade da imagem"
+
+#: widgets/premium-banner.php:575 widgets/premium-grid.php:1294
+msgid "Maximum Size"
+msgstr "Tamanho máximo"
+
+#: widgets/premium-banner.php:562 widgets/premium-grid.php:1281
+msgid "Minimum Size"
+msgstr "Tamanho mínimo"
+
+#: widgets/premium-banner.php:555
+msgid "If the description text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "Se o texto de descrição não estiver a ser bem utilizado em tamanhos de tela específicos, poderá ativar esta opção que ocultará o texto de descrição."
+
+#: widgets/premium-banner.php:546 widgets/premium-grid.php:1265
+msgid "Responsive"
+msgstr "Responsivo"
+
+#: widgets/premium-banner.php:392 widgets/premium-contactform.php:265
+#: widgets/premium-dual-header.php:189 widgets/premium-notifications.php:872
+#: widgets/premium-pricing-table.php:480 widgets/premium-title.php:607
+msgid "HTML Tag"
+msgstr "Tag HTML"
+
+#: widgets/premium-banner.php:198
+msgid "Custom Link"
+msgstr "Link personalizado"
+
+#: modules/premium-wrapper-link/module.php:122
+#: modules/premium-wrapper-link/module.php:147 widgets/premium-banner.php:223
+#: widgets/premium-banner.php:496 widgets/premium-banner.php:527
+#: widgets/premium-button.php:202 widgets/premium-button.php:229
+#: widgets/premium-dual-header.php:240 widgets/premium-dual-header.php:272
+#: widgets/premium-grid.php:862 widgets/premium-grid.php:890
+#: widgets/premium-icon-list.php:587 widgets/premium-icon-list.php:615
+#: widgets/premium-image-button.php:203 widgets/premium-image-button.php:230
+#: widgets/premium-image-scroll.php:236 widgets/premium-image-scroll.php:264
+#: widgets/premium-image-separator.php:578
+#: widgets/premium-image-separator.php:591 widgets/premium-lottie.php:399
+#: widgets/premium-lottie.php:431 widgets/premium-media-wheel.php:648
+#: widgets/premium-media-wheel.php:681 widgets/premium-pricing-table.php:1094
+#: widgets/premium-pricing-table.php:1117
+#: widgets/premium-textual-showcase.php:1513
+#: widgets/premium-textual-showcase.php:1541 widgets/premium-title.php:845
+#: widgets/premium-title.php:877
+msgid "Existing Page"
+msgstr "Página existente"
+
+#: widgets/premium-banner.php:577 widgets/premium-grid.php:1296
+msgid "Note: maximum size for extra small screens is 767px."
+msgstr "Nota: o tamanho máximo para telas pequenas extra é 767px."
+
+#: widgets/premium-banner.php:564 widgets/premium-grid.php:1283
+msgid "Note: minimum size for extra small screens is 1px."
+msgstr "Nota: o tamanho mínimo para telas pequenas extra é 1px."
+
+#: widgets/premium-banner.php:553 widgets/premium-grid.php:1272
+msgid "Responsive Controls"
+msgstr "Controles responsivos"
+
+#: widgets/premium-blog.php:509 widgets/premium-notifications.php:1429
+#: widgets/premium-person.php:458 widgets/premium-person.php:739
+#: widgets/premium-person.php:1215 widgets/premium-post-ticker.php:1292
+#: widgets/premium-testimonials.php:192 widgets/premium-testimonials.php:311
+msgid "Name"
+msgstr "Nome"
+
+#: includes/pa-display-conditions/conditions/post-format.php:44
+#: modules/premium-wrapper-link/module.php:132 widgets/premium-banner.php:190
+#: widgets/premium-banner.php:509 widgets/premium-button.php:212
+#: widgets/premium-dual-header.php:227 widgets/premium-dual-header.php:253
+#: widgets/premium-grid.php:875 widgets/premium-icon-list.php:574
+#: widgets/premium-image-button.php:213 widgets/premium-image-scroll.php:223
+#: widgets/premium-image-separator.php:565 widgets/premium-lottie.php:387
+#: widgets/premium-lottie.php:412 widgets/premium-media-wheel.php:620
+#: widgets/premium-media-wheel.php:662 widgets/premium-nav-menu.php:315
+#: widgets/premium-nav-menu.php:356 widgets/premium-notifications.php:1607
+#: widgets/premium-pinterest-feed.php:656 widgets/premium-post-ticker.php:1430
+#: widgets/premium-pricing-table.php:1104 widgets/premium-svg-drawer.php:591
+#: widgets/premium-testimonials.php:234 widgets/premium-testimonials.php:243
+#: widgets/premium-testimonials.php:333 widgets/premium-testimonials.php:341
+#: widgets/premium-textual-showcase.php:1501
+#: widgets/premium-tiktok-feed.php:538 widgets/premium-title.php:833
+#: widgets/premium-title.php:858 widgets/premium-videobox.php:170
+#: widgets/premium-videobox.php:367
+msgid "Link"
+msgstr "Link"
+
+#: admin/includes/elements.php:126 admin/includes/elements.php:761
+#: widgets/premium-fancytext.php:47 widgets/premium-fancytext.php:148
+#: widgets/premium-fancytext.php:179 widgets/premium-fancytext.php:525
+msgid "Fancy Text"
+msgstr "Texto extravagante"
+
+#: widgets/premium-fancytext.php:438
+msgid "How many items should be visible at a time?"
+msgstr "Quantos itens devem ser visíveis de cada vez?"
+
+#: widgets/premium-fancytext.php:422
+msgid "Pause Time (Milliseconds)"
+msgstr "Tempo de pausa (milissegundos)"
+
+#: widgets/premium-fancytext.php:383
+msgid "Show Cursor"
+msgstr "Mostrar cursor"
+
+#: modules/premium-global-tooltips/module.php:353
+#: modules/premium-section-floating-effects/module.php:884
+#: widgets/premium-button.php:708 widgets/premium-button.php:999
+#: widgets/premium-counter.php:529 widgets/premium-fancytext.php:371
+#: widgets/premium-grid.php:777 widgets/premium-icon-list.php:455
+#: widgets/premium-icon-list.php:1064 widgets/premium-image-button.php:700
+#: widgets/premium-image-button.php:848 widgets/premium-image-separator.php:439
+#: widgets/premium-lottie.php:187 widgets/premium-media-wheel.php:493
+#: widgets/premium-modalbox.php:279 widgets/premium-modalbox.php:672
+#: widgets/premium-modalbox.php:1037 widgets/premium-notifications.php:404
+#: widgets/premium-notifications.php:1099 widgets/premium-post-ticker.php:553
+#: widgets/premium-post-ticker.php:1625 widgets/premium-pricing-table.php:358
+#: widgets/premium-pricing-table.php:733 widgets/premium-pricing-table.php:968
+#: widgets/premium-progressbar.php:548 widgets/premium-svg-drawer.php:426
+#: widgets/premium-textual-showcase.php:515
+#: widgets/premium-textual-showcase.php:1123 widgets/premium-title.php:452
+#: widgets/premium-videobox.php:683
+msgid "Loop"
+msgstr "Loop"
+
+#: widgets/premium-fancytext.php:252 widgets/premium-nav-menu.php:1116
+#: widgets/premium-pinterest-feed.php:837 widgets/premium-tiktok-feed.php:935
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: widgets/premium-fancytext.php:204
+msgid "Text after Fancy text"
+msgstr "Texto após o texto extravagante"
+
+#: widgets/premium-fancytext.php:169
+msgid "Fancy String"
+msgstr "String extravagante"
+
+#: widgets/premium-fancytext.php:189
+msgid "Awesome"
+msgstr "Impressionante"
+
+#: widgets/premium-fancytext.php:186 widgets/premium-person.php:473
+#: widgets/premium-person.php:754
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: widgets/premium-fancytext.php:183
+msgid "Designer"
+msgstr "Designer"
+
+#: widgets/premium-fancytext.php:159
+msgid "Text before Fancy text"
+msgstr "Texto antes do texto extravagante"
+
+#: widgets/premium-fancytext.php:158
+msgid "This is"
+msgstr "Este é o"
+
+#: widgets/premium-banner.php:862 widgets/premium-icon-list.php:665
+#: widgets/premium-icon-list.php:886 widgets/premium-icon-list.php:1000
+#: widgets/premium-icon-list.php:1431 widgets/premium-icon-list.php:1746
+#: widgets/premium-icon-list.php:1959 widgets/premium-nav-menu.php:863
+msgid "Background"
+msgstr "Fundo"
+
+#: widgets/premium-dual-header.php:706 widgets/premium-dual-header.php:942
+msgid "Choose ‘Normal’ style to put a background behind the text. Choose ‘Clipped’ style so the background will be clipped on the text."
+msgstr "Escolha o estilo 'normal ' para colocar um fundo atrás do texto. Escolha o estilo 'cortado ' para que o plano de fundo será cortado no texto."
+
+#: widgets/premium-dual-header.php:703 widgets/premium-dual-header.php:939
+#: widgets/premium-title.php:1172
+msgid "Background Style"
+msgstr "Estilo de fundo"
+
+#: widgets/premium-dual-header.php:180
+msgid "Addons"
+msgstr "Complementos"
+
+#: widgets/premium-counter.php:1310
+msgid "Prefix Color"
+msgstr "Cor do prefixo"
+
+#: widgets/premium-counter.php:1336
+msgid "Suffix Color"
+msgstr "Cor do sufixo"
+
+#: widgets/premium-counter.php:257
+msgid "How long should it take to complete the digit?"
+msgstr "Quanto tempo deve demorar para completar o dígito?"
+
+#: widgets/premium-counter.php:248
+msgid "Enter suffix for counter value"
+msgstr "Digite o sufixo do valor do contador"
+
+#: includes/pa-display-conditions/conditions/acf-boolean.php:50
+#: includes/pa-display-conditions/conditions/acf-choice.php:50
+#: includes/pa-display-conditions/conditions/acf-text.php:50
+#: includes/pa-display-conditions/conditions/browser.php:34
+#: includes/pa-display-conditions/conditions/date-range.php:34
+#: includes/pa-display-conditions/conditions/date.php:34
+#: includes/pa-display-conditions/conditions/day.php:34
+#: includes/pa-display-conditions/conditions/device.php:34
+#: includes/pa-display-conditions/conditions/ip-location.php:45
+#: includes/pa-display-conditions/conditions/lang.php:34
+#: includes/pa-display-conditions/conditions/login-status.php:34
+#: includes/pa-display-conditions/conditions/operating-system.php:34
+#: includes/pa-display-conditions/conditions/page.php:36
+#: includes/pa-display-conditions/conditions/post-category.php:38
+#: includes/pa-display-conditions/conditions/post-format.php:34
+#: includes/pa-display-conditions/conditions/post-format.php:35
+#: includes/pa-display-conditions/conditions/post-type.php:36
+#: includes/pa-display-conditions/conditions/post.php:36
+#: includes/pa-display-conditions/conditions/return-visitor.php:34
+#: includes/pa-display-conditions/conditions/shortcode.php:34
+#: includes/pa-display-conditions/conditions/url-referer.php:34
+#: includes/pa-display-conditions/conditions/url-string.php:34
+#: includes/pa-display-conditions/conditions/user-role.php:35
+#: includes/pa-display-conditions/conditions/woo-cart-products.php:36
+#: includes/pa-display-conditions/conditions/woo-cat-page.php:34
+#: includes/pa-display-conditions/conditions/woo-category.php:34
+#: includes/pa-display-conditions/conditions/woo-product-cat.php:34
+#: includes/pa-display-conditions/conditions/woo-purchase-products.php:36
+#: widgets/premium-counter.php:1211 widgets/premium-progressbar.php:843
+msgid "Value"
+msgstr "Valor"
+
+#: widgets/premium-counter.php:238
+msgid "Enter prefix for counter value"
+msgstr "Digite o prefixo para o valor do contador"
+
+#: widgets/premium-counter.php:226
+msgid "Digits After Decimal Point"
+msgstr "Dígitos após o ponto decimal"
+
+#: widgets/premium-counter.php:215
+msgid "Thousands Separator"
+msgstr "Separador de milhares"
+
+#: widgets/premium-counter.php:175
+msgid "Enter title for stats counter block"
+msgstr "Digite o título para o bloco do contador de estatísticas"
+
+#: widgets/premium-counter.php:631
+msgid "Choose a position for your icon"
+msgstr "Escolha uma posição para o seu ícone"
+
+#: widgets/premium-counter.php:965
+msgid "Background size"
+msgstr "Tamanho do fundo"
+
+#: widgets/premium-counter.php:936
+msgid "Simple"
+msgstr "Simples"
+
+#: widgets/premium-counter.php:934
+msgid "We are giving you three quick preset if you are in a hurry. Otherwise, create your own with various options"
+msgstr "Estamos dando a você três pré-ajustes rápidos se você estiver com pressa. Caso contrário, crie o seu próprio com várias opções"
+
+#: widgets/premium-counter.php:334 widgets/premium-image-separator.php:201
+#: widgets/premium-nav-menu.php:551 widgets/premium-pricing-table.php:208
+#: widgets/premium-progressbar.php:347
+msgid "Select an Icon"
+msgstr "Selecione um ícone"
+
+#: widgets/premium-counter.php:313 widgets/premium-nav-menu.php:513
+msgid "Use a font awesome icon or upload a custom image"
+msgstr "Use um ícone de font awesome ou envie de uma imagem personalizada"
+
+#: admin/includes/templates/nav-menu-settings.php:100
+#: widgets/premium-button.php:504 widgets/premium-button.php:806
+#: widgets/premium-counter.php:311 widgets/premium-image-button.php:497
+#: widgets/premium-image-button.php:798 widgets/premium-modalbox.php:214
+#: widgets/premium-modalbox.php:542 widgets/premium-nav-menu.php:511
+#: widgets/premium-notifications.php:221 widgets/premium-notifications.php:902
+#: widgets/premium-post-ticker.php:328 widgets/premium-post-ticker.php:1453
+#: widgets/premium-pricing-table.php:193 widgets/premium-pricing-table.php:599
+#: widgets/premium-progressbar.php:330 widgets/premium-title.php:230
+msgid "Icon Type"
+msgstr "Tipo de ícone"
+
+#: widgets/premium-countdown.php:897
+msgid "Digits"
+msgstr "Dígitos"
+
+#: widgets/premium-countdown.php:865
+msgid "Seconds (Plural)"
+msgstr "Segundos (plural)"
+
+#: widgets/premium-countdown.php:855
+msgid "Second (Singular)"
+msgstr "Segundo (singular)"
+
+#: widgets/premium-countdown.php:845
+msgid "Minutes (Plural)"
+msgstr "Minutos (plural)"
+
+#: widgets/premium-countdown.php:835
+msgid "Minute (Singular)"
+msgstr "Minuto (singular)"
+
+#: widgets/premium-countdown.php:825
+msgid "Hours (Plural)"
+msgstr "Horas (plural)"
+
+#: widgets/premium-countdown.php:815
+msgid "Hour (Singular)"
+msgstr "Hora (singular)"
+
+#: widgets/premium-countdown.php:805
+msgid "Years (Plural)"
+msgstr "Anos (plural)"
+
+#: widgets/premium-countdown.php:795
+msgid "Year (Singular)"
+msgstr "Anos (singular)"
+
+#: modules/woocommerce/skins/skin-1.php:100
+#: modules/woocommerce/skins/skin-2.php:100
+#: modules/woocommerce/skins/skin-3.php:96
+#: modules/woocommerce/skins/skin-4.php:129
+#: modules/woocommerce/skins/skin-5.php:95
+#: modules/woocommerce/skins/skin-6.php:98
+#: modules/woocommerce/skins/skin-7.php:104
+#: modules/woocommerce/skins/skin-8.php:104
+#: modules/woocommerce/skins/skin-9.php:102
+#: modules/woocommerce/skins/skin-10.php:102
+#: modules/woocommerce/skins/skin-11.php:104 widgets/premium-blog.php:724
+#: widgets/premium-countdown.php:339 widgets/premium-counter.php:295
+#: widgets/premium-grid.php:981 widgets/premium-icon-list.php:1109
+#: widgets/premium-nav-menu.php:744 widgets/premium-pinterest-feed.php:579
+#: widgets/premium-pricing-table.php:1384 widgets/premium-tcloud.php:149
+#: widgets/premium-testimonials.php:549 widgets/premium-tiktok-feed.php:464
+#: widgets/premium-weather.php:535
+msgid "Display Options"
+msgstr "Opções de exibição"
+
+#: widgets/premium-countdown.php:785
+msgid "Months (Plural)"
+msgstr "Mês (plural)"
+
+#: widgets/premium-countdown.php:775
+msgid "Month (Singular)"
+msgstr "Mês (singular)"
+
+#: widgets/premium-countdown.php:765
+msgid "Day (Plural)"
+msgstr "Dia (plural)"
+
+#: widgets/premium-countdown.php:755
+msgid "Day (Singular)"
+msgstr "Dia (singular)"
+
+#: widgets/premium-countdown.php:745
+msgid "Strings Translation"
+msgstr "Tradução de strings"
+
+#: modules/pa-display-conditions/module.php:107
+#: modules/premium-global-tooltips/module.php:270
+#: widgets/premium-banner.php:479 widgets/premium-button.php:187
+#: widgets/premium-countdown.php:663 widgets/premium-dual-header.php:412
+#: widgets/premium-fancytext.php:203 widgets/premium-icon-list.php:232
+#: widgets/premium-icon-list.php:278 widgets/premium-image-button.php:188
+#: widgets/premium-modalbox.php:431 widgets/premium-modalbox.php:504
+#: widgets/premium-modalbox.php:1009 widgets/premium-nav-menu.php:329
+#: widgets/premium-nav-menu.php:864 widgets/premium-nav-menu.php:1640
+#: widgets/premium-nav-menu.php:2444 widgets/premium-nav-menu.php:2767
+#: widgets/premium-notifications.php:227 widgets/premium-notifications.php:508
+#: widgets/premium-post-ticker.php:1420 widgets/premium-post-ticker.php:1636
+#: widgets/premium-pricing-table.php:469 widgets/premium-pricing-table.php:588
+#: widgets/premium-pricing-table.php:1079
+#: widgets/premium-pricing-table.php:1182
+#: widgets/premium-pricing-table.php:2157
+#: widgets/premium-pricing-table.php:2442
+#: widgets/premium-textual-showcase.php:269
+#: widgets/premium-textual-showcase.php:281
+#: widgets/premium-textual-showcase.php:877
+#: widgets/premium-textual-showcase.php:889
+#: widgets/premium-textual-showcase.php:1972 widgets/premium-title.php:900
+#: widgets/premium-videobox.php:860 widgets/premium-videobox.php:1551
+#: widgets/premium-world-clock.php:412
+msgid "Text"
+msgstr "Texto"
+
+#: widgets/premium-countdown.php:240 widgets/premium-countdown.php:283
+#: widgets/premium-countdown.php:322 widgets/premium-countdown.php:363
+#: widgets/premium-countdown.php:719 widgets/premium-world-clock.php:2120
+msgid "Minutes"
+msgstr "Minutos"
+
+#: widgets/premium-countdown.php:224 widgets/premium-countdown.php:267
+#: widgets/premium-countdown.php:321 widgets/premium-countdown.php:362
+#: widgets/premium-countdown.php:707 widgets/premium-weather.php:2396
+#: widgets/premium-weather.php:3417 widgets/premium-world-clock.php:1984
+msgid "Hours"
+msgstr "Horas"
+
+#: includes/pa-display-conditions/pa-controls-handler.php:94
+#: widgets/premium-notifications.php:1408
+#: widgets/premium-pinterest-feed.php:254 widgets/premium-tiktok-feed.php:225
+#: widgets/premium-videobox.php:278 widgets/premium-weather.php:424
+msgid "Day"
+msgstr "Dia"
+
+#: widgets/premium-notifications.php:1409
+#: widgets/premium-pinterest-feed.php:255 widgets/premium-tiktok-feed.php:226
+#: widgets/premium-videobox.php:279
+msgid "Week"
+msgstr "Semana"
+
+#: widgets/premium-notifications.php:1410
+#: widgets/premium-pinterest-feed.php:256 widgets/premium-tiktok-feed.php:227
+#: widgets/premium-videobox.php:280
+msgid "Month"
+msgstr "Mês"
+
+#: widgets/premium-countdown.php:318 widgets/premium-countdown.php:359
+msgid "Years"
+msgstr "Anos"
+
+#: widgets/premium-countdown.php:316
+msgid "Select the time units that you want to display in countdown timer."
+msgstr "Selecione as unidades de tempo que você deseja exibir no temporizador de contagem regressiva."
+
+#: widgets/premium-countdown.php:305
+msgid "User Local Time"
+msgstr "Hora local do usuário"
+
+#: widgets/premium-countdown.php:304
+msgid "WordPress Default"
+msgstr "Padrão do WordPress"
+
+#: widgets/premium-countdown.php:191
+msgid "Date format is (yyyy/mm/dd). Time format is (hh:mm:ss). Example: 2020-01-01 09:30."
+msgstr "O formato de data é (aaaa/mm/dd). O formato de hora é (hh:mm:ss). Exemplo: 2020-01-01 09:30."
+
+#: widgets/premium-contactform.php:336 widgets/premium-progressbar.php:265
+#: widgets/premium-progressbar.php:1116
+msgid "Labels"
+msgstr "Rótulos"
+
+#: widgets/premium-contactform.php:138
+msgid "Contact Form"
+msgstr "Formulário de contato"
+
+#: widgets/premium-blog.php:1283 widgets/premium-carousel.php:612
+#: widgets/premium-pinterest-feed.php:1050 widgets/premium-tiktok-feed.php:1083
+msgid "Set a spacing value in pixels (px)"
+msgstr "Definir um valor de espaçamento em pixels (px)"
+
+#: widgets/premium-carousel.php:603
+msgid "Center mode enables a centered view with partial next/previous slides. Animations and all visible scroll type doesn't work with this mode"
+msgstr "O modo central habilita uma exibição centralizada com slides parciais próximos/anteriores. Animações e todos os tipos de rolagem visíveis não funcionam com esse modo"
+
+#: widgets/premium-blog.php:1270 widgets/premium-carousel.php:602
+#: widgets/premium-pinterest-feed.php:1038 widgets/premium-tiktok-feed.php:1071
+msgid "Center Mode"
+msgstr "Modo centralizado"
+
+#: widgets/premium-carousel.php:594
+msgid "Pause the slider when mouse hover"
+msgstr "Pausar o slider quando passar o mouse"
+
+#: modules/woocommerce/widgets/woo-products.php:592
+#: widgets/premium-carousel.php:593 widgets/premium-fancytext.php:448
+#: widgets/premium-media-wheel.php:1122
+msgid "Pause on Hover"
+msgstr "Pausa ao passar o mouse"
+
+#: widgets/premium-carousel.php:585
+msgid "Adaptive height setting gives each slide a fixed height to avoid huge white space gaps"
+msgstr "Ajuste de altura adaptável dá a cada slide uma altura fixa para evitar enormes lacunas de espaço em branco"
+
+#: widgets/premium-carousel.php:584
+msgid "Adaptive Height"
+msgstr "Altura adaptativa"
+
+#: widgets/premium-carousel.php:564
+msgid "Turn on RTL mode if your language starts from right to left"
+msgstr "Ative o modo RTL se o seu idioma começar da direita para a esquerda"
+
+#: widgets/premium-carousel.php:563 widgets/premium-grid.php:1129
+msgid "RTL Mode"
+msgstr "Modo RTL"
+
+#: widgets/premium-carousel.php:554
+msgid "Enable slide moving with touch"
+msgstr "Ativar slide movendo com toque"
+
+#: widgets/premium-carousel.php:553
+msgid "Touch Move"
+msgstr "Toque em mover"
+
+#: widgets/premium-carousel.php:544
+msgid "Allow the slides to be dragged by mouse click"
+msgstr "Permitir que os slides sejam arrastados pelo clique do mouse"
+
+#: widgets/premium-carousel.php:543
+msgid "Draggable Effect"
+msgstr "Efeito Draggable"
+
+#: widgets/premium-counter.php:938
+msgid "Square Background"
+msgstr "Fundo quadrado"
+
+#: widgets/premium-counter.php:937
+msgid "Circle Background"
+msgstr "Fundo redondo"
+
+#: admin/includes/templates/integrations.php:59
+#: modules/premium-shape-divider/module.php:231
+#: modules/woocommerce/widgets/woo-products.php:1006
+#: widgets/premium-banner.php:290 widgets/premium-contactform.php:347
+#: widgets/premium-contactform.php:1008 widgets/premium-countdown.php:157
+#: widgets/premium-countdown.php:632 widgets/premium-grid.php:1218
+#: widgets/premium-media-wheel.php:260 widgets/premium-media-wheel.php:1233
+#: widgets/premium-pinterest-feed.php:758 widgets/premium-tcloud.php:157
+#: widgets/premium-textual-showcase.php:324
+#: widgets/premium-textual-showcase.php:932 widgets/premium-tiktok-feed.php:702
+#: widgets/premium-videobox.php:1061 widgets/premium-videobox.php:1370
+#: widgets/premium-vscroll.php:513
+msgid "Default"
+msgstr "Padrão"
+
+#: widgets/premium-carousel.php:419
+msgid "Enable or disable navigation arrows"
+msgstr "Ativar ou desativar as setas de navegação"
+
+#: widgets/premium-carousel.php:330 widgets/premium-carousel.php:340
+#: widgets/premium-carousel.php:1036 widgets/premium-vscroll.php:281
+msgid "Navigation"
+msgstr "Navegação"
+
+#: widgets/premium-carousel.php:513 widgets/premium-counter.php:648
+#: widgets/premium-fancytext.php:267
+msgid "Animations"
+msgstr "Animações"
+
+#: widgets/premium-blog.php:1238 widgets/premium-carousel.php:501
+#: widgets/premium-person.php:1038 widgets/premium-pinterest-feed.php:996
+#: widgets/premium-testimonials.php:468 widgets/premium-tiktok-feed.php:1029
+msgid "Autoplay Speed means at which time the next slide should come. Set a value in milliseconds (ms)"
+msgstr "A velocidade de reprodução automática significa em que momento o próximo slide deve vir. Definir um valor em milissegundos (MS)"
+
+#: modules/woocommerce/widgets/woo-products.php:613
+#: widgets/premium-blog.php:1237 widgets/premium-carousel.php:500
+#: widgets/premium-person.php:1037 widgets/premium-pinterest-feed.php:995
+#: widgets/premium-testimonials.php:467 widgets/premium-tiktok-feed.php:1028
+msgid "Autoplay Speed"
+msgstr "Velocidade da reprodução automática"
+
+#: widgets/premium-carousel.php:491
+msgid "Slide will start automatically"
+msgstr "O slide iniciará automaticamente"
+
+#: widgets/premium-carousel.php:476
+msgid "Set a navigation speed value. The value will be counted in milliseconds (ms)"
+msgstr "Defina um valor de velocidade de navegação. O valor será contado em milissegundos (MS)"
+
+#: widgets/premium-carousel.php:443
+msgid "Restart the slider automatically as it passes the last slide"
+msgstr "Reinicie o slider automaticamente ao passar pelo último slide"
+
+#: modules/woocommerce/widgets/woo-products.php:603
+#: widgets/premium-carousel.php:441
+msgid "Infinite Loop"
+msgstr "Repetição infinita"
+
+#: widgets/premium-carousel.php:284
+msgid "One at a time"
+msgstr "Um de cada vez"
+
+#: widgets/premium-carousel.php:283
+msgid "All visible"
+msgstr "Todos visíveis"
+
+#: widgets/premium-carousel.php:269 widgets/premium-fancytext.php:663
+#: widgets/premium-image-button.php:411 widgets/premium-image-scroll.php:415
+#: widgets/premium-image-scroll.php:469 widgets/premium-media-wheel.php:1015
+#: widgets/premium-post-ticker.php:1856 widgets/premium-videobox.php:1289
+msgid "Vertical"
+msgstr "Vertical"
+
+#: widgets/premium-carousel.php:268 widgets/premium-fancytext.php:644
+#: widgets/premium-image-button.php:410 widgets/premium-image-scroll.php:396
+#: widgets/premium-image-scroll.php:468 widgets/premium-media-wheel.php:1016
+#: widgets/premium-videobox.php:1270
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: widgets/premium-carousel.php:265
+msgid "Set a navigation type"
+msgstr "Definir um tipo de navegação"
+
+#: widgets/premium-carousel.php:192
+msgid "Slider content is a template which you can choose from Elementor library. Each template will be a slider content"
+msgstr "O conteúdo do slider é um modelo que você pode escolher na biblioteca elementor. Cada modelo será um conteúdo de slide"
+
+#: widgets/premium-button.php:1339 widgets/premium-button.php:1615
+#: widgets/premium-image-button.php:1290 widgets/premium-image-button.php:1595
+msgid "Button Shadow"
+msgstr "Sombra do botão"
+
+#: widgets/premium-button.php:1330 widgets/premium-button.php:1603
+#: widgets/premium-fancytext.php:581 widgets/premium-image-button.php:1281
+#: widgets/premium-image-button.php:1583
+msgid "Text Shadow"
+msgstr "Sombra de texto"
+
+#: widgets/premium-button.php:1316 widgets/premium-button.php:1576
+#: widgets/premium-button.php:1590 widgets/premium-image-button.php:1267
+#: widgets/premium-image-button.php:1556 widgets/premium-image-button.php:1570
+#: widgets/premium-image-separator.php:921 widgets/premium-title.php:1774
+msgid "Icon Shadow"
+msgstr "Sombra do ícone"
+
+#: admin/includes/templates/nav-menu-settings.php:131
+#: modules/premium-global-tooltips/module.php:512
+#: widgets/premium-button.php:1214 widgets/premium-button.php:1398
+#: widgets/premium-button.php:1457 widgets/premium-image-button.php:1160
+#: widgets/premium-image-button.php:1361 widgets/premium-image-button.php:1420
+#: widgets/premium-image-scroll.php:610 widgets/premium-maps.php:1052
+#: widgets/premium-media-wheel.php:563 widgets/premium-media-wheel.php:1346
+#: widgets/premium-modalbox.php:1300 widgets/premium-modalbox.php:1438
+#: widgets/premium-nav-menu.php:1977 widgets/premium-nav-menu.php:2012
+#: widgets/premium-notifications.php:2610
+#: widgets/premium-pinterest-feed.php:1332
+#: widgets/premium-pinterest-feed.php:1363 widgets/premium-post-ticker.php:2032
+#: widgets/premium-post-ticker.php:2331 widgets/premium-pricing-table.php:868
+#: widgets/premium-tiktok-feed.php:1885 widgets/premium-tiktok-feed.php:2232
+#: widgets/premium-tiktok-feed.php:2263 widgets/premium-weather.php:1502
+#: widgets/premium-weather.php:1634 widgets/premium-weather.php:2066
+#: widgets/premium-weather.php:2469
+msgid "Icon Color"
+msgstr "Cor do ícone"
+
+#: modules/premium-global-tooltips/module.php:458
+#: modules/woocommerce/widgets/woo-products.php:1519
+#: widgets/premium-blog.php:2116 widgets/premium-button.php:1200
+#: widgets/premium-button.php:1381 widgets/premium-contactform.php:1047
+#: widgets/premium-contactform.php:1339 widgets/premium-dual-header.php:718
+#: widgets/premium-dual-header.php:954 widgets/premium-grid.php:1945
+#: widgets/premium-grid.php:2026 widgets/premium-grid.php:2104
+#: widgets/premium-grid.php:2245 widgets/premium-icon-list.php:651
+#: widgets/premium-icon-list.php:1420 widgets/premium-icon-list.php:1944
+#: widgets/premium-image-button.php:1146 widgets/premium-image-button.php:1344
+#: widgets/premium-maps.php:834 widgets/premium-maps.php:928
+#: widgets/premium-maps.php:1024 widgets/premium-maps.php:1072
+#: widgets/premium-modalbox.php:2011 widgets/premium-notifications.php:3171
+#: widgets/premium-pinterest-feed.php:1343
+#: widgets/premium-pinterest-feed.php:1374
+#: widgets/premium-pinterest-feed.php:1570
+#: widgets/premium-pinterest-feed.php:1590
+#: widgets/premium-pricing-table.php:913 widgets/premium-pricing-table.php:2556
+#: widgets/premium-tcloud.php:539 widgets/premium-tcloud.php:651
+#: widgets/premium-textual-showcase.php:693
+#: widgets/premium-textual-showcase.php:1301
+#: widgets/premium-textual-showcase.php:1981
+#: widgets/premium-tiktok-feed.php:2243 widgets/premium-tiktok-feed.php:2274
+#: widgets/premium-tiktok-feed.php:2467 widgets/premium-tiktok-feed.php:2487
+#: widgets/premium-videobox.php:1998 widgets/premium-videobox.php:2287
+#: widgets/premium-vscroll.php:927 widgets/premium-vscroll.php:987
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: admin/includes/elements.php:430 admin/includes/elements.php:1085
+#: widgets/premium-banner.php:461 widgets/premium-banner.php:471
+#: widgets/premium-banner.php:957 widgets/premium-blog.php:2209
+#: widgets/premium-button.php:78 widgets/premium-button.php:180
+#: widgets/premium-button.php:1133 widgets/premium-image-button.php:181
+#: widgets/premium-image-button.php:1081 widgets/premium-modalbox.php:502
+#: widgets/premium-notifications.php:3264
+#: widgets/premium-pricing-table.php:1069
+#: widgets/premium-pricing-table.php:1434
+#: widgets/premium-pricing-table.php:2525
+msgid "Button"
+msgstr "Botão"
+
+#: widgets/premium-button.php:1083 widgets/premium-image-button.php:1032
+msgid "Example: myFunction();"
+msgstr "Exemplo: myFunction ();"
+
+#: widgets/premium-button.php:1033 widgets/premium-contactform.php:1010
+#: widgets/premium-countdown.php:455 widgets/premium-dual-header.php:213
+#: widgets/premium-icon-list.php:1147 widgets/premium-image-button.php:981
+#: widgets/premium-modalbox.php:980 widgets/premium-weather.php:556
+#: widgets/premium-weather.php:657 widgets/premium-weather.php:806
+#: widgets/premium-world-clock.php:792 widgets/premium-world-clock.php:821
+#: widgets/premium-world-clock.php:859 widgets/premium-world-clock.php:897
+msgid "Block"
+msgstr "Bloco"
+
+#: widgets/premium-button.php:1032 widgets/premium-image-button.php:980
+#: widgets/premium-modalbox.php:979 widgets/premium-pinterest-feed.php:727
+msgid "Large"
+msgstr "Grande"
+
+#: widgets/premium-button.php:1031 widgets/premium-image-button.php:979
+#: widgets/premium-modalbox.php:978 widgets/premium-pinterest-feed.php:726
+msgid "Medium"
+msgstr "Médio"
+
+#: widgets/premium-button.php:1030 widgets/premium-image-button.php:978
+#: widgets/premium-modalbox.php:977
+msgid "Small"
+msgstr "Pequeno"
+
+#: modules/premium-global-tooltips/module.php:671
+#: modules/woocommerce/skins/skin-1.php:254
+#: modules/woocommerce/skins/skin-1.php:369
+#: modules/woocommerce/skins/skin-1.php:604
+#: modules/woocommerce/skins/skin-2.php:239
+#: modules/woocommerce/skins/skin-2.php:347
+#: modules/woocommerce/skins/skin-2.php:559
+#: modules/woocommerce/skins/skin-3.php:243
+#: modules/woocommerce/skins/skin-3.php:359
+#: modules/woocommerce/skins/skin-3.php:574
+#: modules/woocommerce/skins/skin-4.php:366
+#: modules/woocommerce/skins/skin-4.php:593
+#: modules/woocommerce/skins/skin-5.php:218
+#: modules/woocommerce/skins/skin-5.php:326
+#: modules/woocommerce/skins/skin-5.php:533
+#: modules/woocommerce/skins/skin-6.php:251
+#: modules/woocommerce/skins/skin-6.php:367
+#: modules/woocommerce/skins/skin-6.php:574
+#: modules/woocommerce/skins/skin-7.php:298
+#: modules/woocommerce/skins/skin-7.php:345
+#: modules/woocommerce/skins/skin-7.php:394
+#: modules/woocommerce/skins/skin-7.php:599
+#: modules/woocommerce/skins/skin-8.php:239
+#: modules/woocommerce/skins/skin-8.php:348
+#: modules/woocommerce/skins/skin-8.php:556
+#: modules/woocommerce/skins/skin-9.php:241
+#: modules/woocommerce/skins/skin-9.php:302
+#: modules/woocommerce/skins/skin-9.php:512
+#: modules/woocommerce/skins/skin-10.php:241
+#: modules/woocommerce/skins/skin-10.php:290
+#: modules/woocommerce/skins/skin-10.php:503
+#: modules/woocommerce/skins/skin-11.php:239
+#: modules/woocommerce/skins/skin-11.php:292
+#: modules/woocommerce/skins/skin-11.php:431
+#: modules/woocommerce/skins/skin-11.php:669
+#: modules/woocommerce/skins/skin-base.php:238
+#: modules/woocommerce/widgets/woo-products.php:1601
+#: modules/woocommerce/widgets/woo-products.php:1690
+#: modules/woocommerce/widgets/woo-products.php:1733
+#: modules/woocommerce/widgets/woo-products.php:2013
+#: modules/woocommerce/widgets/woo-products.php:2222
+#: modules/woocommerce/widgets/woo-products.php:2237
+#: modules/woocommerce/widgets/woo-products.php:2413
+#: modules/woocommerce/widgets/woo-products.php:2428
+#: modules/woocommerce/widgets/woo-products.php:2591
+#: widgets/premium-banner.php:1082 widgets/premium-banner.php:1225
+#: widgets/premium-blog.php:1645 widgets/premium-blog.php:2028
+#: widgets/premium-blog.php:2195 widgets/premium-blog.php:2347
+#: widgets/premium-blog.php:2498 widgets/premium-blog.php:2806
+#: widgets/premium-blog.php:2960 widgets/premium-button.php:1360
+#: widgets/premium-button.php:1636 widgets/premium-contactform.php:445
+#: widgets/premium-contactform.php:760 widgets/premium-contactform.php:1306
+#: widgets/premium-contactform.php:1515 widgets/premium-contactform.php:1606
+#: widgets/premium-contactform.php:1694 widgets/premium-countdown.php:1085
+#: widgets/premium-countdown.php:1167 widgets/premium-countdown.php:1420
+#: widgets/premium-countdown.php:1509 widgets/premium-counter.php:1197
+#: widgets/premium-counter.php:1288 widgets/premium-dual-header.php:859
+#: widgets/premium-dual-header.php:1095 widgets/premium-grid.php:1401
+#: widgets/premium-grid.php:1495 widgets/premium-grid.php:1662
+#: widgets/premium-grid.php:1805 widgets/premium-grid.php:1896
+#: widgets/premium-grid.php:2200 widgets/premium-grid.php:2331
+#: widgets/premium-grid.php:2423 widgets/premium-icon-list.php:1617
+#: widgets/premium-icon-list.php:1822 widgets/premium-icon-list.php:2027
+#: widgets/premium-image-button.php:1311 widgets/premium-image-button.php:1616
+#: widgets/premium-image-separator.php:932 widgets/premium-lottie.php:681
+#: widgets/premium-maps.php:729 widgets/premium-maps.php:813
+#: widgets/premium-maps.php:880 widgets/premium-maps.php:962
+#: widgets/premium-media-wheel.php:807 widgets/premium-media-wheel.php:1388
+#: widgets/premium-media-wheel.php:1652 widgets/premium-media-wheel.php:1739
+#: widgets/premium-media-wheel.php:2103 widgets/premium-media-wheel.php:2177
+#: widgets/premium-modalbox.php:1595 widgets/premium-modalbox.php:1811
+#: widgets/premium-modalbox.php:1989 widgets/premium-modalbox.php:2194
+#: widgets/premium-nav-menu.php:1382 widgets/premium-nav-menu.php:2246
+#: widgets/premium-nav-menu.php:2356 widgets/premium-nav-menu.php:2548
+#: widgets/premium-nav-menu.php:2675 widgets/premium-nav-menu.php:2871
+#: widgets/premium-nav-menu.php:3023 widgets/premium-nav-menu.php:3110
+#: widgets/premium-nav-menu.php:3300 widgets/premium-nav-menu.php:3418
+#: widgets/premium-nav-menu.php:3533 widgets/premium-nav-menu.php:3650
+#: widgets/premium-nav-menu.php:3749 widgets/premium-nav-menu.php:3913
+#: widgets/premium-nav-menu.php:4023 widgets/premium-nav-menu.php:4121
+#: widgets/premium-nav-menu.php:4277 widgets/premium-nav-menu.php:4397
+#: widgets/premium-notifications.php:2087
+#: widgets/premium-notifications.php:2228
+#: widgets/premium-notifications.php:2368
+#: widgets/premium-notifications.php:2483
+#: widgets/premium-notifications.php:2565
+#: widgets/premium-notifications.php:2758
+#: widgets/premium-notifications.php:2818
+#: widgets/premium-notifications.php:3250
+#: widgets/premium-notifications.php:3403
+#: widgets/premium-notifications.php:3527 widgets/premium-person.php:1256
+#: widgets/premium-person.php:1323 widgets/premium-person.php:1378
+#: widgets/premium-person.php:1537 widgets/premium-person.php:1615
+#: widgets/premium-person.php:1720 widgets/premium-pinterest-feed.php:1219
+#: widgets/premium-pinterest-feed.php:1422
+#: widgets/premium-pinterest-feed.php:1668
+#: widgets/premium-pinterest-feed.php:2121
+#: widgets/premium-pinterest-feed.php:2212
+#: widgets/premium-pinterest-feed.php:2481 widgets/premium-post-ticker.php:2147
+#: widgets/premium-post-ticker.php:2237 widgets/premium-post-ticker.php:2599
+#: widgets/premium-post-ticker.php:2685 widgets/premium-post-ticker.php:2861
+#: widgets/premium-post-ticker.php:2902 widgets/premium-pricing-table.php:1603
+#: widgets/premium-pricing-table.php:1701
+#: widgets/premium-pricing-table.php:1786
+#: widgets/premium-pricing-table.php:2132
+#: widgets/premium-pricing-table.php:2318
+#: widgets/premium-pricing-table.php:2511
+#: widgets/premium-pricing-table.php:2620
+#: widgets/premium-pricing-table.php:2768
+#: widgets/premium-pricing-table.php:2973
+#: widgets/premium-pricing-table.php:3078 widgets/premium-progressbar.php:1328
+#: widgets/premium-svg-drawer.php:844 widgets/premium-tcloud.php:630
+#: widgets/premium-tcloud.php:742 widgets/premium-testimonials.php:1357
+#: widgets/premium-testimonials.php:1474
+#: widgets/premium-textual-showcase.php:1846
+#: widgets/premium-textual-showcase.php:2112
+#: widgets/premium-tiktok-feed.php:1237 widgets/premium-tiktok-feed.php:1353
+#: widgets/premium-tiktok-feed.php:1810 widgets/premium-tiktok-feed.php:1940
+#: widgets/premium-tiktok-feed.php:2122 widgets/premium-tiktok-feed.php:2322
+#: widgets/premium-title.php:1393 widgets/premium-title.php:1762
+#: widgets/premium-videobox.php:1947 widgets/premium-videobox.php:2051
+#: widgets/premium-videobox.php:2187 widgets/premium-videobox.php:2445
+#: widgets/premium-vscroll.php:771 widgets/premium-vscroll.php:1073
+#: widgets/premium-weather.php:1325 widgets/premium-weather.php:1414
+#: widgets/premium-weather.php:1801 widgets/premium-weather.php:1889
+#: widgets/premium-weather.php:2286 widgets/premium-weather.php:2356
+#: widgets/premium-weather.php:2657 widgets/premium-weather.php:2727
+#: widgets/premium-weather.php:3317 widgets/premium-weather.php:3393
+#: widgets/premium-weather.php:3502 widgets/premium-weather.php:3678
+#: widgets/premium-world-clock.php:1515 widgets/premium-world-clock.php:1824
+#: widgets/premium-world-clock.php:2046 widgets/premium-world-clock.php:2182
+#: widgets/premium-world-clock.php:2328 widgets/premium-world-clock.php:2456
+#: widgets/premium-world-clock.php:2696 widgets/premium-world-clock.php:2765
+#: widgets/premium-world-clock.php:2838
+msgid "Padding"
+msgstr "Espaçamento"
+
+#: modules/woocommerce/skins/skin-1.php:321
+#: modules/woocommerce/skins/skin-2.php:304
+#: modules/woocommerce/skins/skin-3.php:312
+#: modules/woocommerce/skins/skin-4.php:316
+#: modules/woocommerce/skins/skin-5.php:283
+#: modules/woocommerce/skins/skin-6.php:320
+#: modules/woocommerce/skins/skin-11.php:304
+#: modules/woocommerce/skins/skin-base.php:121
+#: modules/woocommerce/skins/skin-base.php:185
+#: modules/woocommerce/skins/skin-base.php:326
+#: modules/woocommerce/widgets/woo-products.php:1589
+#: modules/woocommerce/widgets/woo-products.php:1678
+#: modules/woocommerce/widgets/woo-products.php:2253
+#: modules/woocommerce/widgets/woo-products.php:2444
+#: widgets/premium-banner.php:887 widgets/premium-banner.php:943
+#: widgets/premium-banner.php:1070 widgets/premium-banner.php:1213
+#: widgets/premium-blog.php:1633 widgets/premium-blog.php:2016
+#: widgets/premium-blog.php:2183 widgets/premium-blog.php:2793
+#: widgets/premium-button.php:1348 widgets/premium-button.php:1624
+#: widgets/premium-contactform.php:433 widgets/premium-contactform.php:541
+#: widgets/premium-contactform.php:603 widgets/premium-contactform.php:1122
+#: widgets/premium-contactform.php:1503 widgets/premium-contactform.php:1594
+#: widgets/premium-contactform.php:1682 widgets/premium-countdown.php:1070
+#: widgets/premium-countdown.php:1155 widgets/premium-countdown.php:1408
+#: widgets/premium-countdown.php:1521 widgets/premium-counter.php:1070
+#: widgets/premium-counter.php:1185 widgets/premium-counter.php:1276
+#: widgets/premium-dual-header.php:846 widgets/premium-dual-header.php:1082
+#: widgets/premium-grid.php:1389 widgets/premium-grid.php:1483
+#: widgets/premium-grid.php:1650 widgets/premium-grid.php:1793
+#: widgets/premium-grid.php:1884 widgets/premium-grid.php:2188
+#: widgets/premium-grid.php:2319 widgets/premium-grid.php:2411
+#: widgets/premium-icon-list.php:1605 widgets/premium-icon-list.php:1809
+#: widgets/premium-icon-list.php:1902 widgets/premium-icon-list.php:2009
+#: widgets/premium-image-button.php:1299 widgets/premium-image-button.php:1604
+#: widgets/premium-maps.php:717 widgets/premium-maps.php:868
+#: widgets/premium-maps.php:950 widgets/premium-media-wheel.php:830
+#: widgets/premium-media-wheel.php:1462 widgets/premium-media-wheel.php:1513
+#: widgets/premium-media-wheel.php:1664 widgets/premium-media-wheel.php:1762
+#: widgets/premium-modalbox.php:2182 widgets/premium-nav-menu.php:2481
+#: widgets/premium-nav-menu.php:2560 widgets/premium-nav-menu.php:2804
+#: widgets/premium-nav-menu.php:2883 widgets/premium-nav-menu.php:3011
+#: widgets/premium-nav-menu.php:3124 widgets/premium-nav-menu.php:3312
+#: widgets/premium-nav-menu.php:3430 widgets/premium-nav-menu.php:3545
+#: widgets/premium-nav-menu.php:3662 widgets/premium-nav-menu.php:3761
+#: widgets/premium-nav-menu.php:3925 widgets/premium-nav-menu.php:4035
+#: widgets/premium-nav-menu.php:4133 widgets/premium-nav-menu.php:4265
+#: widgets/premium-notifications.php:2075
+#: widgets/premium-notifications.php:2216
+#: widgets/premium-notifications.php:2356
+#: widgets/premium-notifications.php:2471
+#: widgets/premium-notifications.php:2661
+#: widgets/premium-notifications.php:2746
+#: widgets/premium-notifications.php:2806
+#: widgets/premium-notifications.php:3238 widgets/premium-person.php:1311
+#: widgets/premium-person.php:1525 widgets/premium-pinterest-feed.php:1410
+#: widgets/premium-pinterest-feed.php:1656
+#: widgets/premium-pinterest-feed.php:1826
+#: widgets/premium-pinterest-feed.php:1967
+#: widgets/premium-pinterest-feed.php:2049
+#: widgets/premium-pinterest-feed.php:2136
+#: widgets/premium-pinterest-feed.php:2224
+#: widgets/premium-pinterest-feed.php:2401 widgets/premium-post-ticker.php:2249
+#: widgets/premium-post-ticker.php:2530 widgets/premium-post-ticker.php:2611
+#: widgets/premium-post-ticker.php:2673 widgets/premium-post-ticker.php:2914
+#: widgets/premium-pricing-table.php:1681
+#: widgets/premium-pricing-table.php:1767
+#: widgets/premium-pricing-table.php:1851
+#: widgets/premium-pricing-table.php:1925
+#: widgets/premium-pricing-table.php:1975
+#: widgets/premium-pricing-table.php:2024
+#: widgets/premium-pricing-table.php:2080
+#: widgets/premium-pricing-table.php:2112
+#: widgets/premium-pricing-table.php:2298
+#: widgets/premium-pricing-table.php:2492
+#: widgets/premium-pricing-table.php:2608
+#: widgets/premium-pricing-table.php:2756
+#: widgets/premium-pricing-table.php:2961
+#: widgets/premium-pricing-table.php:3066 widgets/premium-progressbar.php:1099
+#: widgets/premium-progressbar.php:1160 widgets/premium-progressbar.php:1206
+#: widgets/premium-progressbar.php:1316 widgets/premium-tcloud.php:618
+#: widgets/premium-tcloud.php:730 widgets/premium-testimonials.php:947
+#: widgets/premium-testimonials.php:996 widgets/premium-testimonials.php:1075
+#: widgets/premium-testimonials.php:1127 widgets/premium-testimonials.php:1171
+#: widgets/premium-textual-showcase.php:1834
+#: widgets/premium-textual-showcase.php:2100
+#: widgets/premium-tiktok-feed.php:1365 widgets/premium-tiktok-feed.php:1535
+#: widgets/premium-tiktok-feed.php:1657 widgets/premium-tiktok-feed.php:1738
+#: widgets/premium-tiktok-feed.php:1825 widgets/premium-tiktok-feed.php:1953
+#: widgets/premium-tiktok-feed.php:2310 widgets/premium-title.php:1381
+#: widgets/premium-title.php:1750 widgets/premium-videobox.php:2457
+#: widgets/premium-vscroll.php:756 widgets/premium-vscroll.php:1061
+#: widgets/premium-weather.php:1426 widgets/premium-weather.php:1571
+#: widgets/premium-weather.php:1724 widgets/premium-weather.php:1813
+#: widgets/premium-weather.php:1901 widgets/premium-weather.php:2026
+#: widgets/premium-weather.php:2208 widgets/premium-weather.php:2298
+#: widgets/premium-weather.php:2368 widgets/premium-weather.php:2669
+#: widgets/premium-weather.php:2739 widgets/premium-weather.php:3330
+#: widgets/premium-weather.php:3405 widgets/premium-weather.php:3514
+#: widgets/premium-weather.php:3690 widgets/premium-world-clock.php:1722
+#: widgets/premium-world-clock.php:1836 widgets/premium-world-clock.php:2850
+msgid "Margin"
+msgstr "Margem"
+
+#: modules/premium-global-tooltips/module.php:651
+#: modules/woocommerce/skins/skin-1.php:429
+#: modules/woocommerce/skins/skin-1.php:486
+#: modules/woocommerce/skins/skin-1.php:661
+#: modules/woocommerce/skins/skin-1.php:718
+#: modules/woocommerce/skins/skin-2.php:404
+#: modules/woocommerce/skins/skin-2.php:461
+#: modules/woocommerce/skins/skin-2.php:616
+#: modules/woocommerce/skins/skin-2.php:673
+#: modules/woocommerce/skins/skin-3.php:416
+#: modules/woocommerce/skins/skin-3.php:473
+#: modules/woocommerce/skins/skin-3.php:631
+#: modules/woocommerce/skins/skin-3.php:688
+#: modules/woocommerce/skins/skin-4.php:426
+#: modules/woocommerce/skins/skin-4.php:483
+#: modules/woocommerce/skins/skin-4.php:650
+#: modules/woocommerce/skins/skin-4.php:707
+#: modules/woocommerce/skins/skin-5.php:383
+#: modules/woocommerce/skins/skin-5.php:440
+#: modules/woocommerce/skins/skin-5.php:590
+#: modules/woocommerce/skins/skin-5.php:647
+#: modules/woocommerce/skins/skin-6.php:424
+#: modules/woocommerce/skins/skin-6.php:481
+#: modules/woocommerce/skins/skin-6.php:631
+#: modules/woocommerce/skins/skin-6.php:688
+#: modules/woocommerce/skins/skin-7.php:283
+#: modules/woocommerce/skins/skin-7.php:451
+#: modules/woocommerce/skins/skin-7.php:508
+#: modules/woocommerce/skins/skin-7.php:656
+#: modules/woocommerce/skins/skin-7.php:713
+#: modules/woocommerce/skins/skin-8.php:408
+#: modules/woocommerce/skins/skin-8.php:465
+#: modules/woocommerce/skins/skin-8.php:616
+#: modules/woocommerce/skins/skin-8.php:673
+#: modules/woocommerce/skins/skin-9.php:359
+#: modules/woocommerce/skins/skin-9.php:416
+#: modules/woocommerce/skins/skin-9.php:579
+#: modules/woocommerce/skins/skin-9.php:636
+#: modules/woocommerce/skins/skin-10.php:350
+#: modules/woocommerce/skins/skin-10.php:407
+#: modules/woocommerce/skins/skin-10.php:573
+#: modules/woocommerce/skins/skin-10.php:633
+#: modules/woocommerce/skins/skin-11.php:341
+#: modules/woocommerce/skins/skin-11.php:378
+#: modules/woocommerce/skins/skin-11.php:488
+#: modules/woocommerce/skins/skin-11.php:545
+#: modules/woocommerce/skins/skin-11.php:726
+#: modules/woocommerce/skins/skin-11.php:783
+#: modules/woocommerce/skins/skin-base.php:258
+#: modules/woocommerce/widgets/woo-products.php:1328
+#: modules/woocommerce/widgets/woo-products.php:1365
+#: modules/woocommerce/widgets/woo-products.php:1569
+#: modules/woocommerce/widgets/woo-products.php:1658
+#: modules/woocommerce/widgets/woo-products.php:1795
+#: modules/woocommerce/widgets/woo-products.php:1846
+#: modules/woocommerce/widgets/woo-products.php:1897
+#: modules/woocommerce/widgets/woo-products.php:1998
+#: modules/woocommerce/widgets/woo-products.php:2207
+#: modules/woocommerce/widgets/woo-products.php:2398
+#: modules/woocommerce/widgets/woo-products.php:2579
+#: widgets/premium-banner.php:764 widgets/premium-banner.php:788
+#: widgets/premium-banner.php:1022 widgets/premium-banner.php:1046
+#: widgets/premium-banner.php:1192 widgets/premium-banner.php:1259
+#: widgets/premium-blog.php:1550 widgets/premium-blog.php:1608
+#: widgets/premium-blog.php:1985 widgets/premium-blog.php:2280
+#: widgets/premium-blog.php:2331 widgets/premium-blog.php:2439
+#: widgets/premium-blog.php:2463 widgets/premium-blog.php:2578
+#: widgets/premium-blog.php:2602 widgets/premium-blog.php:2664
+#: widgets/premium-blog.php:2688 widgets/premium-blog.php:2750
+#: widgets/premium-blog.php:2774 widgets/premium-blog.php:2948
+#: widgets/premium-button.php:1277 widgets/premium-button.php:1301
+#: widgets/premium-button.php:1537 widgets/premium-button.php:1561
+#: widgets/premium-carousel.php:963 widgets/premium-carousel.php:1018
+#: widgets/premium-contactform.php:413 widgets/premium-contactform.php:800
+#: widgets/premium-contactform.php:966 widgets/premium-contactform.php:1149
+#: widgets/premium-contactform.php:1175 widgets/premium-contactform.php:1475
+#: widgets/premium-contactform.php:1566 widgets/premium-contactform.php:1670
+#: widgets/premium-countdown.php:1026 widgets/premium-countdown.php:1054
+#: widgets/premium-countdown.php:1369 widgets/premium-countdown.php:1393
+#: widgets/premium-countdown.php:1489 widgets/premium-counter.php:1022
+#: widgets/premium-counter.php:1054 widgets/premium-counter.php:1165
+#: widgets/premium-counter.php:1264 widgets/premium-dual-header.php:825
+#: widgets/premium-dual-header.php:1061 widgets/premium-grid.php:1369
+#: widgets/premium-grid.php:1442 widgets/premium-grid.php:1621
+#: widgets/premium-grid.php:1772 widgets/premium-grid.php:1863
+#: widgets/premium-grid.php:1978 widgets/premium-grid.php:2002
+#: widgets/premium-grid.php:2056 widgets/premium-grid.php:2080
+#: widgets/premium-grid.php:2137 widgets/premium-grid.php:2161
+#: widgets/premium-grid.php:2299 widgets/premium-grid.php:2391
+#: widgets/premium-icon-list.php:1587 widgets/premium-icon-list.php:1797
+#: widgets/premium-image-button.php:1228 widgets/premium-image-button.php:1252
+#: widgets/premium-image-button.php:1517 widgets/premium-image-button.php:1541
+#: widgets/premium-image-scroll.php:763 widgets/premium-image-scroll.php:787
+#: widgets/premium-image-scroll.php:827 widgets/premium-image-scroll.php:851
+#: widgets/premium-image-separator.php:876
+#: widgets/premium-image-separator.php:904 widgets/premium-lottie.php:642
+#: widgets/premium-lottie.php:666 widgets/premium-maps.php:696
+#: widgets/premium-maps.php:793 widgets/premium-media-wheel.php:795
+#: widgets/premium-media-wheel.php:1314 widgets/premium-media-wheel.php:1369
+#: widgets/premium-media-wheel.php:1633 widgets/premium-media-wheel.php:1727
+#: widgets/premium-media-wheel.php:1970 widgets/premium-media-wheel.php:2042
+#: widgets/premium-media-wheel.php:2235 widgets/premium-media-wheel.php:2302
+#: widgets/premium-modalbox.php:1368 widgets/premium-modalbox.php:1564
+#: widgets/premium-modalbox.php:1742 widgets/premium-modalbox.php:1794
+#: widgets/premium-modalbox.php:1914 widgets/premium-modalbox.php:1972
+#: widgets/premium-modalbox.php:2162 widgets/premium-nav-menu.php:2234
+#: widgets/premium-nav-menu.php:2344 widgets/premium-nav-menu.php:2536
+#: widgets/premium-nav-menu.php:2659 widgets/premium-nav-menu.php:2859
+#: widgets/premium-nav-menu.php:2999 widgets/premium-nav-menu.php:3096
+#: widgets/premium-nav-menu.php:3288 widgets/premium-nav-menu.php:3406
+#: widgets/premium-nav-menu.php:3521 widgets/premium-nav-menu.php:3638
+#: widgets/premium-nav-menu.php:3737 widgets/premium-nav-menu.php:3901
+#: widgets/premium-nav-menu.php:4011 widgets/premium-nav-menu.php:4109
+#: widgets/premium-nav-menu.php:4253 widgets/premium-nav-menu.php:4385
+#: widgets/premium-notifications.php:2020
+#: widgets/premium-notifications.php:2041
+#: widgets/premium-notifications.php:2161
+#: widgets/premium-notifications.php:2182
+#: widgets/premium-notifications.php:2304
+#: widgets/premium-notifications.php:2325
+#: widgets/premium-notifications.php:2419
+#: widgets/premium-notifications.php:2440
+#: widgets/premium-notifications.php:2553
+#: widgets/premium-notifications.php:2734
+#: widgets/premium-notifications.php:2794
+#: widgets/premium-notifications.php:3336
+#: widgets/premium-notifications.php:3387
+#: widgets/premium-notifications.php:3495 widgets/premium-person.php:1118
+#: widgets/premium-person.php:1145 widgets/premium-person.php:1486
+#: widgets/premium-person.php:1510 widgets/premium-person.php:1708
+#: widgets/premium-pinterest-feed.php:1203
+#: widgets/premium-pinterest-feed.php:1398
+#: widgets/premium-pinterest-feed.php:1500
+#: widgets/premium-pinterest-feed.php:1644
+#: widgets/premium-pinterest-feed.php:1757
+#: widgets/premium-pinterest-feed.php:2106
+#: widgets/premium-pinterest-feed.php:2281
+#: widgets/premium-pinterest-feed.php:2338
+#: widgets/premium-pinterest-feed.php:2469 widgets/premium-post-ticker.php:2107
+#: widgets/premium-post-ticker.php:2132 widgets/premium-post-ticker.php:2222
+#: widgets/premium-post-ticker.php:2514 widgets/premium-post-ticker.php:2587
+#: widgets/premium-post-ticker.php:2653 widgets/premium-post-ticker.php:2774
+#: widgets/premium-post-ticker.php:2832 widgets/premium-post-ticker.php:2890
+#: widgets/premium-post-ticker.php:2997 widgets/premium-pricing-table.php:1627
+#: widgets/premium-pricing-table.php:1669
+#: widgets/premium-pricing-table.php:2285
+#: widgets/premium-pricing-table.php:2587
+#: widgets/premium-pricing-table.php:2735
+#: widgets/premium-pricing-table.php:2913
+#: widgets/premium-pricing-table.php:2937
+#: widgets/premium-pricing-table.php:3018
+#: widgets/premium-pricing-table.php:3042 widgets/premium-progressbar.php:992
+#: widgets/premium-progressbar.php:1304 widgets/premium-svg-drawer.php:773
+#: widgets/premium-svg-drawer.php:797 widgets/premium-tcloud.php:587
+#: widgets/premium-tcloud.php:699 widgets/premium-testimonials.php:878
+#: widgets/premium-testimonials.php:1345 widgets/premium-testimonials.php:1427
+#: widgets/premium-testimonials.php:1451
+#: widgets/premium-textual-showcase.php:1822
+#: widgets/premium-textual-showcase.php:2088
+#: widgets/premium-tiktok-feed.php:1221 widgets/premium-tiktok-feed.php:1341
+#: widgets/premium-tiktok-feed.php:1446 widgets/premium-tiktok-feed.php:1795
+#: widgets/premium-tiktok-feed.php:1927 widgets/premium-tiktok-feed.php:2110
+#: widgets/premium-tiktok-feed.php:2298 widgets/premium-tiktok-feed.php:2397
+#: widgets/premium-title.php:1711 widgets/premium-title.php:1735
+#: widgets/premium-videobox.php:1748 widgets/premium-videobox.php:1772
+#: widgets/premium-videobox.php:1931 widgets/premium-videobox.php:2433
+#: widgets/premium-vscroll.php:730 widgets/premium-vscroll.php:837
+#: widgets/premium-vscroll.php:872 widgets/premium-vscroll.php:1049
+#: widgets/premium-weather.php:1313 widgets/premium-weather.php:1402
+#: widgets/premium-weather.php:1789 widgets/premium-weather.php:1877
+#: widgets/premium-weather.php:2274 widgets/premium-weather.php:2344
+#: widgets/premium-weather.php:2645 widgets/premium-weather.php:2715
+#: widgets/premium-weather.php:2921 widgets/premium-weather.php:2975
+#: widgets/premium-weather.php:3037 widgets/premium-weather.php:3089
+#: widgets/premium-weather.php:3204 widgets/premium-weather.php:3253
+#: widgets/premium-weather.php:3301 widgets/premium-weather.php:3490
+#: widgets/premium-weather.php:3666 widgets/premium-world-clock.php:1500
+#: widgets/premium-world-clock.php:1706 widgets/premium-world-clock.php:1812
+#: widgets/premium-world-clock.php:2031 widgets/premium-world-clock.php:2167
+#: widgets/premium-world-clock.php:2312 widgets/premium-world-clock.php:2443
+#: widgets/premium-world-clock.php:2684 widgets/premium-world-clock.php:2753
+#: widgets/premium-world-clock.php:2826 widgets/premium-world-clock.php:2924
+msgid "Border Radius"
+msgstr "Raio da borda"
+
+#: widgets/premium-button.php:915 widgets/premium-button.php:935
+#: widgets/premium-button.php:955 widgets/premium-button.php:977
+#: widgets/premium-image-button.php:934 widgets/premium-image-button.php:954
+#: widgets/premium-modalbox.php:889 widgets/premium-modalbox.php:909
+#: widgets/premium-modalbox.php:931 widgets/premium-modalbox.php:951
+#: widgets/premium-pinterest-feed.php:1297
+#: widgets/premium-pinterest-feed.php:1512 widgets/premium-tiktok-feed.php:1997
+#: widgets/premium-tiktok-feed.php:2197 widgets/premium-tiktok-feed.php:2409
+#: widgets/premium-weather.php:881
+msgid "Icon Spacing"
+msgstr "Espaçamento do ícone"
+
+#: widgets/premium-button.php:861 widgets/premium-icon-list.php:1194
+#: widgets/premium-image-button.php:880 widgets/premium-modalbox.php:800
+#: widgets/premium-title.php:554
+msgid "After"
+msgstr "Depois"
+
+#: widgets/premium-button.php:860 widgets/premium-icon-list.php:1192
+#: widgets/premium-image-button.php:879 widgets/premium-modalbox.php:799
+#: widgets/premium-title.php:553
+msgid "Before"
+msgstr "Antes"
+
+#: widgets/premium-button.php:856 widgets/premium-counter.php:629
+#: widgets/premium-image-button.php:875 widgets/premium-modalbox.php:795
+#: widgets/premium-title.php:550
+msgid "Icon Position"
+msgstr "Posição do ícone"
+
+#: modules/premium-global-tooltips/module.php:530
+#: widgets/premium-button.php:874 widgets/premium-button.php:896
+#: widgets/premium-image-button.php:893 widgets/premium-image-button.php:915
+#: widgets/premium-image-scroll.php:545 widgets/premium-media-wheel.php:535
+#: widgets/premium-media-wheel.php:1892 widgets/premium-modalbox.php:306
+#: widgets/premium-modalbox.php:813 widgets/premium-nav-menu.php:1941
+#: widgets/premium-notifications.php:479 widgets/premium-notifications.php:1127
+#: widgets/premium-pinterest-feed.php:599
+#: widgets/premium-pinterest-feed.php:1249
+#: widgets/premium-pinterest-feed.php:1474 widgets/premium-post-ticker.php:2719
+#: widgets/premium-progressbar.php:646 widgets/premium-tiktok-feed.php:484
+#: widgets/premium-tiktok-feed.php:810 widgets/premium-tiktok-feed.php:1859
+#: widgets/premium-tiktok-feed.php:2152 widgets/premium-tiktok-feed.php:2371
+#: widgets/premium-weather.php:858 widgets/premium-weather.php:1518
+#: widgets/premium-weather.php:1647 widgets/premium-weather.php:2082
+#: widgets/premium-weather.php:2485 widgets/premium-weather.php:2790
+#: widgets/premium-weather.php:3364
+msgid "Icon Size"
+msgstr "Tamanho do ícone"
+
+#: modules/premium-global-tooltips/module.php:318
+#: modules/premium-global-tooltips/module.php:498
+#: widgets/premium-button.php:487 widgets/premium-button.php:507
+#: widgets/premium-button.php:520 widgets/premium-button.php:809
+#: widgets/premium-button.php:823 widgets/premium-carousel.php:1044
+#: widgets/premium-counter.php:302 widgets/premium-counter.php:315
+#: widgets/premium-counter.php:759 widgets/premium-icon-list.php:229
+#: widgets/premium-icon-list.php:242 widgets/premium-image-button.php:480
+#: widgets/premium-image-button.php:500 widgets/premium-image-button.php:513
+#: widgets/premium-image-button.php:801 widgets/premium-image-button.php:815
+#: widgets/premium-image-scroll.php:537 widgets/premium-image-separator.php:189
+#: widgets/premium-modalbox.php:218 widgets/premium-modalbox.php:530
+#: widgets/premium-modalbox.php:559 widgets/premium-nav-menu.php:488
+#: widgets/premium-nav-menu.php:515 widgets/premium-nav-menu.php:1658
+#: widgets/premium-nav-menu.php:2397 widgets/premium-nav-menu.php:2720
+#: widgets/premium-nav-menu.php:2917 widgets/premium-nav-menu.php:4171
+#: widgets/premium-notifications.php:225 widgets/premium-notifications.php:238
+#: widgets/premium-notifications.php:530 widgets/premium-notifications.php:893
+#: widgets/premium-notifications.php:906 widgets/premium-notifications.php:920
+#: widgets/premium-post-ticker.php:316 widgets/premium-post-ticker.php:332
+#: widgets/premium-post-ticker.php:1457 widgets/premium-pricing-table.php:183
+#: widgets/premium-pricing-table.php:196 widgets/premium-pricing-table.php:602
+#: widgets/premium-pricing-table.php:614 widgets/premium-pricing-table.php:1391
+#: widgets/premium-pricing-table.php:1454
+#: widgets/premium-pricing-table.php:2190 widgets/premium-progressbar.php:333
+#: widgets/premium-progressbar.php:1220 widgets/premium-svg-drawer.php:648
+#: widgets/premium-textual-showcase.php:268
+#: widgets/premium-textual-showcase.php:876 widgets/premium-title.php:222
+#: widgets/premium-title.php:233 widgets/premium-title.php:1552
+#: widgets/premium-world-clock.php:413
+msgid "Icon"
+msgstr "Ícone"
+
+#: widgets/premium-button.php:489 widgets/premium-image-button.php:482
+#: widgets/premium-modalbox.php:535
+msgid "Enable or disable button icon"
+msgstr "Ativar ou desativar o ícone do botão"
+
+#: widgets/premium-carousel.php:845
+msgid "Bottom Icon"
+msgstr "Ícone inferior"
+
+#: widgets/premium-button.php:418
+msgid "Rectangle Out"
+msgstr "Rectangle Out"
+
+#: widgets/premium-button.php:417
+msgid "Rectangle In"
+msgstr "Rectangle In"
+
+#: widgets/premium-button.php:416
+msgid "Radial Out"
+msgstr "Radial Out"
+
+#: widgets/premium-button.php:415
+msgid "Radial In"
+msgstr "Radial In"
+
+#: modules/premium-global-tooltips/module.php:433
+#: modules/premium-section-floating-effects/module.php:698
+#: modules/premium-shape-divider/module.php:627 widgets/premium-button.php:411
+#: widgets/premium-countdown.php:346 widgets/premium-counter.php:932
+#: widgets/premium-icon-list.php:2171 widgets/premium-maps.php:400
+#: widgets/premium-person.php:160 widgets/premium-progressbar.php:853
+#: widgets/premium-title.php:201
+msgid "Style"
+msgstr "Estilo"
+
+#: modules/premium-shape-divider/module.php:269
+#: modules/woocommerce/skins/skin-8.php:295 widgets/premium-blog.php:877
+#: widgets/premium-countdown.php:481 widgets/premium-dual-header.php:384
+#: widgets/premium-fancytext.php:723 widgets/premium-icon-list.php:1248
+#: widgets/premium-lottie.php:296 widgets/premium-notifications.php:1171
+#: widgets/premium-pricing-table.php:1909 widgets/premium-testimonials.php:645
+#: widgets/premium-title.php:556 widgets/premium-title.php:709
+#: widgets/premium-videobox.php:351 widgets/premium-vscroll.php:416
+#: widgets/premium-world-clock.php:1065
+msgid "Bottom"
+msgstr "Inferior"
+
+#: modules/premium-shape-divider/module.php:265
+#: modules/woocommerce/skins/skin-8.php:287 widgets/premium-blog.php:869
+#: widgets/premium-countdown.php:473 widgets/premium-counter.php:633
+#: widgets/premium-dual-header.php:376 widgets/premium-fancytext.php:715
+#: widgets/premium-icon-list.php:1193 widgets/premium-icon-list.php:1240
+#: widgets/premium-lottie.php:297 widgets/premium-notifications.php:1163
+#: widgets/premium-pricing-table.php:1901 widgets/premium-testimonials.php:641
+#: widgets/premium-title.php:555 widgets/premium-title.php:708
+#: widgets/premium-videobox.php:350 widgets/premium-videobox.php:2541
+#: widgets/premium-vscroll.php:414 widgets/premium-world-clock.php:1057
+msgid "Top"
+msgstr "Superior"
+
+#: includes/helper-functions.php:1435 widgets/premium-button.php:380
+msgid "Tilted Right"
+msgstr "Inclinado para á esquerda"
+
+#: includes/helper-functions.php:1434 widgets/premium-button.php:379
+msgid "Tilted Left"
+msgstr "Inclinado para á esquerda"
+
+#: includes/helper-functions.php:1433 widgets/premium-button.php:378
+msgid "Scaled Shutter Horizontal"
+msgstr "Scaled Shutter Horizontal"
+
+#: includes/helper-functions.php:1432 widgets/premium-button.php:377
+msgid "Scaled Shutter Vertical"
+msgstr "Scaled Shutter Vertical"
+
+#: includes/helper-functions.php:1431 widgets/premium-button.php:376
+msgid "Shutter out Vertical"
+msgstr "Shutter out Vertical"
+
+#: includes/helper-functions.php:1430 widgets/premium-button.php:375
+msgid "Shutter out Horizontal"
+msgstr "Shutter out Horizontal"
+
+#: includes/helper-functions.php:1429 widgets/premium-button.php:374
+msgid "Shutter in Vertical"
+msgstr "Shutter na vertical"
+
+#: includes/helper-functions.php:1428 widgets/premium-button.php:373
+msgid "Shutter in Horizontal"
+msgstr "Shutter em horizontal"
+
+#: includes/helper-functions.php:1424 widgets/premium-button.php:369
+msgid "Shutter Direction"
+msgstr "Direção do Shutter"
+
+#: includes/helper-functions.php:1409 widgets/premium-button.php:357
+#: widgets/premium-button.php:398 widgets/premium-image-button.php:356
+#: widgets/premium-image-button.php:393
+msgid "Left to Right"
+msgstr "Da esquerda para direita"
+
+#: includes/helper-functions.php:1408 widgets/premium-button.php:356
+#: widgets/premium-button.php:399 widgets/premium-image-button.php:355
+#: widgets/premium-image-button.php:394
+msgid "Right to Left"
+msgstr "Da direita para esquerda"
+
+#: includes/helper-functions.php:1407 widgets/premium-button.php:355
+#: widgets/premium-button.php:396 widgets/premium-image-button.php:354
+#: widgets/premium-image-button.php:391
+msgid "Bottom to Top"
+msgstr "De baixo para cima"
+
+#: includes/helper-functions.php:1406 widgets/premium-button.php:354
+#: widgets/premium-button.php:397 widgets/premium-image-button.php:353
+#: widgets/premium-image-button.php:392
+msgid "Top to Bottom"
+msgstr "De cima para baixo"
+
+#: includes/helper-functions.php:1402 widgets/premium-button.php:350
+#: widgets/premium-button.php:392 widgets/premium-image-button.php:349
+#: widgets/premium-image-button.php:368 widgets/premium-image-button.php:387
+msgid "Slide Direction"
+msgstr "Direção do slide"
+
+#: widgets/premium-button.php:252
+msgid "In & Out"
+msgstr "Dentro & fora"
+
+#: widgets/premium-button.php:251 widgets/premium-image-button.php:251
+msgid "Icon Slide"
+msgstr "Ícone do slide"
+
+#: widgets/premium-button.php:250
+msgid "Icon Fade"
+msgstr "Ícone fade"
+
+#: includes/helper-functions.php:1385 widgets/premium-button.php:249
+msgid "Shutter"
+msgstr "Shutter"
+
+#: includes/helper-functions.php:1384
+#: modules/premium-global-tooltips/module.php:897
+#: widgets/premium-button.php:248
+msgid "Slide"
+msgstr "Slide"
+
+#: modules/premium-wrapper-link/module.php:121 widgets/premium-banner.php:495
+#: widgets/premium-button.php:201 widgets/premium-countdown.php:676
+#: widgets/premium-dual-header.php:239 widgets/premium-grid.php:861
+#: widgets/premium-icon-list.php:586 widgets/premium-icon-list.php:600
+#: widgets/premium-image-button.php:202 widgets/premium-image-scroll.php:235
+#: widgets/premium-image-scroll.php:249 widgets/premium-image-separator.php:577
+#: widgets/premium-image-separator.php:606 widgets/premium-lottie.php:398
+#: widgets/premium-media-wheel.php:647 widgets/premium-pricing-table.php:1093
+#: widgets/premium-textual-showcase.php:1512
+#: widgets/premium-textual-showcase.php:1526 widgets/premium-title.php:844
+#: widgets/premium-videobox.php:525
+msgid "URL"
+msgstr "URL"
+
+#: widgets/premium-blog.php:1966 widgets/premium-icon-list.php:1550
+#: widgets/premium-image-separator.php:836 widgets/premium-nav-menu.php:2509
+#: widgets/premium-nav-menu.php:2832 widgets/premium-person.php:1464
+msgid "Hover Background Color"
+msgstr "Cor de fundo ao passar o mouse"
+
+#: widgets/premium-blog.php:2362 widgets/premium-notifications.php:3418
+msgid "Tags"
+msgstr "Tags"
+
+#: modules/premium-global-tooltips/module.php:256
+#: modules/premium-global-tooltips/module.php:266
+#: modules/premium-global-tooltips/module.php:444
+#: modules/premium-shape-divider/module.php:216 widgets/premium-banner.php:373
+#: widgets/premium-maps.php:264 widgets/premium-modalbox.php:195
+#: widgets/premium-person.php:1551 widgets/premium-post-ticker.php:2280
+#: widgets/premium-testimonials.php:205 widgets/premium-testimonials.php:270
+#: widgets/premium-testimonials.php:367 widgets/premium-testimonials.php:1141
+#: widgets/premium-textual-showcase.php:198 widgets/premium-vscroll.php:166
+msgid "Content"
+msgstr "Conteúdo"
+
+#: widgets/premium-blog.php:1693 widgets/premium-contactform.php:1108
+#: widgets/premium-notifications.php:2869
+#: widgets/premium-pricing-table.php:2418 widgets/premium-progressbar.php:1028
+#: widgets/premium-world-clock.php:1646 widgets/premium-world-clock.php:2608
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: modules/woocommerce/skins/skin-base.php:216 widgets/premium-blog.php:1682
+#: widgets/premium-blog.php:2818 widgets/premium-image-button.php:1439
+#: widgets/premium-image-button.php:1456 widgets/premium-image-button.php:1492
+#: widgets/premium-image-scroll.php:624 widgets/premium-nav-menu.php:2592
+#: widgets/premium-notifications.php:2512
+#: widgets/premium-notifications.php:2858
+msgid "Overlay Color"
+msgstr "Cor da sobreposição"
+
+#: widgets/premium-blog.php:297
+msgid "Posts Per Page"
+msgstr "Posts por página"
+
+#: modules/premium-global-tooltips/module.php:782
+#: modules/woocommerce/skins/skin-1.php:443
+#: modules/woocommerce/skins/skin-1.php:675
+#: modules/woocommerce/skins/skin-2.php:418
+#: modules/woocommerce/skins/skin-2.php:630
+#: modules/woocommerce/skins/skin-3.php:430
+#: modules/woocommerce/skins/skin-3.php:645
+#: modules/woocommerce/skins/skin-4.php:440
+#: modules/woocommerce/skins/skin-4.php:664
+#: modules/woocommerce/skins/skin-5.php:397
+#: modules/woocommerce/skins/skin-5.php:604
+#: modules/woocommerce/skins/skin-6.php:438
+#: modules/woocommerce/skins/skin-6.php:645
+#: modules/woocommerce/skins/skin-7.php:465
+#: modules/woocommerce/skins/skin-7.php:670
+#: modules/woocommerce/skins/skin-8.php:422
+#: modules/woocommerce/skins/skin-8.php:630
+#: modules/woocommerce/skins/skin-9.php:373
+#: modules/woocommerce/skins/skin-9.php:593
+#: modules/woocommerce/skins/skin-10.php:364
+#: modules/woocommerce/skins/skin-10.php:587
+#: modules/woocommerce/skins/skin-11.php:355
+#: modules/woocommerce/skins/skin-11.php:502
+#: modules/woocommerce/skins/skin-11.php:740
+#: modules/woocommerce/widgets/woo-products.php:1342
+#: modules/woocommerce/widgets/woo-products.php:1615
+#: modules/woocommerce/widgets/woo-products.php:1809
+#: widgets/premium-banner.php:1096 widgets/premium-blog.php:2294
+#: widgets/premium-blog.php:2619 widgets/premium-button.php:1374
+#: widgets/premium-carousel.php:977 widgets/premium-contactform.php:1529
+#: widgets/premium-grid.php:1819 widgets/premium-grid.php:2019
+#: widgets/premium-grid.php:2345 widgets/premium-icon-list.php:902
+#: widgets/premium-image-button.php:1325 widgets/premium-image-scroll.php:511
+#: widgets/premium-image-scroll.php:675 widgets/premium-image-scroll.php:812
+#: widgets/premium-lottie.php:223 widgets/premium-lottie.php:585
+#: widgets/premium-media-wheel.php:1984 widgets/premium-media-wheel.php:2258
+#: widgets/premium-modalbox.php:1411 widgets/premium-modalbox.php:1757
+#: widgets/premium-modalbox.php:1929 widgets/premium-nav-menu.php:1080
+#: widgets/premium-nav-menu.php:1511 widgets/premium-nav-menu.php:1994
+#: widgets/premium-nav-menu.php:2121 widgets/premium-nav-menu.php:2197
+#: widgets/premium-nav-menu.php:3326 widgets/premium-nav-menu.php:3939
+#: widgets/premium-notifications.php:2101
+#: widgets/premium-notifications.php:2382
+#: widgets/premium-notifications.php:3350
+#: widgets/premium-pinterest-feed.php:1356
+#: widgets/premium-pinterest-feed.php:1583
+#: widgets/premium-pinterest-feed.php:2295 widgets/premium-post-ticker.php:2788
+#: widgets/premium-pricing-table.php:2641
+#: widgets/premium-pricing-table.php:2994 widgets/premium-tcloud.php:644
+#: widgets/premium-tiktok-feed.php:2256 widgets/premium-tiktok-feed.php:2480
+#: widgets/premium-weather.php:2990 widgets/premium-weather.php:3218
+msgid "Hover"
+msgstr "Hover"
+
+#: modules/woocommerce/skins/skin-7.php:251
+#: modules/woocommerce/skins/skin-7.php:581
+#: modules/woocommerce/skins/skin-8.php:336
+#: modules/woocommerce/skins/skin-8.php:538
+#: modules/woocommerce/skins/skin-11.php:274
+#: modules/woocommerce/skins/skin-11.php:651
+#: modules/woocommerce/widgets/woo-products.php:1966
+#: modules/woocommerce/widgets/woo-products.php:2100
+#: modules/woocommerce/widgets/woo-products.php:2290
+#: modules/woocommerce/widgets/woo-products.php:2481
+#: widgets/premium-blog.php:2922 widgets/premium-button.php:1026
+#: widgets/premium-carousel.php:876 widgets/premium-carousel.php:1101
+#: widgets/premium-contactform.php:1022 widgets/premium-countdown.php:1302
+#: widgets/premium-counter.php:823 widgets/premium-counter.php:906
+#: widgets/premium-grid.php:1706 widgets/premium-icon-list.php:690
+#: widgets/premium-icon-list.php:1647 widgets/premium-image-button.php:974
+#: widgets/premium-lottie.php:311 widgets/premium-maps.php:415
+#: widgets/premium-media-wheel.php:2153 widgets/premium-modalbox.php:1074
+#: widgets/premium-modalbox.php:1691 widgets/premium-nav-menu.php:2055
+#: widgets/premium-nav-menu.php:2404 widgets/premium-nav-menu.php:2727
+#: widgets/premium-nav-menu.php:2968 widgets/premium-nav-menu.php:4222
+#: widgets/premium-notifications.php:2682 widgets/premium-person.php:1403
+#: widgets/premium-person.php:1668 widgets/premium-pinterest-feed.php:2443
+#: widgets/premium-pricing-table.php:1193
+#: widgets/premium-pricing-table.php:1214
+#: widgets/premium-pricing-table.php:1235
+#: widgets/premium-pricing-table.php:1515
+#: widgets/premium-pricing-table.php:2214 widgets/premium-progressbar.php:239
+#: widgets/premium-progressbar.php:1442 widgets/premium-progressbar.php:1488
+#: widgets/premium-svg-drawer.php:264 widgets/premium-testimonials.php:832
+#: widgets/premium-testimonials.php:1205 widgets/premium-testimonials.php:1305
+#: widgets/premium-textual-showcase.php:651
+#: widgets/premium-textual-showcase.php:1259
+#: widgets/premium-tiktok-feed.php:2084 widgets/premium-title.php:1614
+#: widgets/premium-videobox.php:1898 widgets/premium-videobox.php:2172
+#: widgets/premium-videobox.php:2259 widgets/premium-weather.php:2184
+#: widgets/premium-weather.php:2575 widgets/premium-weather.php:3591
+#: widgets/premium-world-clock.php:2573 widgets/premium-world-clock.php:2936
+msgid "Size"
+msgstr "Tamanho"
+
+#: widgets/premium-blog.php:1363
+msgid "Pagination is the process of dividing the posts into discrete pages"
+msgstr "Paginação é o processo de dividir os posts em páginas discretas"
+
+#: includes/class-premium-template-tags.php:1316
+#: includes/class-premium-template-tags.php:1325
+#: modules/woocommerce/widgets/woo-products.php:876
+#: modules/woocommerce/widgets/woo-products.php:1718
+#: widgets/premium-blog.php:1350 widgets/premium-blog.php:2512
+msgid "Pagination"
+msgstr "Paginação"
+
+#: widgets/premium-blog.php:1050 widgets/premium-notifications.php:1686
+msgid "Display or hide post tags"
+msgstr "Exibir ou ocultar tags de posts"
+
+#: widgets/premium-blog.php:1048 widgets/premium-notifications.php:1684
+msgid "Tags Meta"
+msgstr "Meta de tag"
+
+#: widgets/premium-blog.php:1038 widgets/premium-notifications.php:1674
+msgid "Comments Meta"
+msgstr "Meta de comentários"
+
+#: widgets/premium-blog.php:1028 widgets/premium-notifications.php:1664
+msgid "Categories Meta"
+msgstr "Meta de categorias"
+
+#: widgets/premium-blog.php:1019 widgets/premium-notifications.php:1655
+#: widgets/premium-post-ticker.php:1794
+msgid "Date Meta"
+msgstr "Meta da data"
+
+#: widgets/premium-blog.php:1010 widgets/premium-notifications.php:1646
+#: widgets/premium-post-ticker.php:1770
+msgid "Author Meta"
+msgstr "Meta do autor"
+
+#: modules/woocommerce/skins/skin-1.php:141
+#: modules/woocommerce/skins/skin-2.php:147
+#: modules/woocommerce/skins/skin-3.php:144
+#: modules/woocommerce/skins/skin-4.php:177
+#: modules/woocommerce/skins/skin-5.php:123
+#: modules/woocommerce/skins/skin-6.php:171 widgets/premium-blog.php:954
+#: widgets/premium-notifications.php:1590
+msgid "Excerpt Length"
+msgstr "Comprimento do Resumo"
+
+#: modules/premium-section-floating-effects/module.php:870
+#: modules/premium-shape-divider/module.php:550
+#: modules/woocommerce/skins/skin-1.php:386
+#: modules/woocommerce/skins/skin-1.php:618
+#: modules/woocommerce/skins/skin-2.php:361
+#: modules/woocommerce/skins/skin-2.php:573
+#: modules/woocommerce/skins/skin-3.php:373
+#: modules/woocommerce/skins/skin-3.php:588
+#: modules/woocommerce/skins/skin-4.php:383
+#: modules/woocommerce/skins/skin-4.php:607
+#: modules/woocommerce/skins/skin-5.php:340
+#: modules/woocommerce/skins/skin-5.php:547
+#: modules/woocommerce/skins/skin-6.php:381
+#: modules/woocommerce/skins/skin-6.php:588
+#: modules/woocommerce/skins/skin-7.php:408
+#: modules/woocommerce/skins/skin-7.php:613
+#: modules/woocommerce/skins/skin-8.php:362
+#: modules/woocommerce/skins/skin-8.php:570
+#: modules/woocommerce/skins/skin-9.php:316
+#: modules/woocommerce/skins/skin-9.php:526
+#: modules/woocommerce/skins/skin-10.php:304
+#: modules/woocommerce/skins/skin-10.php:517
+#: modules/woocommerce/skins/skin-11.php:318
+#: modules/woocommerce/skins/skin-11.php:445
+#: modules/woocommerce/skins/skin-11.php:683
+#: modules/woocommerce/widgets/woo-products.php:1305
+#: modules/woocommerce/widgets/woo-products.php:1512
+#: modules/woocommerce/widgets/woo-products.php:1758
+#: widgets/premium-banner.php:806 widgets/premium-banner.php:982
+#: widgets/premium-blog.php:1507 widgets/premium-blog.php:2242
+#: widgets/premium-blog.php:2533 widgets/premium-button.php:1193
+#: widgets/premium-carousel.php:922 widgets/premium-contactform.php:774
+#: widgets/premium-contactform.php:1440 widgets/premium-dual-header.php:708
+#: widgets/premium-dual-header.php:944 widgets/premium-dual-header.php:1195
+#: widgets/premium-grid.php:1728 widgets/premium-grid.php:1938
+#: widgets/premium-grid.php:2238 widgets/premium-icon-list.php:791
+#: widgets/premium-icon-list.php:1343 widgets/premium-image-button.php:1139
+#: widgets/premium-image-scroll.php:640 widgets/premium-image-scroll.php:715
+#: widgets/premium-image-scroll.php:748 widgets/premium-lottie.php:539
+#: widgets/premium-media-wheel.php:1070 widgets/premium-media-wheel.php:1907
+#: widgets/premium-media-wheel.php:2191 widgets/premium-modalbox.php:463
+#: widgets/premium-modalbox.php:1273 widgets/premium-modalbox.php:1705
+#: widgets/premium-modalbox.php:1871 widgets/premium-nav-menu.php:1959
+#: widgets/premium-nav-menu.php:2085 widgets/premium-nav-menu.php:2171
+#: widgets/premium-nav-menu.php:3227 widgets/premium-nav-menu.php:3838
+#: widgets/premium-notifications.php:1960
+#: widgets/premium-notifications.php:2267
+#: widgets/premium-notifications.php:3298 widgets/premium-person.php:1192
+#: widgets/premium-pinterest-feed.php:1325
+#: widgets/premium-pinterest-feed.php:1563
+#: widgets/premium-pinterest-feed.php:2238 widgets/premium-post-ticker.php:2734
+#: widgets/premium-pricing-table.php:2549
+#: widgets/premium-pricing-table.php:2889 widgets/premium-svg-drawer.php:824
+#: widgets/premium-tcloud.php:532 widgets/premium-tiktok-feed.php:2225
+#: widgets/premium-tiktok-feed.php:2460 widgets/premium-title.php:1176
+#: widgets/premium-title.php:1876 widgets/premium-videobox.php:803
+#: widgets/premium-vscroll.php:488 widgets/premium-vscroll.php:920
+#: widgets/premium-weather.php:2873 widgets/premium-weather.php:3169
+#: widgets/premium-world-clock.php:2641
+msgid "Normal"
+msgstr "Normal"
+
+#: modules/woocommerce/skins/skin-base.php:88 widgets/premium-blog.php:1880
+#: widgets/premium-blog.php:1944 widgets/premium-blog.php:2398
+#: widgets/premium-icon-list.php:1705 widgets/premium-icon-list.php:1879
+#: widgets/premium-image-separator.php:781 widgets/premium-nav-menu.php:2430
+#: widgets/premium-nav-menu.php:2470 widgets/premium-nav-menu.php:2753
+#: widgets/premium-nav-menu.php:2793 widgets/premium-notifications.php:3059
+#: widgets/premium-notifications.php:3455 widgets/premium-person.php:1430
+#: widgets/premium-person.php:1654 widgets/premium-pinterest-feed.php:2033
+#: widgets/premium-post-ticker.php:2317 widgets/premium-post-ticker.php:2461
+#: widgets/premium-testimonials.php:1291 widgets/premium-tiktok-feed.php:1722
+#: widgets/premium-videobox.php:1884 widgets/premium-videobox.php:2012
+msgid "Hover Color"
+msgstr "Cor ao passar o mouse"
+
+#: modules/woocommerce/skins/skin-1.php:563
+#: modules/woocommerce/skins/skin-2.php:138
+#: modules/woocommerce/skins/skin-3.php:134
+#: modules/woocommerce/skins/skin-4.php:167
+#: modules/woocommerce/skins/skin-5.php:678
+#: modules/woocommerce/skins/skin-6.php:163
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: widgets/premium-blog.php:1908 widgets/premium-blog.php:1997
+#: widgets/premium-grid.php:439 widgets/premium-grid.php:508
+msgid "Categories"
+msgstr "Categorias"
+
+#: widgets/premium-blog.php:588 widgets/premium-notifications.php:1789
+msgid "Squares"
+msgstr "Quadrados"
+
+#: widgets/premium-blog.php:587 widgets/premium-notifications.php:1788
+msgid "Bordered"
+msgstr "Arredondado"
+
+#: widgets/premium-blog.php:586 widgets/premium-notifications.php:1787
+msgid "Diagonal"
+msgstr "Diagonal"
+
+#: widgets/premium-blog.php:585 widgets/premium-nav-menu.php:862
+#: widgets/premium-notifications.php:1786
+msgid "Framed"
+msgstr "Emoldurado"
+
+#: widgets/premium-blog.php:582 widgets/premium-notifications.php:1783
+msgid "Choose an overlay color effect"
+msgstr "Escolha um efeito de cor de sobreposição"
+
+#: modules/premium-section-floating-effects/module.php:754
+#: widgets/premium-banner.php:276 widgets/premium-blog.php:613
+#: widgets/premium-fancytext.php:632 widgets/premium-grid.php:1068
+#: widgets/premium-icon-list.php:1375 widgets/premium-image-scroll.php:434
+#: widgets/premium-notifications.php:1814 widgets/premium-person.php:264
+#: widgets/premium-videobox.php:1139 widgets/premium-videobox.php:1308
+msgid "Blur"
+msgstr "Blur"
+
+#: modules/premium-section-floating-effects/module.php:786
+#: modules/woocommerce/widgets/woo-products.php:1413
+#: widgets/premium-banner.php:275 widgets/premium-blog.php:612
+#: widgets/premium-grid.php:1067 widgets/premium-notifications.php:1813
+#: widgets/premium-person.php:263 widgets/premium-videobox.php:1138
+msgid "Grayscale"
+msgstr "Grayscale"
+
+#: modules/premium-section-floating-effects/module.php:453
+#: modules/woocommerce/widgets/woo-products.php:1412
+#: widgets/premium-banner.php:274 widgets/premium-blog.php:611
+#: widgets/premium-grid.php:1066 widgets/premium-notifications.php:1812
+#: widgets/premium-person.php:262 widgets/premium-videobox.php:1137
+msgid "Scale"
+msgstr "Scale"
+
+#: includes/helper-functions.php:1383
+#: modules/woocommerce/widgets/woo-products.php:801
+#: modules/woocommerce/widgets/woo-products.php:1408
+#: widgets/premium-banner.php:271 widgets/premium-blog.php:505
+#: widgets/premium-blog.php:584 widgets/premium-blog.php:608
+#: widgets/premium-blog.php:691 widgets/premium-button.php:247
+#: widgets/premium-carousel.php:344 widgets/premium-contactform.php:315
+#: widgets/premium-countdown.php:648 widgets/premium-grid.php:1063
+#: widgets/premium-icon-list.php:1374 widgets/premium-image-button.php:248
+#: widgets/premium-lottie.php:221 widgets/premium-modalbox.php:217
+#: widgets/premium-nav-menu.php:858 widgets/premium-nav-menu.php:1115
+#: widgets/premium-nav-menu.php:1136 widgets/premium-notifications.php:1425
+#: widgets/premium-notifications.php:1785
+#: widgets/premium-notifications.php:1809
+#: widgets/premium-notifications.php:1872 widgets/premium-person.php:259
+#: widgets/premium-pinterest-feed.php:836 widgets/premium-post-ticker.php:1288
+#: widgets/premium-progressbar.php:802 widgets/premium-tcloud.php:428
+#: widgets/premium-textual-showcase.php:875
+#: widgets/premium-textual-showcase.php:1561
+#: widgets/premium-textual-showcase.php:1585
+#: widgets/premium-tiktok-feed.php:934 widgets/premium-videobox.php:1134
+msgid "None"
+msgstr "Nenhum"
+
+#: modules/woocommerce/widgets/woo-products.php:1411
+#: widgets/premium-banner.php:273 widgets/premium-blog.php:610
+#: widgets/premium-fancytext.php:253 widgets/premium-grid.php:1065
+#: widgets/premium-notifications.php:1811 widgets/premium-person.php:261
+#: widgets/premium-videobox.php:1136
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: modules/woocommerce/widgets/woo-products.php:1410
+#: widgets/premium-banner.php:272 widgets/premium-blog.php:609
+#: widgets/premium-grid.php:1064 widgets/premium-notifications.php:1810
+#: widgets/premium-person.php:260 widgets/premium-videobox.php:1135
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: modules/premium-shape-divider/module.php:644
+#: modules/premium-shape-divider/module.php:657
+#: modules/woocommerce/skins/skin-1.php:288
+#: modules/woocommerce/skins/skin-1.php:393
+#: modules/woocommerce/skins/skin-1.php:450
+#: modules/woocommerce/skins/skin-1.php:625
+#: modules/woocommerce/skins/skin-1.php:682
+#: modules/woocommerce/skins/skin-2.php:271
+#: modules/woocommerce/skins/skin-2.php:368
+#: modules/woocommerce/skins/skin-2.php:425
+#: modules/woocommerce/skins/skin-2.php:580
+#: modules/woocommerce/skins/skin-2.php:637
+#: modules/woocommerce/skins/skin-3.php:279
+#: modules/woocommerce/skins/skin-3.php:380
+#: modules/woocommerce/skins/skin-3.php:437
+#: modules/woocommerce/skins/skin-3.php:595
+#: modules/woocommerce/skins/skin-3.php:652
+#: modules/woocommerce/skins/skin-4.php:283
+#: modules/woocommerce/skins/skin-4.php:390
+#: modules/woocommerce/skins/skin-4.php:447
+#: modules/woocommerce/skins/skin-4.php:614
+#: modules/woocommerce/skins/skin-4.php:671
+#: modules/woocommerce/skins/skin-5.php:250
+#: modules/woocommerce/skins/skin-5.php:347
+#: modules/woocommerce/skins/skin-5.php:404
+#: modules/woocommerce/skins/skin-5.php:554
+#: modules/woocommerce/skins/skin-5.php:611
+#: modules/woocommerce/skins/skin-6.php:287
+#: modules/woocommerce/skins/skin-6.php:388
+#: modules/woocommerce/skins/skin-6.php:445
+#: modules/woocommerce/skins/skin-6.php:595
+#: modules/woocommerce/skins/skin-6.php:652
+#: modules/woocommerce/skins/skin-7.php:237
+#: modules/woocommerce/skins/skin-7.php:415
+#: modules/woocommerce/skins/skin-7.php:472
+#: modules/woocommerce/skins/skin-7.php:620
+#: modules/woocommerce/skins/skin-7.php:677
+#: modules/woocommerce/skins/skin-8.php:369
+#: modules/woocommerce/skins/skin-8.php:429
+#: modules/woocommerce/skins/skin-8.php:577
+#: modules/woocommerce/skins/skin-8.php:637
+#: modules/woocommerce/skins/skin-9.php:323
+#: modules/woocommerce/skins/skin-9.php:380
+#: modules/woocommerce/skins/skin-9.php:533
+#: modules/woocommerce/skins/skin-9.php:600
+#: modules/woocommerce/skins/skin-10.php:311
+#: modules/woocommerce/skins/skin-10.php:371
+#: modules/woocommerce/skins/skin-10.php:524
+#: modules/woocommerce/skins/skin-10.php:594
+#: modules/woocommerce/skins/skin-11.php:452
+#: modules/woocommerce/skins/skin-11.php:509
+#: modules/woocommerce/skins/skin-11.php:690
+#: modules/woocommerce/skins/skin-11.php:747
+#: modules/woocommerce/skins/skin-base.php:74
+#: modules/woocommerce/skins/skin-base.php:152
+#: modules/woocommerce/widgets/woo-products.php:1765
+#: modules/woocommerce/widgets/woo-products.php:1816
+#: modules/woocommerce/widgets/woo-products.php:1867
+#: modules/woocommerce/widgets/woo-products.php:1949
+#: modules/woocommerce/widgets/woo-products.php:2039
+#: modules/woocommerce/widgets/woo-products.php:2121
+#: modules/woocommerce/widgets/woo-products.php:2311
+#: modules/woocommerce/widgets/woo-products.php:2554
+#: widgets/premium-banner.php:837 widgets/premium-banner.php:909
+#: widgets/premium-banner.php:989 widgets/premium-banner.php:1103
+#: widgets/premium-blog.php:1514 widgets/premium-blog.php:1572
+#: widgets/premium-blog.php:1740 widgets/premium-blog.php:1866
+#: widgets/premium-blog.php:1933 widgets/premium-blog.php:2250
+#: widgets/premium-blog.php:2301 widgets/premium-blog.php:2384
+#: widgets/premium-blog.php:2541 widgets/premium-blog.php:2627
+#: widgets/premium-blog.php:2713 widgets/premium-blog.php:2866
+#: widgets/premium-blog.php:2908 widgets/premium-carousel.php:929
+#: widgets/premium-carousel.php:984 widgets/premium-carousel.php:1160
+#: widgets/premium-contactform.php:370 widgets/premium-contactform.php:505
+#: widgets/premium-contactform.php:567 widgets/premium-contactform.php:628
+#: widgets/premium-contactform.php:906 widgets/premium-contactform.php:1066
+#: widgets/premium-contactform.php:1212 widgets/premium-contactform.php:1256
+#: widgets/premium-contactform.php:1445 widgets/premium-contactform.php:1536
+#: widgets/premium-contactform.php:1640 widgets/premium-countdown.php:905
+#: widgets/premium-countdown.php:1110 widgets/premium-countdown.php:1287
+#: widgets/premium-countdown.php:1445 widgets/premium-counter.php:770
+#: widgets/premium-counter.php:1219 widgets/premium-dual-header.php:1159
+#: widgets/premium-fancytext.php:533 widgets/premium-fancytext.php:622
+#: widgets/premium-fancytext.php:755 widgets/premium-fancytext.php:801
+#: widgets/premium-fancytext.php:851 widgets/premium-grid.php:1525
+#: widgets/premium-grid.php:1570 widgets/premium-grid.php:1735
+#: widgets/premium-grid.php:1826 widgets/premium-icon-list.php:1673
+#: widgets/premium-icon-list.php:1864 widgets/premium-icon-list.php:2135
+#: widgets/premium-icon-list.php:2249 widgets/premium-image-scroll.php:387
+#: widgets/premium-image-separator.php:762 widgets/premium-media-wheel.php:1440
+#: widgets/premium-media-wheel.php:1491 widgets/premium-media-wheel.php:1914
+#: widgets/premium-media-wheel.php:1992 widgets/premium-media-wheel.php:2198
+#: widgets/premium-media-wheel.php:2265 widgets/premium-modalbox.php:1283
+#: widgets/premium-modalbox.php:1421 widgets/premium-modalbox.php:1624
+#: widgets/premium-modalbox.php:1712 widgets/premium-modalbox.php:1764
+#: widgets/premium-modalbox.php:1878 widgets/premium-modalbox.php:1936
+#: widgets/premium-nav-menu.php:1966 widgets/premium-nav-menu.php:2001
+#: widgets/premium-nav-menu.php:2107 widgets/premium-nav-menu.php:2143
+#: widgets/premium-nav-menu.php:2418 widgets/premium-nav-menu.php:2459
+#: widgets/premium-nav-menu.php:2741 widgets/premium-nav-menu.php:2782
+#: widgets/premium-nav-menu.php:2951 widgets/premium-nav-menu.php:3054
+#: widgets/premium-nav-menu.php:3234 widgets/premium-nav-menu.php:3333
+#: widgets/premium-nav-menu.php:3451 widgets/premium-nav-menu.php:3845
+#: widgets/premium-nav-menu.php:3946 widgets/premium-nav-menu.php:4056
+#: widgets/premium-nav-menu.php:4205 widgets/premium-nav-menu.php:4306
+#: widgets/premium-notifications.php:2274
+#: widgets/premium-notifications.php:2389
+#: widgets/premium-notifications.php:2599
+#: widgets/premium-notifications.php:2695
+#: widgets/premium-notifications.php:2916
+#: widgets/premium-notifications.php:3045
+#: widgets/premium-notifications.php:3306
+#: widgets/premium-notifications.php:3357
+#: widgets/premium-notifications.php:3441 widgets/premium-person.php:1223
+#: widgets/premium-person.php:1278 widgets/premium-person.php:1345
+#: widgets/premium-person.php:1416 widgets/premium-person.php:1640
+#: widgets/premium-pinterest-feed.php:1809
+#: widgets/premium-pinterest-feed.php:1864
+#: widgets/premium-pinterest-feed.php:1938
+#: widgets/premium-pinterest-feed.php:2017
+#: widgets/premium-pinterest-feed.php:2078
+#: widgets/premium-pinterest-feed.php:2245
+#: widgets/premium-pinterest-feed.php:2302
+#: widgets/premium-pinterest-feed.php:2373
+#: widgets/premium-pinterest-feed.php:2429 widgets/premium-post-ticker.php:2021
+#: widgets/premium-post-ticker.php:2183 widgets/premium-post-ticker.php:2303
+#: widgets/premium-post-ticker.php:2395 widgets/premium-post-ticker.php:2446
+#: widgets/premium-post-ticker.php:2741 widgets/premium-post-ticker.php:2796
+#: widgets/premium-post-ticker.php:2986 widgets/premium-pricing-table.php:1465
+#: widgets/premium-pricing-table.php:1733
+#: widgets/premium-pricing-table.php:1826
+#: widgets/premium-pricing-table.php:1871
+#: widgets/premium-pricing-table.php:1947
+#: widgets/premium-pricing-table.php:1996
+#: widgets/premium-pricing-table.php:2052
+#: widgets/premium-pricing-table.php:2165
+#: widgets/premium-pricing-table.php:2199
+#: widgets/premium-pricing-table.php:2385
+#: widgets/premium-pricing-table.php:2450
+#: widgets/premium-pricing-table.php:2648
+#: widgets/premium-pricing-table.php:2804 widgets/premium-progressbar.php:1135
+#: widgets/premium-progressbar.php:1181 widgets/premium-progressbar.php:1231
+#: widgets/premium-progressbar.php:1425 widgets/premium-progressbar.php:1471
+#: widgets/premium-progressbar.php:1556 widgets/premium-progressbar.php:1603
+#: widgets/premium-testimonials.php:917 widgets/premium-testimonials.php:969
+#: widgets/premium-testimonials.php:1045 widgets/premium-testimonials.php:1149
+#: widgets/premium-testimonials.php:1193 widgets/premium-testimonials.php:1277
+#: widgets/premium-textual-showcase.php:678
+#: widgets/premium-textual-showcase.php:1286
+#: widgets/premium-textual-showcase.php:1620
+#: widgets/premium-tiktok-feed.php:795 widgets/premium-tiktok-feed.php:1521
+#: widgets/premium-tiktok-feed.php:1573 widgets/premium-tiktok-feed.php:1643
+#: widgets/premium-tiktok-feed.php:1706 widgets/premium-tiktok-feed.php:1767
+#: widgets/premium-tiktok-feed.php:1873 widgets/premium-tiktok-feed.php:2028
+#: widgets/premium-tiktok-feed.php:2070 widgets/premium-title.php:1103
+#: widgets/premium-title.php:1563 widgets/premium-title.php:1799
+#: widgets/premium-videobox.php:1261 widgets/premium-videobox.php:1870
+#: widgets/premium-videobox.php:2233 widgets/premium-videobox.php:2383
+#: widgets/premium-weather.php:1363 widgets/premium-weather.php:1488
+#: widgets/premium-weather.php:1837 widgets/premium-weather.php:1972
+#: widgets/premium-weather.php:2015 widgets/premium-weather.php:2055
+#: widgets/premium-weather.php:2413 widgets/premium-weather.php:2457
+#: widgets/premium-weather.php:2889 widgets/premium-weather.php:2943
+#: widgets/premium-weather.php:3007 widgets/premium-weather.php:3059
+#: widgets/premium-weather.php:3176 widgets/premium-weather.php:3225
+#: widgets/premium-weather.php:3273 widgets/premium-weather.php:3351
+#: widgets/premium-weather.php:3434 widgets/premium-weather.php:3462
+#: widgets/premium-weather.php:3535 widgets/premium-weather.php:3621
+#: widgets/premium-world-clock.php:1449 widgets/premium-world-clock.php:1585
+#: widgets/premium-world-clock.php:1626 widgets/premium-world-clock.php:1761
+#: widgets/premium-world-clock.php:1991 widgets/premium-world-clock.php:2127
+#: widgets/premium-world-clock.php:2274 widgets/premium-world-clock.php:2411
+#: widgets/premium-world-clock.php:2594 widgets/premium-world-clock.php:2656
+#: widgets/premium-world-clock.php:2725 widgets/premium-world-clock.php:2896
+msgid "Color"
+msgstr "Cor"
+
+#: widgets/premium-banner.php:650
+msgid "Hover Opacity"
+msgstr "Opacidade ao passar o mouse"
+
+#: widgets/premium-banner.php:424
+msgid "Premium Banner gives you a wide range of styles and options that you will definitely fall in love with"
+msgstr "Premium Banner dá-lhe uma ampla gama de estilos e opções que você vai definitivamente se apaixonar por"
+
+#: modules/woocommerce/skins/skin-1.php:280
+#: modules/woocommerce/skins/skin-2.php:263
+#: modules/woocommerce/skins/skin-3.php:271
+#: modules/woocommerce/skins/skin-4.php:275
+#: modules/woocommerce/skins/skin-5.php:242
+#: modules/woocommerce/skins/skin-6.php:279 widgets/premium-banner.php:413
+#: widgets/premium-banner.php:421 widgets/premium-banner.php:901
+#: widgets/premium-contactform.php:297 widgets/premium-contactform.php:556
+#: widgets/premium-counter.php:182 widgets/premium-grid.php:835
+#: widgets/premium-grid.php:1561 widgets/premium-maps.php:325
+#: widgets/premium-maps.php:919 widgets/premium-media-wheel.php:724
+#: widgets/premium-media-wheel.php:1474 widgets/premium-person.php:481
+#: widgets/premium-person.php:762 widgets/premium-person.php:1337
+#: widgets/premium-pinterest-feed.php:629
+#: widgets/premium-pinterest-feed.php:1915
+#: widgets/premium-pricing-table.php:1047
+#: widgets/premium-pricing-table.php:1057
+#: widgets/premium-pricing-table.php:1426
+#: widgets/premium-pricing-table.php:2431 widgets/premium-tiktok-feed.php:511
+#: widgets/premium-tiktok-feed.php:1620 widgets/premium-videobox.php:1531
+#: widgets/premium-weather.php:1088 widgets/premium-weather.php:1583
+msgid "Description"
+msgstr "Descrição"
+
+#: modules/premium-shape-divider/module.php:277
+#: modules/woocommerce/skins/skin-1.php:207
+#: modules/woocommerce/skins/skin-2.php:194
+#: modules/woocommerce/skins/skin-3.php:194
+#: modules/woocommerce/skins/skin-4.php:227
+#: modules/woocommerce/skins/skin-5.php:173
+#: modules/woocommerce/skins/skin-6.php:203
+#: modules/woocommerce/skins/skin-7.php:191
+#: modules/woocommerce/skins/skin-8.php:191
+#: modules/woocommerce/skins/skin-9.php:189
+#: modules/woocommerce/skins/skin-10.php:189
+#: modules/woocommerce/skins/skin-11.php:191
+#: modules/woocommerce/widgets/woo-products.php:397
+#: modules/woocommerce/widgets/woo-products.php:951
+#: widgets/premium-banner.php:444 widgets/premium-blog.php:845
+#: widgets/premium-blog.php:1149 widgets/premium-blog.php:1432
+#: widgets/premium-button.php:1055 widgets/premium-contactform.php:479
+#: widgets/premium-contactform.php:1397 widgets/premium-countdown.php:603
+#: widgets/premium-counter.php:277 widgets/premium-counter.php:634
+#: widgets/premium-counter.php:689 widgets/premium-counter.php:719
+#: widgets/premium-dual-header.php:300 widgets/premium-dual-header.php:355
+#: widgets/premium-dual-header.php:518 widgets/premium-fancytext.php:224
+#: widgets/premium-fancytext.php:483 widgets/premium-grid.php:351
+#: widgets/premium-grid.php:575 widgets/premium-grid.php:1151
+#: widgets/premium-icon-list.php:1173 widgets/premium-icon-list.php:1219
+#: widgets/premium-icon-list.php:1270 widgets/premium-image-button.php:1003
+#: widgets/premium-image-separator.php:550 widgets/premium-lottie.php:371
+#: widgets/premium-maps.php:904 widgets/premium-maps.php:986
+#: widgets/premium-media-wheel.php:1546 widgets/premium-modalbox.php:1124
+#: widgets/premium-nav-menu.php:802 widgets/premium-nav-menu.php:836
+#: widgets/premium-nav-menu.php:1033 widgets/premium-nav-menu.php:1060
+#: widgets/premium-nav-menu.php:1698 widgets/premium-nav-menu.php:1726
+#: widgets/premium-nav-menu.php:1776 widgets/premium-nav-menu.php:2936
+#: widgets/premium-nav-menu.php:4190 widgets/premium-notifications.php:569
+#: widgets/premium-notifications.php:736 widgets/premium-notifications.php:1705
+#: widgets/premium-person.php:242 widgets/premium-person.php:289
+#: widgets/premium-pricing-table.php:1023
+#: widgets/premium-pricing-table.php:1266
+#: widgets/premium-pricing-table.php:1287
+#: widgets/premium-pricing-table.php:2355 widgets/premium-progressbar.php:828
+#: widgets/premium-svg-drawer.php:305 widgets/premium-tcloud.php:333
+#: widgets/premium-testimonials.php:1030 widgets/premium-testimonials.php:1391
+#: widgets/premium-textual-showcase.php:633
+#: widgets/premium-textual-showcase.php:1241 widgets/premium-title.php:586
+#: widgets/premium-title.php:641 widgets/premium-title.php:672
+#: widgets/premium-title.php:814 widgets/premium-videobox.php:2360
+#: widgets/premium-vscroll.php:301 widgets/premium-vscroll.php:399
+#: widgets/premium-weather.php:584 widgets/premium-weather.php:616
+#: widgets/premium-weather.php:690 widgets/premium-weather.php:838
+#: widgets/premium-world-clock.php:1106 widgets/premium-world-clock.php:1272
+msgid "Right"
+msgstr "Direita"
+
+#: widgets/premium-banner.php:865
+msgid "Choose a background color for the title"
+msgstr "Escolha uma cor de fundo para o título"
+
+#: modules/woocommerce/skins/skin-1.php:203
+#: modules/woocommerce/skins/skin-2.php:190
+#: modules/woocommerce/skins/skin-3.php:190
+#: modules/woocommerce/skins/skin-4.php:223
+#: modules/woocommerce/skins/skin-5.php:169
+#: modules/woocommerce/skins/skin-6.php:199
+#: modules/woocommerce/skins/skin-7.php:187
+#: modules/woocommerce/skins/skin-8.php:187
+#: modules/woocommerce/skins/skin-8.php:291
+#: modules/woocommerce/skins/skin-9.php:185
+#: modules/woocommerce/skins/skin-10.php:185
+#: modules/woocommerce/skins/skin-11.php:187
+#: modules/woocommerce/widgets/woo-products.php:393
+#: modules/woocommerce/widgets/woo-products.php:947
+#: widgets/premium-banner.php:440 widgets/premium-blog.php:841
+#: widgets/premium-blog.php:873 widgets/premium-blog.php:1145
+#: widgets/premium-blog.php:1428 widgets/premium-button.php:1051
+#: widgets/premium-contactform.php:475 widgets/premium-contactform.php:1393
+#: widgets/premium-countdown.php:477 widgets/premium-countdown.php:599
+#: widgets/premium-counter.php:273 widgets/premium-counter.php:685
+#: widgets/premium-counter.php:715 widgets/premium-dual-header.php:296
+#: widgets/premium-dual-header.php:351 widgets/premium-dual-header.php:380
+#: widgets/premium-dual-header.php:514 widgets/premium-fancytext.php:220
+#: widgets/premium-fancytext.php:479 widgets/premium-fancytext.php:719
+#: widgets/premium-grid.php:347 widgets/premium-grid.php:571
+#: widgets/premium-grid.php:1147 widgets/premium-icon-list.php:1169
+#: widgets/premium-icon-list.php:1215 widgets/premium-icon-list.php:1244
+#: widgets/premium-image-button.php:999 widgets/premium-image-separator.php:546
+#: widgets/premium-lottie.php:367 widgets/premium-maps.php:900
+#: widgets/premium-maps.php:982 widgets/premium-media-wheel.php:928
+#: widgets/premium-media-wheel.php:1542 widgets/premium-modalbox.php:1120
+#: widgets/premium-nav-menu.php:798 widgets/premium-nav-menu.php:832
+#: widgets/premium-nav-menu.php:1056 widgets/premium-nav-menu.php:1694
+#: widgets/premium-nav-menu.php:1722 widgets/premium-nav-menu.php:1772
+#: widgets/premium-notifications.php:565 widgets/premium-notifications.php:1701
+#: widgets/premium-person.php:238 widgets/premium-person.php:285
+#: widgets/premium-pricing-table.php:1019
+#: widgets/premium-pricing-table.php:2351 widgets/premium-progressbar.php:824
+#: widgets/premium-svg-drawer.php:301 widgets/premium-tcloud.php:329
+#: widgets/premium-testimonials.php:1026 widgets/premium-testimonials.php:1387
+#: widgets/premium-textual-showcase.php:629
+#: widgets/premium-textual-showcase.php:1237
+#: widgets/premium-textual-showcase.php:1920
+#: widgets/premium-tiktok-feed.php:645 widgets/premium-title.php:582
+#: widgets/premium-title.php:637 widgets/premium-title.php:668
+#: widgets/premium-title.php:810 widgets/premium-videobox.php:2356
+#: widgets/premium-videobox.php:2540 widgets/premium-weather.php:580
+#: widgets/premium-weather.php:612 widgets/premium-weather.php:686
+#: widgets/premium-weather.php:834 widgets/premium-world-clock.php:1033
+#: widgets/premium-world-clock.php:1061 widgets/premium-world-clock.php:1102
+#: widgets/premium-world-clock.php:1187 widgets/premium-world-clock.php:1268
+msgid "Center"
+msgstr "Centralizado"
+
+#: modules/premium-shape-divider/module.php:273
+#: modules/woocommerce/skins/skin-1.php:199
+#: modules/woocommerce/skins/skin-2.php:186
+#: modules/woocommerce/skins/skin-3.php:186
+#: modules/woocommerce/skins/skin-4.php:219
+#: modules/woocommerce/skins/skin-5.php:165
+#: modules/woocommerce/skins/skin-6.php:195
+#: modules/woocommerce/skins/skin-7.php:183
+#: modules/woocommerce/skins/skin-8.php:183
+#: modules/woocommerce/skins/skin-9.php:181
+#: modules/woocommerce/skins/skin-10.php:181
+#: modules/woocommerce/skins/skin-11.php:183
+#: modules/woocommerce/widgets/woo-products.php:389
+#: modules/woocommerce/widgets/woo-products.php:943
+#: widgets/premium-banner.php:436 widgets/premium-blog.php:837
+#: widgets/premium-blog.php:1141 widgets/premium-blog.php:1424
+#: widgets/premium-button.php:1047 widgets/premium-contactform.php:471
+#: widgets/premium-contactform.php:1389 widgets/premium-countdown.php:595
+#: widgets/premium-counter.php:269 widgets/premium-counter.php:635
+#: widgets/premium-counter.php:681 widgets/premium-counter.php:711
+#: widgets/premium-dual-header.php:292 widgets/premium-dual-header.php:347
+#: widgets/premium-dual-header.php:510 widgets/premium-fancytext.php:216
+#: widgets/premium-fancytext.php:475 widgets/premium-grid.php:343
+#: widgets/premium-grid.php:567 widgets/premium-grid.php:1143
+#: widgets/premium-icon-list.php:1165 widgets/premium-icon-list.php:1211
+#: widgets/premium-icon-list.php:1274 widgets/premium-image-button.php:995
+#: widgets/premium-image-separator.php:542 widgets/premium-lottie.php:363
+#: widgets/premium-maps.php:896 widgets/premium-maps.php:978
+#: widgets/premium-media-wheel.php:1538 widgets/premium-modalbox.php:1116
+#: widgets/premium-nav-menu.php:794 widgets/premium-nav-menu.php:828
+#: widgets/premium-nav-menu.php:1029 widgets/premium-nav-menu.php:1052
+#: widgets/premium-nav-menu.php:1690 widgets/premium-nav-menu.php:1718
+#: widgets/premium-nav-menu.php:1768 widgets/premium-nav-menu.php:2932
+#: widgets/premium-nav-menu.php:4186 widgets/premium-notifications.php:561
+#: widgets/premium-notifications.php:735 widgets/premium-notifications.php:1697
+#: widgets/premium-person.php:234 widgets/premium-person.php:281
+#: widgets/premium-pricing-table.php:1015
+#: widgets/premium-pricing-table.php:1262
+#: widgets/premium-pricing-table.php:1283
+#: widgets/premium-pricing-table.php:2347 widgets/premium-progressbar.php:820
+#: widgets/premium-svg-drawer.php:297 widgets/premium-tcloud.php:325
+#: widgets/premium-testimonials.php:1022 widgets/premium-testimonials.php:1383
+#: widgets/premium-textual-showcase.php:625
+#: widgets/premium-textual-showcase.php:1233 widgets/premium-title.php:578
+#: widgets/premium-title.php:633 widgets/premium-title.php:664
+#: widgets/premium-title.php:806 widgets/premium-videobox.php:2352
+#: widgets/premium-vscroll.php:300 widgets/premium-vscroll.php:398
+#: widgets/premium-weather.php:576 widgets/premium-weather.php:608
+#: widgets/premium-weather.php:682 widgets/premium-weather.php:830
+#: widgets/premium-world-clock.php:1098 widgets/premium-world-clock.php:1264
+msgid "Left"
+msgstr "Esquerda"
+
+#: widgets/premium-banner.php:381
+msgid "Give a title to this banner"
+msgstr "Dê um título a este banner"
+
+#: widgets/premium-banner.php:209
+msgid "Set custom Link"
+msgstr "Definir link personalizado"
+
+#: widgets/premium-title.php:192
+msgid "Premium Title"
+msgstr "Premium Título"
+
+#: widgets/premium-banner.php:384
+msgid "Premium Banner"
+msgstr "Premium Banner"
+
+#: modules/woocommerce/skins/skin-1.php:195
+#: modules/woocommerce/skins/skin-2.php:182
+#: modules/woocommerce/skins/skin-3.php:182
+#: modules/woocommerce/skins/skin-4.php:215
+#: modules/woocommerce/skins/skin-5.php:161
+#: modules/woocommerce/skins/skin-6.php:191
+#: modules/woocommerce/skins/skin-8.php:179
+#: modules/woocommerce/skins/skin-11.php:179
+#: modules/woocommerce/widgets/woo-products.php:939
+#: widgets/premium-banner.php:432 widgets/premium-blog.php:833
+#: widgets/premium-blog.php:1137 widgets/premium-blog.php:1420
+#: widgets/premium-button.php:1043 widgets/premium-contactform.php:467
+#: widgets/premium-contactform.php:1384 widgets/premium-countdown.php:591
+#: widgets/premium-counter.php:265 widgets/premium-dual-header.php:288
+#: widgets/premium-dual-header.php:506 widgets/premium-fancytext.php:212
+#: widgets/premium-grid.php:563 widgets/premium-icon-list.php:1160
+#: widgets/premium-image-button.php:991 widgets/premium-image-separator.php:538
+#: widgets/premium-lottie.php:359 widgets/premium-maps.php:892
+#: widgets/premium-maps.php:974 widgets/premium-media-wheel.php:920
+#: widgets/premium-media-wheel.php:1534 widgets/premium-modalbox.php:1112
+#: widgets/premium-notifications.php:557 widgets/premium-notifications.php:1693
+#: widgets/premium-person.php:230 widgets/premium-pricing-table.php:1011
+#: widgets/premium-pricing-table.php:2343 widgets/premium-svg-drawer.php:293
+#: widgets/premium-tcloud.php:321 widgets/premium-testimonials.php:1018
+#: widgets/premium-testimonials.php:1379
+#: widgets/premium-textual-showcase.php:1912 widgets/premium-title.php:629
+#: widgets/premium-title.php:659 widgets/premium-videobox.php:2348
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: modules/woocommerce/skins/skin-1.php:559
+#: modules/woocommerce/skins/skin-2.php:134
+#: modules/woocommerce/skins/skin-3.php:130
+#: modules/woocommerce/skins/skin-4.php:163
+#: modules/woocommerce/skins/skin-5.php:674
+#: modules/woocommerce/skins/skin-6.php:114
+#: modules/woocommerce/skins/skin-7.php:120
+#: modules/woocommerce/skins/skin-8.php:120
+#: modules/woocommerce/skins/skin-9.php:118
+#: modules/woocommerce/skins/skin-10.php:118
+#: modules/woocommerce/skins/skin-11.php:120
+#: modules/woocommerce/skins/skin-base.php:66
+#: modules/woocommerce/widgets/woo-products.php:818
+#: widgets/premium-banner.php:380 widgets/premium-banner.php:829
+#: widgets/premium-blog.php:508 widgets/premium-blog.php:1847
+#: widgets/premium-contactform.php:247 widgets/premium-contactform.php:494
+#: widgets/premium-counter.php:172 widgets/premium-grid.php:822
+#: widgets/premium-grid.php:1517 widgets/premium-icon-list.php:199
+#: widgets/premium-icon-list.php:1836 widgets/premium-media-wheel.php:709
+#: widgets/premium-media-wheel.php:1424 widgets/premium-modalbox.php:324
+#: widgets/premium-nav-menu.php:1492 widgets/premium-nav-menu.php:1925
+#: widgets/premium-notifications.php:1428
+#: widgets/premium-notifications.php:2592
+#: widgets/premium-notifications.php:3023 widgets/premium-person.php:470
+#: widgets/premium-person.php:751 widgets/premium-post-ticker.php:1291
+#: widgets/premium-post-ticker.php:2002 widgets/premium-pricing-table.php:459
+#: widgets/premium-pricing-table.php:1399
+#: widgets/premium-pricing-table.php:1722 widgets/premium-progressbar.php:1127
+#: widgets/premium-title.php:183 widgets/premium-title.php:190
+#: widgets/premium-title.php:1095 widgets/premium-weather.php:505
+#: widgets/premium-weather.php:519 widgets/premium-weather.php:1342
+#: widgets/premium-world-clock.php:687 widgets/premium-world-clock.php:1563
+msgid "Title"
+msgstr "Título"
+
+#: modules/premium-section-floating-effects/module.php:726
+#: modules/woocommerce/skins/skin-7.php:266
+#: modules/woocommerce/skins/skin-base.php:227
+#: modules/woocommerce/widgets/woo-products.php:1776
+#: modules/woocommerce/widgets/woo-products.php:1827
+#: modules/woocommerce/widgets/woo-products.php:1878
+#: modules/woocommerce/widgets/woo-products.php:1981
+#: modules/woocommerce/widgets/woo-products.php:2132
+#: modules/woocommerce/widgets/woo-products.php:2322
+#: modules/woocommerce/widgets/woo-products.php:2565
+#: widgets/premium-banner.php:618 widgets/premium-banner.php:1003
+#: widgets/premium-banner.php:1170 widgets/premium-blog.php:1528
+#: widgets/premium-blog.php:1586 widgets/premium-blog.php:1955
+#: widgets/premium-blog.php:2148 widgets/premium-blog.php:2261
+#: widgets/premium-blog.php:2312 widgets/premium-blog.php:2419
+#: widgets/premium-blog.php:2555 widgets/premium-blog.php:2641
+#: widgets/premium-blog.php:2727 widgets/premium-blog.php:2934
+#: widgets/premium-button.php:1255 widgets/premium-button.php:1476
+#: widgets/premium-carousel.php:944 widgets/premium-carousel.php:999
+#: widgets/premium-contactform.php:394 widgets/premium-contactform.php:781
+#: widgets/premium-contactform.php:829 widgets/premium-contactform.php:925
+#: widgets/premium-contactform.php:1275 widgets/premium-contactform.php:1327
+#: widgets/premium-contactform.php:1456 widgets/premium-contactform.php:1547
+#: widgets/premium-contactform.php:1651 widgets/premium-countdown.php:970
+#: widgets/premium-countdown.php:1135 widgets/premium-countdown.php:1342
+#: widgets/premium-countdown.php:1459 widgets/premium-counter.php:948
+#: widgets/premium-counter.php:1145 widgets/premium-counter.php:1245
+#: widgets/premium-fancytext.php:559 widgets/premium-fancytext.php:780
+#: widgets/premium-fancytext.php:826 widgets/premium-grid.php:1750
+#: widgets/premium-grid.php:1841 widgets/premium-grid.php:1959
+#: widgets/premium-grid.php:2037 widgets/premium-grid.php:2118
+#: widgets/premium-grid.php:2452 widgets/premium-icon-list.php:1539
+#: widgets/premium-image-separator.php:819 widgets/premium-lottie.php:546
+#: widgets/premium-lottie.php:592 widgets/premium-maps.php:773
+#: widgets/premium-maps.php:848 widgets/premium-media-wheel.php:1358
+#: widgets/premium-media-wheel.php:1948 widgets/premium-media-wheel.php:2023
+#: widgets/premium-media-wheel.php:2213 widgets/premium-media-wheel.php:2280
+#: widgets/premium-media-wheel.php:2343 widgets/premium-modalbox.php:1340
+#: widgets/premium-modalbox.php:1534 widgets/premium-modalbox.php:1647
+#: widgets/premium-modalbox.php:1723 widgets/premium-modalbox.php:1775
+#: widgets/premium-modalbox.php:1892 widgets/premium-modalbox.php:1950
+#: widgets/premium-nav-menu.php:2497 widgets/premium-nav-menu.php:2820
+#: widgets/premium-nav-menu.php:2988 widgets/premium-nav-menu.php:3070
+#: widgets/premium-nav-menu.php:4242 widgets/premium-nav-menu.php:4320
+#: widgets/premium-notifications.php:2001
+#: widgets/premium-notifications.php:2142
+#: widgets/premium-notifications.php:2285
+#: widgets/premium-notifications.php:2400
+#: widgets/premium-notifications.php:2526
+#: widgets/premium-notifications.php:2706
+#: widgets/premium-notifications.php:2774
+#: widgets/premium-notifications.php:3203
+#: widgets/premium-notifications.php:3317
+#: widgets/premium-notifications.php:3368
+#: widgets/premium-notifications.php:3476 widgets/premium-person.php:1444
+#: widgets/premium-person.php:1559 widgets/premium-person.php:1680
+#: widgets/premium-pinterest-feed.php:1286
+#: widgets/premium-pinterest-feed.php:2092
+#: widgets/premium-pinterest-feed.php:2455 widgets/premium-post-ticker.php:2755
+#: widgets/premium-post-ticker.php:2810 widgets/premium-pricing-table.php:1589
+#: widgets/premium-pricing-table.php:2407
+#: widgets/premium-pricing-table.php:2829
+#: widgets/premium-pricing-table.php:2847 widgets/premium-progressbar.php:1282
+#: widgets/premium-tcloud.php:564 widgets/premium-tcloud.php:676
+#: widgets/premium-testimonials.php:1317 widgets/premium-tiktok-feed.php:1266
+#: widgets/premium-tiktok-feed.php:1781 widgets/premium-tiktok-feed.php:2096
+#: widgets/premium-tiktok-feed.php:2186 widgets/premium-title.php:1205
+#: widgets/premium-title.php:1223 widgets/premium-videobox.php:2037
+#: widgets/premium-videobox.php:2247 widgets/premium-videobox.php:2318
+#: widgets/premium-videobox.php:2397 widgets/premium-videobox.php:2483
+#: widgets/premium-vscroll.php:858 widgets/premium-vscroll.php:955
+#: widgets/premium-vscroll.php:1015 widgets/premium-weather.php:2901
+#: widgets/premium-weather.php:2955 widgets/premium-weather.php:3018
+#: widgets/premium-weather.php:3070
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: widgets/premium-blog.php:1030 widgets/premium-notifications.php:1666
+msgid "Display or hide categories meta"
+msgstr "Exibir ou ocultar meta de categorias"
+
+#: widgets/premium-blog.php:1039 widgets/premium-notifications.php:1675
+msgid "Display or hide comments meta"
+msgstr "Exibir ou ocultar meta de comentários"
+
+#: widgets/premium-counter.php:218
+msgid "Separator converts 125000 into 125,000"
+msgstr "Separador converte 125000 em 125.000"
